@@ -6,6 +6,8 @@ Deals & offer price tracker, catalog history recorder, and static analytics dash
 
 ## 🌐 Dashboard & Live Preview
 
+👉 **Live Dashboard**: [https://ranehal.github.io/sharedeal-analytics/](https://ranehal.github.io/sharedeal-analytics/)
+
 ![Dashboard Preview](screenshots/dashboard.png)
 
 ---

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShareDeal // Price Tracker</title>
+    <meta http-equiv="refresh" content="0; url=frontend/">
+    <link rel="canonical" href="frontend/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0a0a0a;
+            --panel: #111111;
+            --border: #232323;
+            --text: #e8e8e8;
+            --muted: #9aa4b2;
+            --accent: #7fbf3a;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 24px;
+            text-align: center;
+        }
+        .card {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            padding: 2.5rem;
+            border-radius: 1rem;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.7);
+            max-width: 440px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .logo {
+            width: 52px;
+            height: 52px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #7fbf3a, #3d6b1a);
+            color: #000;
+            font-weight: 800;
+            font-size: 20px;
+            border-radius: 14px;
+            margin-bottom: 1.25rem;
+            letter-spacing: 1px;
+        }
+        h1 {
+            font-size: 1.35rem;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+        }
+        h1 span {
+            color: var(--accent);
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            display: block;
+            margin-top: 0.25rem;
+        }
+        p {
+            color: var(--muted);
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
+        }
+        a {
+            display: inline-block;
+            background: linear-gradient(135deg, #7fbf3a, #5b9424);
+            color: #000000;
+            padding: 0.75rem 1.75rem;
+            border-radius: 0.5rem;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 0.95rem;
+            transition: opacity 0.2s, transform 0.1s;
+        }
+        a:hover {
+            opacity: 0.9;
+            transform: translateY(-1px);
+        }
+        .spinner {
+            width: 20px;
+            height: 20px;
+            border: 2px solid rgba(127, 191, 58, 0.2);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-bottom: 1rem;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+    <script>
+        window.location.replace("frontend/" + window.location.search + window.location.hash);
+    </script>
+</head>
+<body>
+    <div class="card">
+        <div class="logo">SD</div>
+        <div class="spinner"></div>
+        <h1>SHAREDEAL <span>PRICE TRACKER</span></h1>
+        <p>Redirecting to dashboard…</p>
+        <a href="frontend/">Open Dashboard</a>
+    </div>
+</body>
+</html>
