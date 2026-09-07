@@ -25,10 +25,10 @@
     "name": "Starship Full Cream Milk Powder 500gm",
     "slug": "starship-full-cream-milk-powder-500gm",
     "sku": "GjA5mBEU",
-    "category_id": "23",
+    "category_id": "31",
     "category": null,
     "unit": "Piece",
-    "volume": null,
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/565/starship-full-cream-milk-powder-500-gm%5B1%5D",
     "best_selling": null,
     "history": [
@@ -46,10 +46,10 @@
     "name": "Nescafe 3 In 1 Original Instant Coffee",
     "slug": "nescafe-3-in-1-original-instant-coffee",
     "sku": "RVKvxMi5",
-    "category_id": "23",
+    "category_id": "24",
     "category": null,
     "unit": "Piece",
-    "volume": "0",
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/525/Nescafe-3-In-1-Original.png",
     "best_selling": null,
     "history": [
@@ -596,7 +596,7 @@
         "price": 65.0,
         "offer": 50.0,
         "group": 45.0,
-        "stock": 1086.0
+        "stock": 1084.0
       }
     ]
   },
@@ -701,7 +701,7 @@
         "price": 32.0,
         "offer": 26.0,
         "group": 20.0,
-        "stock": 1024.0
+        "stock": 1000.0
       }
     ]
   },
@@ -1176,10 +1176,10 @@
     "name": "Sepnil Face Mask",
     "slug": "sepnil-face-mask",
     "sku": "5BMaaH3H",
-    "category_id": "22",
+    "category_id": "29",
     "category": null,
     "unit": "Piece",
-    "volume": "0",
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/788/converted-512x512.png",
     "best_selling": null,
     "history": [
@@ -1197,7 +1197,7 @@
     "name": "Mr. Noodles Magic Masala Flavor 12 pcs Family Pack",
     "slug": "mr-noodles-magic-masala-flavor-12-pcs-family-pack",
     "sku": "DduqbyU7",
-    "category_id": "25",
+    "category_id": "23",
     "category": null,
     "unit": "Piece",
     "volume": "1",
@@ -1790,10 +1790,10 @@
     "name": "Banoful Special Lachha Shemai 200gm",
     "slug": "banoful-special-lachha-shemai-200gm",
     "sku": "2TEjTM95",
-    "category_id": "31",
+    "category_id": "23",
     "category": null,
     "unit": "Piece",
-    "volume": null,
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/628/65fa9630d61902ef23078d6e_Banoful-Special-Lachha-Shemai-200gm_1%5B1%5D.webp",
     "best_selling": null,
     "history": [
@@ -2102,8 +2102,8 @@
   },
   "409": {
     "id": 409,
-    "name": "Fresh Fortified Soybean Oil 1 Liter",
-    "slug": "fresh-fortified-soybean-oil-1-liter",
+    "name": "Fresh Fortified Soyabean Oil 1 Liter",
+    "slug": "fresh-fortified-soyabean-oil-1-liter",
     "sku": "QBj8Ejhp",
     "category_id": "37",
     "category": null,
@@ -2114,8 +2114,8 @@
     "history": [
       {
         "date": "2026-09-07",
-        "price": 205.0,
-        "offer": 200.0,
+        "price": 204.0,
+        "offer": 203.0,
         "group": null,
         "stock": 1003.0
       }
@@ -2241,8 +2241,8 @@
   },
   "392": {
     "id": 392,
-    "name": "Fresh Fortified Soybean Oil - 500 ML",
-    "slug": "fresh-fortified-soybean-oil-500-ml",
+    "name": "Fresh Fortified Soyabean Oil - 500 ML",
+    "slug": "fresh-fortified-soyabean-oil-500-ml",
     "sku": "18t0l0Gk",
     "category_id": "37",
     "category": null,
@@ -2505,9 +2505,9 @@
     "history": [
       {
         "date": "2026-09-07",
-        "price": 975.0,
-        "offer": 974.0,
-        "group": 970.0,
+        "price": 1000.0,
+        "offer": 999.0,
+        "group": 997.0,
         "stock": 1004.0
       }
     ]
@@ -5259,8 +5259,8 @@
   },
   "514": {
     "id": 514,
-    "name": "Fresh Soyabean Oil 2Ltr",
-    "slug": "fresh-soyabean-oil-2ltr",
+    "name": "Fresh Fortified Soyabean Oil 2 Ltr",
+    "slug": "fresh-fortified-soyabean-oil-2-ltr",
     "sku": "HUbOrAZK",
     "category_id": "37",
     "category": null,
@@ -5271,8 +5271,8 @@
     "history": [
       {
         "date": "2026-09-07",
-        "price": 400.0,
-        "offer": 396.0,
+        "price": 408.0,
+        "offer": 406.0,
         "group": null,
         "stock": 1000.0
       }
@@ -5337,7 +5337,7 @@
         "price": 72.0,
         "offer": 64.0,
         "group": 59.0,
-        "stock": 993.0
+        "stock": 982.0
       }
     ]
   },
