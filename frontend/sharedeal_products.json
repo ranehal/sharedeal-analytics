@@ -1,103 +1,89 @@
 {
   "store": "ShareDeal",
   "api_base": "https://sharedealnow.com/api/v1",
-  "captured_at": "2026-10-24",
+  "captured_at": "2026-10-25",
   "categories": [
     {
       "id": 5,
-      "name": "Cooking",
-      "slug": "cooking",
+      "name": "Kitchen & Home",
+      "slug": "kitchen-home",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/308/cooking.jpg"
     },
     {
       "id": 17,
-      "name": "Baby & Children Care",
-      "slug": "baby-children-care",
+      "name": "Baby Care",
+      "slug": "baby-care",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/560/beauty-product-still-life_23-2147817672[1].jpg"
     },
     {
       "id": 22,
-      "name": "Home & Cleaning",
-      "slug": "home-cleaning",
+      "name": "Cleaning & Tissue",
+      "slug": "cleaning-tissue",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/574/home-cleaning[1].png"
     },
     {
       "id": 23,
-      "name": "Snacks",
-      "slug": "snacks",
+      "name": "Snacks & Biscuits",
+      "slug": "snacks-biscuits",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/575/snacks[1]"
     },
     {
       "id": 24,
-      "name": "Beverages",
-      "slug": "beverages",
+      "name": "Tea, Coffee & Drinks",
+      "slug": "tea-coffee-drinks",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/576/beverages[1]"
     },
     {
-      "id": 25,
-      "name": "Sauces & Pickles",
-      "slug": "sauces-pickles",
-      "featured": "0",
-      "image": "https://sharedealnow.com/storage/577/sauces-pickles[1]"
-    },
-    {
-      "id": 29,
-      "name": "Tissue & Wipes",
-      "slug": "tissue-wipes",
-      "featured": "0",
-      "image": "https://sharedealnow.com/storage/581/tissue-wipes[1]"
-    },
-    {
       "id": 31,
-      "name": "Dairy & Breakfast",
-      "slug": "dairy-breakfast",
+      "name": "Eggs & Dairy",
+      "slug": "eggs-dairy",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/583/breakfast[1]"
     },
     {
       "id": 35,
-      "name": "Khan Rice",
-      "slug": "khan-rice",
+      "name": "Rice",
+      "slug": "rice",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1130/images.png"
     },
     {
       "id": 36,
-      "name": "Saad",
-      "slug": "saad",
+      "name": "Spices, Salt & Sauces",
+      "slug": "spices-salt-sauces",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1131/S68e83f0ae36a4d7ab25fda8d44b3e0e2q.jpg_720x720q80.jpg"
     },
     {
       "id": 37,
-      "name": "Fresh Fortified Oil",
-      "slug": "fresh-fortified-oil",
+      "name": "Oil & Ghee",
+      "slug": "oil-ghee",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1132/Fresh-Soyabean-oil.png"
     },
     {
       "id": 38,
-      "name": "Root Vegetables",
-      "slug": "root-vegetables",
+      "name": "Vegetables",
+      "slug": "vegetables",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1172/Gemini_Generated_Image_6deify6deify6dei.jpg"
     },
     {
       "id": 39,
-      "name": "Grains, Flours & Lentils",
-      "slug": "grains-flours-lentils",
+      "name": "Dal, Flour & Sugar",
+      "slug": "dal-flour-sugar",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1171/Gemini_Generated_Image_2jj6s52jj6s52jj6.jpg"
     },
     {
       "id": 40,
-      "name": "Dried Fruits",
-      "slug": "dried-fruits",
+      "name": "Dates, Nuts & Dried Fruits",
+      "slug": "dates-nuts-dried-fruits",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1173/Gemini_Generated_Image_hzt6aphzt6aphzt6.jpg"
     },
@@ -117,8 +103,8 @@
     },
     {
       "id": 45,
-      "name": "Beauty & Personal Care",
-      "slug": "beauty-personal-care",
+      "name": "Personal Care",
+      "slug": "personal-care",
       "featured": "0",
       "image": "https://sharedealnow.com/storage/1475/c1cd4d5e-8288-4ab2-bda5-31491b76349d.png"
     }
@@ -130,7 +116,7 @@
       "slug": "bombay-sweets-chanachur-500-gm",
       "sku": "TPUCOsgl",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1333/08_bombay-sweets-chanachur-500g.jpg",
@@ -625,6 +611,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -634,7 +627,7 @@
       "slug": "starship-full-cream-milk-powder-500gm",
       "sku": "GjA5mBEU",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/565/starship-full-cream-milk-powder-500-gm[1]",
@@ -1129,6 +1122,13 @@
           "offer": 370.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 380.0,
+          "offer": 370.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -1138,7 +1138,7 @@
       "slug": "nescafe-3-in-1-original-instant-coffee",
       "sku": "RVKvxMi5",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1460/nescafe-3in1-original-14g-1200.jpg",
@@ -1559,6 +1559,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 15.0,
+          "offer": 14.0,
+          "group": null,
+          "stock": 1030.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 15.0,
           "offer": 14.0,
           "group": null,
@@ -2067,6 +2074,13 @@
           "offer": 180.0,
           "group": 165.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 180.0,
+          "offer": 180.0,
+          "group": 165.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -2076,7 +2090,7 @@
       "slug": "olympic-lexus-vegetable-crackers-biscuits-216-gm",
       "sku": "bW7tIXHA",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "300",
       "image": "https://sharedealnow.com/storage/508/olympic-lexus-vegetable-crackers-biscuits-216-gm.jpg",
@@ -2571,6 +2585,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1197.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1197.0
         }
       ]
     },
@@ -2580,7 +2601,7 @@
       "slug": "haque-mr-cookie-butter-coconut-biscuit-175gm",
       "sku": "DJqjYTB9",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "100",
       "image": "https://sharedealnow.com/storage/507/haque-mr-cookie-butter-coconut-biscuit-175-gm.jpg",
@@ -3075,6 +3096,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -3084,7 +3112,7 @@
       "slug": "ruchi-jhal-chanachur-150gm",
       "sku": "xlWCCjPx",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/506/ruchi-jhal-chanachur-150-gm.jpg",
@@ -3579,6 +3607,13 @@
           "offer": 48.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -3588,7 +3623,7 @@
       "slug": "ruchi-bbq-chanachur-150gm",
       "sku": "ziDGlujD",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/505/ruchi-bbq-chanachur-150-gm.jpg",
@@ -4083,6 +4118,13 @@
           "offer": 48.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -4092,7 +4134,7 @@
       "slug": "pringles-sour-cream-onion",
       "sku": "WNQGzjz0",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/504/pringles-sour-cream-onion-potato-chips-134-gm.jpg",
@@ -4587,6 +4629,13 @@
           "offer": 342.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 350.0,
+          "offer": 342.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -4596,7 +4645,7 @@
       "slug": "sun-chips-tomato-tango",
       "sku": "0xQRO3mX",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/503/sun-chips-tomato-tango-20-gm.jpg",
@@ -5091,6 +5140,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -5100,7 +5156,7 @@
       "slug": "bombay-sweets-potato-crackers",
       "sku": "S5b7qXlJ",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/502/bombay-sweets-potato-crackers-28-gm.jpg",
@@ -5595,6 +5651,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -5604,7 +5667,7 @@
       "slug": "doodles-stick-noodles-150-gm",
       "sku": "xcUdNg20",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/418/download.jpeg",
@@ -6099,6 +6162,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -6108,7 +6178,7 @@
       "slug": "cocola-chicken-masala-stick-noodles",
       "sku": "BjOBZr6O",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/417/cocola-chicken-masala-noodles-180-gm.jpg",
@@ -6603,6 +6673,13 @@
           "offer": 23.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 25.0,
+          "offer": 23.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -6612,7 +6689,7 @@
       "slug": "mrnoodles-magic-masala-easy-instant",
       "sku": "BDWE4VJ2",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/416/images-(2).jpeg",
@@ -7107,6 +7184,13 @@
           "offer": 165.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 170.0,
+          "offer": 165.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -7116,7 +7200,7 @@
       "slug": "pran-vermicelli-200-gm",
       "sku": "yYlQ1kOV",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/415/750_750_0049_vermicelli-pack.png",
@@ -7611,6 +7695,13 @@
           "offer": 43.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 45.0,
+          "offer": 43.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -7620,7 +7711,7 @@
       "slug": "pran-lachcha-semai-200-gm",
       "sku": "pR9VXTxp",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/414/images-(1).jpeg",
@@ -8115,6 +8206,13 @@
           "offer": 45.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -8124,7 +8222,7 @@
       "slug": "kolson-vermicelli-semai-200gm",
       "sku": "Pa5akXrR",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/413/kolson-vermicelli-semai-200gm-600x600.jpg",
@@ -8619,6 +8717,13 @@
           "offer": 40.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 45.0,
+          "offer": 40.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -8628,7 +8733,7 @@
       "slug": "kolson-laccha-shemai-200-gm",
       "sku": "ZLMpA1Zs",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/412/kolson-special-lascha-semai-175-gm.jpeg",
@@ -9123,6 +9228,13 @@
           "offer": 45.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -9131,10 +9243,10 @@
       "name": "Ispi Orange Drink - 250gm",
       "slug": "ispi-orange-drink-250gm",
       "sku": "YHaD7nJn",
-      "category_id": "23",
-      "category": "Snacks",
+      "category_id": "24",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/398/images-(1).jpg",
       "best_selling": "0",
       "history": [
@@ -9627,6 +9739,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 160.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -9636,7 +9755,7 @@
       "slug": "mr-noodles-single-pack",
       "sku": "A4XqzXWN",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/397/1705933469_1623935687.png",
@@ -10131,6 +10250,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -10139,10 +10265,10 @@
       "name": "Fresh Perfumed Facial Tissue (150 X 2) ply Box",
       "slug": "fresh-perfumed-facial-tissue-150-x-2-ply-box",
       "sku": "4bszipf2",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/524/Fresh-Perfumed-Facial-Tissue.png",
       "best_selling": "0",
       "history": [
@@ -10635,6 +10761,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 115.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -10643,8 +10776,8 @@
       "name": "Partex Cleen Hand Towel 200X2Ply",
       "slug": "partex-cleen-hand-towel-200x2ply",
       "sku": "osNcIeGi",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/481/partex-cleen-hand-towel-200x2-ply-1-pcs.jpg",
@@ -11139,6 +11272,13 @@
           "offer": 81.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 85.0,
+          "offer": 81.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -11147,8 +11287,8 @@
       "name": "Partex Cleen Toilet Tissue-3 ply (Blue Tissue) 4 roll",
       "slug": "partex-cleen-toilet-tissue-3-ply-blue-tissue-4-roll",
       "sku": "q4vuzhLp",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "4",
       "image": "https://sharedealnow.com/storage/473/hlci01000310cac.jpg",
@@ -11643,6 +11783,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1021.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 95.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1021.0
         }
       ]
     },
@@ -11651,10 +11798,10 @@
       "name": "Bashundhara Hand Towel",
       "slug": "bashundhara-hand-towel",
       "sku": "fe27bkhS",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/323/fffqf1.jpg",
       "best_selling": "0",
       "history": [
@@ -12147,6 +12294,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 104.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -12155,10 +12309,10 @@
       "name": "Bashundhara Toilet Tissue (Gold)",
       "slug": "bashundhara-toilet-tissue-gold",
       "sku": "O7VBgEL0",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/322/0481783_bashundhara-toilet-tissue-gold.jpeg",
       "best_selling": "0",
       "history": [
@@ -12651,6 +12805,13 @@
           "offer": 34.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 38.0,
+          "offer": 34.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -12659,10 +12820,10 @@
       "name": "Bashundhara paper napkin",
       "slug": "bashundhara-paper-napkin",
       "sku": "zVDzLbnD",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/321/bashundhara-paper-napkins-13-unscented-100-pcs.jpg",
       "best_selling": "0",
       "history": [
@@ -13151,6 +13312,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 75.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 75.0,
           "offer": 65.0,
           "group": null,
@@ -13981,6 +14149,13 @@
           "offer": 52.0,
           "group": 48.0,
           "stock": 1163.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 55.0,
+          "offer": 52.0,
+          "group": 48.0,
+          "stock": 1151.0
         }
       ]
     },
@@ -13990,7 +14165,7 @@
       "slug": "deshi-moshur-dal-loose-premium-1-kg",
       "sku": "CE9Q3Wlg",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1452/Terracotta-Bowl-of-Red-Lentils.jpg",
@@ -14485,6 +14660,13 @@
           "offer": 150.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 160.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -14493,7 +14675,7 @@
       "name": "ACI Pure Atta 2 KG",
       "slug": "aci-pure-atta-2-kg",
       "sku": "sYX9qJzf",
-      "category_id": "5",
+      "category_id": "39",
       "category": "Cooking",
       "unit": "Piece",
       "volume": "2",
@@ -14989,6 +15171,13 @@
           "offer": 125.0,
           "group": 120.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": 120.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -14997,8 +15186,8 @@
       "name": "Atta (Loose) Per KG",
       "slug": "atta-loose-per-kg",
       "sku": "X6pgNCch",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1015/WhatsApp-Image-2026-08-16-at-12.52.01-PM.jpg",
@@ -15493,6 +15682,13 @@
           "offer": 60.0,
           "group": 47.0,
           "stock": 1041.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": 47.0,
+          "stock": 1041.0
         }
       ]
     },
@@ -15937,6 +16133,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 115.0,
+          "offer": 108.0,
+          "group": 99.0,
+          "stock": 1081.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 115.0,
           "offer": 108.0,
           "group": 99.0,
@@ -16445,6 +16648,13 @@
           "offer": 28.0,
           "group": 25.0,
           "stock": 1564.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 35.0,
+          "offer": 28.0,
+          "group": 25.0,
+          "stock": 1537.0
         }
       ]
     },
@@ -16453,7 +16663,7 @@
       "name": "Pulao Rice [Local Standard]",
       "slug": "pulao-rice-local-standard",
       "sku": "W6mML5CN",
-      "category_id": "5",
+      "category_id": "35",
       "category": "Cooking",
       "unit": "KG",
       "volume": "1",
@@ -16949,6 +17159,13 @@
           "offer": 170.0,
           "group": 139.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 190.0,
+          "offer": 170.0,
+          "group": 139.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -16957,7 +17174,7 @@
       "name": "জিরা (Jira) 250 Gm",
       "slug": "jira-jira-250-gm",
       "sku": "haPA2WYe",
-      "category_id": "5",
+      "category_id": "36",
       "category": "Cooking",
       "unit": "Gm",
       "volume": "250",
@@ -17449,6 +17666,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 400.0,
+          "offer": 399.0,
+          "group": 369.0,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 400.0,
           "offer": 399.0,
           "group": 369.0,
@@ -18503,6 +18727,13 @@
           "offer": 850.0,
           "group": 770.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 900.0,
+          "offer": 850.0,
+          "group": 770.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -19007,6 +19238,13 @@
           "offer": 125.0,
           "group": 99.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": 99.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -19015,7 +19253,7 @@
       "name": "Mashkolai Dal (মাসকালাই ডাল) Per KG",
       "slug": "mashkolai-dal-maskalai-dal-per-kg",
       "sku": "wCoRNUa3",
-      "category_id": "5",
+      "category_id": "39",
       "category": "Cooking",
       "unit": "KG",
       "volume": "1",
@@ -19507,6 +19745,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 260.0,
+          "offer": 250.0,
+          "group": 220.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 260.0,
           "offer": 250.0,
           "group": 220.0,
@@ -20057,6 +20302,13 @@
           "offer": 930.0,
           "group": 880.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1200.0,
+          "offer": 930.0,
+          "group": 880.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -20066,7 +20318,7 @@
       "slug": "aci-nutrilife-brown-flour-atta-2kg",
       "sku": "Bn4yCuxT",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
       "volume": "2",
       "image": "https://sharedealnow.com/storage/863/converted-512x512-(14).png",
@@ -20557,6 +20809,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 140.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 140.0,
           "offer": 120.0,
           "group": null,
@@ -21191,6 +21450,13 @@
           "offer": 710.0,
           "group": 690.0,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 720.0,
+          "offer": 710.0,
+          "group": 690.0,
+          "stock": 1002.0
         }
       ]
     },
@@ -21340,7 +21606,7 @@
       "slug": "mojo-soft-drink-1-ltr",
       "sku": "GjBVhCEX",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Ltr",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1337/11_mojo-1l.jpg",
@@ -21835,6 +22101,13 @@
           "offer": 105.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 110.0,
+          "offer": 105.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -22186,8 +22459,8 @@
       "name": "Matador All-time 24 pcs",
       "slug": "matador-all-time-24-pcs",
       "sku": "tv2svHG0",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "5",
+      "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/792/converted-512x512-(5).png",
@@ -22682,6 +22955,13 @@
           "offer": 120.0,
           "group": null,
           "stock": 1007.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1007.0
         }
       ]
     },
@@ -22690,8 +22970,8 @@
       "name": "Bashundhara A4 Paper 80 GSM",
       "slug": "bashundhara-a4-paper-80-gsm",
       "sku": "NzHUKWmY",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "5",
+      "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/791/converted-512x512-(4).png",
@@ -23186,6 +23466,13 @@
           "offer": 420.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 420.0,
+          "offer": 420.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -23195,7 +23482,7 @@
       "slug": "rok-glass-cleaner-350100ml-spray",
       "sku": "uIm1JIHJ",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/790/converted-512x512-(2).png",
@@ -23690,6 +23977,13 @@
           "offer": 140.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 140.0,
+          "offer": 140.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -23699,7 +23993,7 @@
       "slug": "goodknight-liquid-vaporizer-refill-45ml",
       "sku": "GmsQ59UN",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/789/converted-512x512-(1).png",
@@ -24194,6 +24488,13 @@
           "offer": 130.0,
           "group": 115.0,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 130.0,
+          "group": 115.0,
+          "stock": 1003.0
         }
       ]
     },
@@ -24202,8 +24503,8 @@
       "name": "Sepnil Face Mask",
       "slug": "sepnil-face-mask",
       "sku": "5BMaaH3H",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/788/converted-512x512.png",
@@ -24698,6 +24999,13 @@
           "offer": 320.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 320.0,
+          "offer": 320.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -24707,7 +25015,7 @@
       "slug": "mr-noodles-magic-masala-flavor-12-pcs-family-pack",
       "sku": "DduqbyU7",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1334/07_mr-noodles-magic-masala-12pcs.jpg",
@@ -25195,6 +25503,13 @@
           "offer": 255.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 260.0,
+          "offer": 255.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -25203,8 +25518,8 @@
       "name": "Lux Flaw Less Glow Rose Soap 90gm",
       "slug": "lux-flaw-less-glow-rose-soap-90gm",
       "sku": "32KxRJjF",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/1342/15_lux-flawless-glow-rose-soap-90g.jpg",
@@ -25692,6 +26007,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -25700,8 +26022,8 @@
       "name": "ACI Savlon Ocean Blue Antiseptic Handwash Refill 170 ml",
       "slug": "aci-savlon-ocean-blue-antiseptic-handwash-refill-170-ml",
       "sku": "bnOWJ74J",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/728/converted-512x512.png",
@@ -26189,6 +26511,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 80.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -26198,7 +26527,7 @@
       "slug": "nescafe-classic-coffee-200gm-pouch",
       "sku": "LgOxM7Ql",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/1338/12_nescafe-classic-200g-pouch.jpg",
@@ -26686,6 +27015,13 @@
           "offer": 945.0,
           "group": null,
           "stock": 1027.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 950.0,
+          "offer": 945.0,
+          "group": null,
+          "stock": 1027.0
         }
       ]
     },
@@ -26695,7 +27031,7 @@
       "slug": "odonil-air-freshener-75gm",
       "sku": "EzeCUFPm",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/1431/Odonil-Orchid-Dew-Air-Freshener-Package.jpg",
@@ -27183,6 +27519,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -27192,7 +27535,7 @@
       "slug": "seylon-3-in-1-instant-milk-tea",
       "sku": "sjFFdMWZ",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/674/converted-512x512-(1).png",
@@ -27680,6 +28023,13 @@
           "offer": 10.0,
           "group": null,
           "stock": 1040.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 10.0,
+          "offer": 10.0,
+          "group": null,
+          "stock": 1040.0
         }
       ]
     },
@@ -27689,7 +28039,7 @@
       "slug": "nescafe-classic-coffee-mini-pack-01g",
       "sku": "7uYpLsYd",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/1432/Nescafé-Classic-Coffee-Sachet-Showcase.jpg",
@@ -28163,6 +28513,13 @@
           "offer": 5.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 5.0,
+          "offer": 5.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -28172,7 +28529,7 @@
       "slug": "brooke-bond-taaza-black-tea-bags-95gm",
       "sku": "g9U7tZem",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "95",
       "image": "https://sharedealnow.com/storage/663/converted-512x512-(3).png",
@@ -28660,6 +29017,13 @@
           "offer": 90.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -28668,8 +29032,8 @@
       "name": "Savlon Hand Wash Lavender 1Ltr. + 50ml Extra",
       "slug": "savlon-hand-wash-lavender-1ltr-50ml-extra",
       "sku": "mFswuHLW",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/662/converted-512x512-(2).png",
@@ -29157,6 +29521,13 @@
           "offer": 375.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 380.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -29166,7 +29537,7 @@
       "slug": "aci-aerosol-insect-spray-800-ml",
       "sku": "nBN6zDUE",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "800",
       "image": "https://sharedealnow.com/storage/661/converted-512x512-(1).png",
@@ -29654,6 +30025,13 @@
           "offer": 615.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 620.0,
+          "offer": 615.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -29663,7 +30041,7 @@
       "slug": "vim-dishwash-liquid-95050ml",
       "sku": "ORO7afnH",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/660/converted-512x512.png",
@@ -30151,6 +30529,13 @@
           "offer": 225.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -30160,7 +30545,7 @@
       "slug": "rok-wood-cleaner-250100ml-spray",
       "sku": "Cq128GqO",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "150",
       "image": "https://sharedealnow.com/storage/659/converted-512x512.png",
@@ -30648,6 +31033,13 @@
           "offer": 150.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 160.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -30657,7 +31049,7 @@
       "slug": "kazi-kazi-green-tea-60gm",
       "sku": "iygGXDbh",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/657/converted-512x512-(2).png",
@@ -31145,6 +31537,13 @@
           "offer": 230.0,
           "group": null,
           "stock": 1018.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 235.0,
+          "offer": 230.0,
+          "group": null,
+          "stock": 1018.0
         }
       ]
     },
@@ -31503,8 +31902,8 @@
       "name": "Clear Scostape 2.5″",
       "slug": "clear-scostape-25",
       "sku": "GPADKWCH",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "5",
+      "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/655/converted-512x512.png",
@@ -31992,6 +32391,13 @@
           "offer": 230.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 250.0,
+          "offer": 230.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -32001,7 +32407,7 @@
       "slug": "hit-cockroaches-aerosol-400ml",
       "sku": "SEDeHr1g",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/654/66f37ab6d757d87bcf412352_Hit-Cockroaches-Aerosol-400ml_1-512x512.png",
@@ -32489,6 +32895,13 @@
           "offer": 350.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 355.0,
+          "offer": 350.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -32497,8 +32910,8 @@
       "name": "Lifebuoy Germ Protection Hand Wash 5Ltr.",
       "slug": "lifebuoy-germ-protection-hand-wash-5ltr",
       "sku": "02sM7Kct",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "Ltr",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/653/WhatsApp-Image-2026-03-30-at-12.07.09-PM.jpeg",
@@ -32986,6 +33399,13 @@
           "offer": 1390.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1405.0,
+          "offer": 1390.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -32995,7 +33415,7 @@
       "slug": "harpic-all-in-one-toilet-bathroom-cleaning-powder-400-gm",
       "sku": "uxT2mj8h",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/650/harpic-all-in-one-toilet-bathroom-cleaning-powder-400-gm-(1).jpg",
@@ -33483,6 +33903,13 @@
           "offer": 100.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 105.0,
+          "offer": 100.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -33492,7 +33919,7 @@
       "slug": "godrej-aer-power-pocket-10gm",
       "sku": "PjZnjeSr",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/648/66f37b07d757d87bcf4128e0_Godrej-Aer-Power-Pocket-Lavender-Bloom-10gm_1[1].webp",
@@ -33980,6 +34407,13 @@
           "offer": 72.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 72.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -33989,7 +34423,7 @@
       "slug": "nescafe-classic-coffee-9010gm-glass-bottle",
       "sku": "d8WU4dCI",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "KG",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/646/65fa9389115075f231ec4af2_Nescafe-Classic-Coffee-100gm-Glass-Bottle_1[1].webp",
@@ -34477,6 +34911,13 @@
           "offer": 465.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 475.0,
+          "offer": 465.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -34486,7 +34927,7 @@
       "slug": "nescafe-original-coffee-200g30gm-jar",
       "sku": "CBvCHQNr",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "KG",
       "volume": null,
       "image": "https://sharedealnow.com/storage/645/65fa94b2115075f231ec4dd1_Nescafe-Original-Coffee-230gm-Jar_1[1].webp",
@@ -34974,6 +35415,13 @@
           "offer": 1250.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1310.0,
+          "offer": 1250.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -34983,7 +35431,7 @@
       "slug": "nestle-coffee-mate-450gm-bib",
       "sku": "nrJ5uhbu",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1434/Coffee-mate-Creamer-Packshot.jpg",
@@ -35471,6 +35919,13 @@
           "offer": 375.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 390.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -35480,7 +35935,7 @@
       "slug": "harpic-power-plus-toilet-cleaner-750-ml",
       "sku": "UvAcOiLH",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "10",
       "image": "https://sharedealnow.com/storage/1446/Harpic-10X-Blue-Toilet-Cleaner-Bottle.jpg",
@@ -35968,6 +36423,13 @@
           "offer": 180.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 190.0,
+          "offer": 180.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -35977,7 +36439,7 @@
       "slug": "harpic-all-in-one-toilet-powder-1kg",
       "sku": "7VceNLGW",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "KG",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/642/harpic-all-in-1-toilet-bathroom-cleaning-powder-1-kg[1]",
@@ -36465,6 +36927,13 @@
           "offer": 205.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 220.0,
+          "offer": 205.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -36824,7 +37293,7 @@
       "slug": "harpic-power-plus-toilet-cleaner-1ltr",
       "sku": "oOiCHHaX",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1448/harpic-power-plus-1200.jpg",
@@ -37312,6 +37781,13 @@
           "offer": 235.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 245.0,
+          "offer": 235.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -37321,7 +37797,7 @@
       "slug": "godrej-aer-room-air-freshener-spray-petal-300ml",
       "sku": "NVcAPA4m",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1449/godrej-aer-spray-petal-crush-1200.jpg",
@@ -37809,6 +38285,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1019.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1019.0
         }
       ]
     },
@@ -37951,7 +38434,7 @@
       "slug": "banoful-special-lachha-shemai-200gm",
       "sku": "2TEjTM95",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1450/banoful-lachcha-semai-200g-1200.jpg",
@@ -38439,6 +38922,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 60.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -38448,7 +38938,7 @@
       "slug": "pran-mr-noodles-magic-masala-992gm",
       "sku": "x0THfBJj",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1451/pran-mr-noodles-magic-masala-5pack-1200.jpg",
@@ -38936,6 +39426,13 @@
           "offer": 335.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 340.0,
+          "offer": 335.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -38945,7 +39442,7 @@
       "slug": "doodles-stick-noodles-15025gm",
       "sku": "hDaBK2Yp",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/626/65fa9671d61902ef2307b17f_Doodles-Stick-Noodles-1755gm_1[1].webp",
@@ -39433,6 +39930,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 25.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -39680,7 +40184,7 @@
       "slug": "neocare-premium-belt-system-baby-diaper-3-6-kg-30-pcs",
       "sku": "GsRB7WiV",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/616/Neocare-Premium-Belt-System-Baby-Diaper-(3-6-kg)-(30-Pcs).png",
@@ -40168,6 +40672,13 @@
           "offer": 609.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 780.0,
+          "offer": 609.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -40176,8 +40687,8 @@
       "name": "Radhuni Firni Mix",
       "slug": "radhuni-firni-mix",
       "sku": "YyVBlcIV",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "150",
       "image": "https://sharedealnow.com/storage/1339/13_radhuni-firni-mix.jpg",
@@ -40665,6 +41176,13 @@
           "offer": 67.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 70.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -40673,8 +41191,8 @@
       "name": "Haleem Mix",
       "slug": "haleem-mix",
       "sku": "jOguD0Md",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/610/fresh-haleem-mix-200-gm[1]",
@@ -41162,6 +41680,13 @@
           "offer": 77.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 80.0,
+          "offer": 77.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -41170,10 +41695,10 @@
       "name": "Radhuni Falooda Mix (Mango Flavor)",
       "slug": "radhuni-falooda-mix-mango-flavor",
       "sku": "TSciS6wl",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/609/radhuni-falooda-mix-mango-flavor-250-gm[1]",
       "best_selling": "0",
       "history": [
@@ -41659,6 +42184,13 @@
           "offer": 105.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 120.0,
+          "offer": 105.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -42046,7 +42578,7 @@
       "slug": "marks-full-cream-milk-powder-poly-500-gm",
       "sku": "scKDkbxE",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/603/marks-full-cream-milk-powder-poly-500-gm[1]",
@@ -42534,6 +43066,13 @@
           "offer": 470.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 480.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -42543,7 +43082,7 @@
       "slug": "dano-daily-pushti-milk-powder-1kg",
       "sku": "LKRA7ODA",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "KG",
       "volume": null,
       "image": "https://sharedealnow.com/storage/602/dano-daily-pushti-milk-powder-1-kg[1]",
@@ -43031,6 +43570,13 @@
           "offer": 760.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 770.0,
+          "offer": 760.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -43039,10 +43585,10 @@
       "name": "Sajeeb Soya Sauce 300ml",
       "slug": "sajeeb-soya-sauce-300ml",
       "sku": "F1VvI36P",
-      "category_id": "25",
-      "category": "Sauces & Pickles",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/598/sajeeb-soya-sauce-300-ml[1]",
       "best_selling": "0",
       "history": [
@@ -43524,6 +44070,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 120.0,
+          "offer": 98.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 120.0,
           "offer": 98.0,
           "group": null,
@@ -44305,6 +44858,13 @@
           "offer": 145.0,
           "group": 99.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 160.0,
+          "offer": 145.0,
+          "group": 99.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -44314,7 +44874,7 @@
       "slug": "smart-care-wet-wipes-with-tube-220-pcs",
       "sku": "cjmj9vKi",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/612/Smart-Care-Wet-Wipes-with-Tube-(220-pcs).png",
@@ -44798,6 +45358,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 300.0,
+          "offer": 249.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 300.0,
           "offer": 249.0,
           "group": null,
@@ -45299,6 +45866,13 @@
           "offer": 204.0,
           "group": 199.0,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 204.0,
+          "offer": 204.0,
+          "group": 199.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -45796,6 +46370,13 @@
           "offer": 200.0,
           "group": 180.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 280.0,
+          "offer": 200.0,
+          "group": 180.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -45804,8 +46385,8 @@
       "name": "Polao Rice Premium Per KG",
       "slug": "polao-rice-premium-per-kg",
       "sku": "rMxaOGfy",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "35",
+      "category": "Rice",
       "unit": "KG",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/564/chinigura-rice-premium-1-kg[1]",
@@ -46293,6 +46874,13 @@
           "offer": 190.0,
           "group": null,
           "stock": 1020.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 195.0,
+          "offer": 190.0,
+          "group": null,
+          "stock": 1020.0
         }
       ]
     },
@@ -46344,7 +46932,7 @@
       "slug": "fresh-mustard-oil-srishar-tel-1-liter",
       "sku": "rL8ZEr4k",
       "category_id": "37",
-      "category": "Fresh Fortified Oil",
+      "category": "Oil & Ghee",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/536/Fresh-Mustard-Oil-1Liter-Image.png",
@@ -46832,6 +47420,13 @@
           "offer": 295.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 330.0,
+          "offer": 295.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -46840,8 +47435,8 @@
       "name": "Mashkolai Dal (মাসকালাই ডাল) 500gm",
       "slug": "mashkolai-dal-maskalai-dal-500gm",
       "sku": "WVCkB9X3",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/1340/14_mashkolai-dal.jpg",
@@ -47329,6 +47924,13 @@
           "offer": 90.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -47338,7 +47940,7 @@
       "slug": "anchor-boot-dal-enkr-dal-500gm",
       "sku": "LeWTkSKH",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/532/Anchor-Boot-Dal-Per-KG.png",
@@ -47822,6 +48424,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 65.0,
           "offer": 60.0,
           "group": null,
@@ -48323,6 +48932,13 @@
           "offer": 104.0,
           "group": 102.0,
           "stock": 1031.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 105.0,
+          "offer": 104.0,
+          "group": 102.0,
+          "stock": 1033.0
         }
       ]
     },
@@ -48332,7 +48948,7 @@
       "slug": "vim-dishwash-liquid-refill-20050ml",
       "sku": "yJduhjOh",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/1459/Vim-Lime-Splash-Dishwashing-Pouch.jpg",
@@ -48820,6 +49436,13 @@
           "offer": 48.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -48829,7 +49452,7 @@
       "slug": "diploma-instant-milk-powder-500gm",
       "sku": "KdWNcxw0",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/518/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC82NzQzNlwvNjc0MzYtRGlwbG9tYS1JbnN0YW50LUZ1bGwtQ3JlYW0tTWlsay1Qb3dkZXItNTAwZ20tcGFjay03ZnU2b2kucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiO.png",
@@ -49317,6 +49940,13 @@
           "offer": 480.0,
           "group": null,
           "stock": 1073.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 490.0,
+          "offer": 480.0,
+          "group": null,
+          "stock": 1073.0
         }
       ]
     },
@@ -49325,8 +49955,8 @@
       "name": "Pran BBQ Sauce 280gm",
       "slug": "pran-bbq-sauce-280gm",
       "sku": "D01I60Q1",
-      "category_id": "25",
-      "category": "Sauces & Pickles",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1461/pran-bbq-sauce-1200.jpg",
@@ -49814,6 +50444,13 @@
           "offer": 220.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 240.0,
+          "offer": 220.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -49997,10 +50634,10 @@
       "name": "Radhuni Biryani Masala 40gm",
       "slug": "radhuni-biryani-masala-40gm",
       "sku": "cx9Ls7Ax",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/514/radhuni-biryani-masala-40-gm.jpg",
       "best_selling": "0",
       "history": [
@@ -50486,6 +51123,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1011.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1011.0
         }
       ]
     },
@@ -50495,7 +51139,7 @@
       "slug": "fresh-instant-full-cream-milk-powder-500gm",
       "sku": "113iZRZS",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "KG",
       "volume": null,
       "image": "https://sharedealnow.com/storage/513/fresh-instant-full-cream-milk-powder-500-gm.jpg",
@@ -50983,6 +51627,13 @@
           "offer": 460.0,
           "group": null,
           "stock": 1034.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 480.0,
+          "offer": 460.0,
+          "group": null,
+          "stock": 1034.0
         }
       ]
     },
@@ -50992,7 +51643,7 @@
       "slug": "fresh-instant-full-cream-milk-powder-1-kg",
       "sku": "OSpMu0rx",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "KG",
       "volume": null,
       "image": "https://sharedealnow.com/storage/512/fresh-instant-full-cream-milk-powder-500-gm.jpg",
@@ -51480,6 +52131,13 @@
           "offer": 930.0,
           "group": null,
           "stock": 1012.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 950.0,
+          "offer": 930.0,
+          "group": null,
+          "stock": 1012.0
         }
       ]
     },
@@ -51489,7 +52147,7 @@
       "slug": "wheel-washing-powder-2-in-1-clean-fresh-1kg",
       "sku": "sSHPVKpb",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1462/wheel-washing-powder-2in1-clean-fresh-1kg-1200.jpg",
@@ -51977,6 +52635,13 @@
           "offer": 150.0,
           "group": null,
           "stock": 1007.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 155.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1007.0
         }
       ]
     },
@@ -51986,7 +52651,7 @@
       "slug": "xtreme-mosquito-coil-10-pcs",
       "sku": "Br43iPwh",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "10",
       "image": "https://sharedealnow.com/storage/488/xtreme-mosquito-coil-10-pcs.jpg",
@@ -52474,6 +53139,13 @@
           "offer": 80.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 80.0,
+          "offer": 80.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -52482,10 +53154,10 @@
       "name": "Sandalina Sandal 100gm",
       "slug": "sandalina-sandal-100gm",
       "sku": "r30wv9GC",
-      "category_id": "6",
-      "category": null,
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/487/images-(7).jpg",
       "best_selling": "0",
       "history": [
@@ -52971,6 +53643,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -52980,7 +53659,7 @@
       "slug": "dano-daily-pusti-milk-powder-500gm",
       "sku": "ttl87U3T",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/485/dano-daily-pushti-milk-powder-1-kg.jpg",
@@ -53468,6 +54147,13 @@
           "offer": 390.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 400.0,
+          "offer": 390.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -53477,7 +54163,7 @@
       "slug": "fresh-fortified-soyabean-oil-5-liter",
       "sku": "zjGXoYdq",
       "category_id": "37",
-      "category": "Fresh Fortified Oil",
+      "category": "Oil & Ghee",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/501/fresh-fortified-soyabean-oil-5-ltr-(1).jpg",
@@ -53965,6 +54651,13 @@
           "offer": 1000.0,
           "group": 979.0,
           "stock": 1089.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1000.0,
+          "offer": 1000.0,
+          "group": 979.0,
+          "stock": 1074.0
         }
       ]
     },
@@ -53974,7 +54667,7 @@
       "slug": "godrej-aer-spray-anti-tobacco-air-freshener-300ml",
       "sku": "vZBVXzuT",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/480/aer-room-air-freshener-spray-anti-tobacco-300-ml.jpg",
@@ -54462,6 +55155,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -54471,7 +55171,7 @@
       "slug": "harpic-liquid-toilet-cleaner-power-plus-original-750-ml",
       "sku": "uzZ6Tblb",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1463/harpic-original-power-plus-750ml-1200.jpg",
@@ -54959,6 +55659,13 @@
           "offer": 174.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 180.0,
+          "offer": 174.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -54968,7 +55675,7 @@
       "slug": "rok-wood-cleaner-350100ml-spray",
       "sku": "pvTTyckb",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "350",
       "image": "https://sharedealnow.com/storage/1464/rok-woody-wood-cleaner-spray-1200.jpg",
@@ -55456,6 +56163,13 @@
           "offer": 165.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 170.0,
+          "offer": 165.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -55465,7 +56179,7 @@
       "slug": "mr-brasso-glass-multisurface-cleaner-refill-500ml",
       "sku": "QanBnuTq",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/1465/mr-brasso-glass-cleaner-refill-1200.jpg",
@@ -55953,6 +56667,13 @@
           "offer": 188.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 190.0,
+          "offer": 188.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -55962,7 +56683,7 @@
       "slug": "starship-full-cream-milk-powder-1kg",
       "sku": "IrEjjTgs",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/470/starship-full-cream-milk-powder-1-kg-700x700.jpg",
@@ -56450,6 +57171,13 @@
           "offer": 770.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 790.0,
+          "offer": 770.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -56459,7 +57187,7 @@
       "slug": "godrej-aer-room-air-freshener-spray-violet-valley-bloom-300-ml",
       "sku": "EimQDuaY",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/466/godrej-aer-room-air-freshener-spray-violet-valley-bloom-300-ml.jpg",
@@ -56947,6 +57675,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -56956,7 +57691,7 @@
       "slug": "rok-dishwashing-foam-scrubber-buy-4-get-2",
       "sku": "h4dXI4Gb",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1466/rok-dish-scrubber-6pcs-1200.jpg",
@@ -57444,6 +58179,13 @@
           "offer": 88.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 90.0,
+          "offer": 88.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -57452,10 +58194,10 @@
       "name": "Lifebuoy Handwash Total Bottle 1 ltr",
       "slug": "lifebuoy-handwash-total-bottle-1-ltr",
       "sku": "R5aRHmMN",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/462/lifebuoy-handwash-total-bottle-1-ltr.jpg",
       "best_selling": "0",
       "history": [
@@ -57941,6 +58683,13 @@
           "offer": 400.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 420.0,
+          "offer": 400.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -57950,7 +58699,7 @@
       "slug": "vim-dishwashing-liquid-475ml",
       "sku": "8p6U8zRd",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1468/vim-power-gel-dishwash-475ml-1200.jpg",
@@ -58438,6 +59187,13 @@
           "offer": 121.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 121.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -58446,8 +59202,8 @@
       "name": "Fresh Kitchen Towel Roll | 1 Pcs",
       "slug": "fresh-kitchen-towel-roll-1-pcs",
       "sku": "1ZZ6razb",
-      "category_id": "29",
-      "category": "Tissue & Wipes",
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/459/860b65a947bb39fdc62ad3737ff4946a.jpg",
@@ -58935,6 +59691,13 @@
           "offer": 81.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 85.0,
+          "offer": 81.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -58943,10 +59706,10 @@
       "name": "Fresh Hand Towel (250X1 Ply) 1 pcs",
       "slug": "fresh-hand-towel-250x1-ply-1-pcs",
       "sku": "PrJGXcgA",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/458/images-(2).jpg",
       "best_selling": "0",
       "history": [
@@ -59432,6 +60195,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1096.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1096.0
         }
       ]
     },
@@ -59441,7 +60211,7 @@
       "slug": "godrej-aer-room-air-freshener-spray-fresh-lush-green",
       "sku": "oGk4QAR2",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1467/godrej-aer-spray-fresh-lush-green-1200.jpg",
@@ -59929,6 +60699,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -59938,7 +60715,7 @@
       "slug": "godrej-aer-room-air-freshener-spray-cool-surf-blue",
       "sku": "4qBDPVmp",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1469/godrej-aer-spray-cool-surf-blue-1200.jpg",
@@ -60426,6 +61203,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -60434,10 +61218,10 @@
       "name": "Vim Dishwashing Powder 500 gm",
       "slug": "vim-dishwashing-powder-500-gm",
       "sku": "bqrU9cbG",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/452/vim-dishwashing-powder-500-gm.jpg",
       "best_selling": "0",
       "history": [
@@ -60923,6 +61707,13 @@
           "offer": 42.0,
           "group": null,
           "stock": 1007.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 45.0,
+          "offer": 42.0,
+          "group": null,
+          "stock": 1007.0
         }
       ]
     },
@@ -60932,7 +61723,7 @@
       "slug": "rin-advanced-detergent-powder-500gm",
       "sku": "Q4bwLwcE",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/450/hlci0200009g200.jpg",
@@ -61420,6 +62211,13 @@
           "offer": 100.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 100.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -61429,7 +62227,7 @@
       "slug": "starship-condensed-milk-400gm",
       "sku": "4loGM8TL",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/448/starship-condensed-milk-400-gm.jpg",
@@ -61917,6 +62715,13 @@
           "offer": 94.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 105.0,
+          "offer": 94.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -62107,8 +62912,8 @@
       "name": "ACI Savlon Liquid Antiseptic 1000 ml",
       "slug": "aci-savlon-liquid-antiseptic-1000-ml",
       "sku": "ns77EFsO",
-      "category_id": "22",
-      "category": "Home & Cleaning",
+      "category_id": "45",
+      "category": "Personal Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/444/aci-savlon-liquid-antiseptic-1000-ml.jpg",
@@ -62596,6 +63401,13 @@
           "offer": 270.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 280.0,
+          "offer": 270.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -62604,7 +63416,7 @@
       "name": "Ispahani Mirzapore Tea Bags 50 (double chamber)",
       "slug": "ispahani-mirzapore-tea-bags-50-double-chamber",
       "sku": "GCLQ7NxJ",
-      "category_id": "31",
+      "category_id": "24",
       "category": "Dairy & Breakfast",
       "unit": "Piece",
       "volume": "1",
@@ -63093,6 +63905,13 @@
           "offer": 102.0,
           "group": 92.0,
           "stock": 1089.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 106.0,
+          "offer": 102.0,
+          "group": 92.0,
+          "stock": 1089.0
         }
       ]
     },
@@ -63102,7 +63921,7 @@
       "slug": "aci-aerosol-insect-spray-475ml",
       "sku": "Zd9ABPcW",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/439/iEvxAjChaTjuXthxgsk1vSwtoAZpogl3FjT8hXbc.jpeg",
@@ -63590,6 +64409,13 @@
           "offer": 400.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 415.0,
+          "offer": 400.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -63599,7 +64425,7 @@
       "slug": "peanut-peeled-vaja-cheena-badam-loose-100g",
       "sku": "txBCqca7",
       "category_id": "40",
-      "category": "Dried Fruits",
+      "category": "Dates, Nuts & Dried Fruits",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1470/roasted-peanuts-loose-1200.jpg",
@@ -64087,6 +64913,13 @@
           "offer": 99.0,
           "group": 87.0,
           "stock": 1005.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 99.0,
+          "group": 87.0,
+          "stock": 1005.0
         }
       ]
     },
@@ -64095,10 +64928,10 @@
       "name": "Rok Bleaching Powder 200gm",
       "slug": "rok-bleaching-powder-200gm",
       "sku": "vMjbLRsU",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/483/shMx2BQk52eTicPuLcJ1winTQN8eFUIVLwsJZQyM.jpeg",
       "best_selling": "0",
       "history": [
@@ -64584,6 +65417,13 @@
           "offer": 34.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 35.0,
+          "offer": 34.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -64592,10 +65432,10 @@
       "name": "Beshon (Khola) - 250g",
       "slug": "beshon-khola-250g",
       "sku": "LTMMrPos",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/407/f2ecff6f2cb5f313753501211f8655c2.jpg",
       "best_selling": "0",
       "history": [
@@ -65081,6 +65921,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 23.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -65089,10 +65936,10 @@
       "name": "Ruchi Puffed Rice (Muri) - 400 gm",
       "slug": "ruchi-puffed-rice-muri-400-gm",
       "sku": "AZ2BwTc5",
-      "category_id": "14",
-      "category": "Ramadan Special",
+      "category_id": "23",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/405/ruchi-puffed-rice-muri-400-gm.jpg",
       "best_selling": "0",
       "history": [
@@ -65578,6 +66425,13 @@
           "offer": 65.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 65.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -65768,10 +66622,10 @@
       "name": "Flattened Rice (Chira) Khola -  Per KG",
       "slug": "flattened-rice-chira-khola-per-kg",
       "sku": "lY37O2oD",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "23",
+      "category": "Snacks & Biscuits",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/395/WhatsApp-Image-2025-01-26-at-8.44.26-PM.jpeg",
       "best_selling": "0",
       "history": [
@@ -66257,6 +67111,13 @@
           "offer": 70.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -66266,7 +67127,7 @@
       "slug": "brooke-bond-taaza-black-tea-400gm",
       "sku": "a7G0skS9",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/394/WhatsApp-Image-2025-01-26-at-8.41.06-PM.jpeg",
@@ -66754,6 +67615,13 @@
           "offer": 240.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 250.0,
+          "offer": 240.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -67008,7 +67876,7 @@
       "slug": "pumpkin-seed-kumdar-beej",
       "sku": "xKw3hJpt",
       "category_id": "40",
-      "category": "Dried Fruits",
+      "category": "Dates, Nuts & Dried Fruits",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/343/1000044375.png",
@@ -67496,6 +68364,13 @@
           "offer": 189.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 200.0,
+          "offer": 189.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -67505,7 +68380,7 @@
       "slug": "roasted-cashew-nut-vaja-kaju-badam",
       "sku": "Ra2UAnQF",
       "category_id": "40",
-      "category": "Dried Fruits",
+      "category": "Dates, Nuts & Dried Fruits",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/342/1000044373.png",
@@ -67993,6 +68868,13 @@
           "offer": 389.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 399.0,
+          "offer": 389.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -68002,7 +68884,7 @@
       "slug": "almond-badam",
       "sku": "nHI7iT5y",
       "category_id": "40",
-      "category": "Dried Fruits",
+      "category": "Dates, Nuts & Dried Fruits",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/341/1000044370.png",
@@ -68490,6 +69372,13 @@
           "offer": 220.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 230.0,
+          "offer": 220.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -68499,7 +69388,7 @@
       "slug": "pistachio-nut-pesta-badam",
       "sku": "q3euISzB",
       "category_id": "40",
-      "category": "Dried Fruits",
+      "category": "Dates, Nuts & Dried Fruits",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/340/1000044369.png",
@@ -68987,6 +69876,13 @@
           "offer": 480.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 500.0,
+          "offer": 480.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -68996,7 +69892,7 @@
       "slug": "cashew-nut-kaju-badam",
       "sku": "MrP60Vli",
       "category_id": "40",
-      "category": "Dried Fruits",
+      "category": "Dates, Nuts & Dried Fruits",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/339/1000044368.png",
@@ -69484,6 +70380,13 @@
           "offer": 320.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 330.0,
+          "offer": 320.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -69492,10 +70395,10 @@
       "name": "Gawa Ghee (গাওয়া ঘি)",
       "slug": "gawa-ghee-gaooza-ghi",
       "sku": "tncXqrmj",
-      "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category_id": "37",
+      "category": "Oil & Ghee",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/338/1000044358.png",
       "best_selling": "0",
       "history": [
@@ -69981,6 +70884,13 @@
           "offer": 305.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 320.0,
+          "offer": 305.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -69989,10 +70899,10 @@
       "name": "Gawa Ghee (গাওয়া ঘি)",
       "slug": "gawa-ghee-gaooza-ghi",
       "sku": "rpWIr9Wh",
-      "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category_id": "37",
+      "category": "Oil & Ghee",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/337/1000044357.png",
       "best_selling": "0",
       "history": [
@@ -70478,6 +71388,13 @@
           "offer": 570.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 590.0,
+          "offer": 570.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -70661,10 +71578,10 @@
       "name": "Radhuni হলুদ গুঁড়া (২০০ গ্রাম)",
       "slug": "radhuni-hlud-gunnda-200-gram",
       "sku": "EPTzb8Tj",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/329/1000042246.jpg",
       "best_selling": "0",
       "history": [
@@ -71150,6 +72067,13 @@
           "offer": 140.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 145.0,
+          "offer": 140.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -71158,10 +72082,10 @@
       "name": "Radhuni Morich Gura 200gm",
       "slug": "radhuni-morich-gura-200gm",
       "sku": "ScJD4f4X",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/328/1000042247.jpg",
       "best_selling": "0",
       "history": [
@@ -71647,6 +72571,13 @@
           "offer": 135.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 155.0,
+          "offer": 135.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -71656,7 +72587,7 @@
       "slug": "mr-noodles-cup-noodles-magic-masala-40gm",
       "sku": "5uhMZaGW",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/325/1000010217.jpg",
@@ -72144,6 +73075,13 @@
           "offer": 32.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 35.0,
+          "offer": 32.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -72153,7 +73091,7 @@
       "slug": "kurkure-chilli-chatka-chips",
       "sku": "rMOyLeCI",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "KG",
       "volume": null,
       "image": "https://sharedealnow.com/storage/313/kurkure-chilli-chatka-chips-37-gm.jpg",
@@ -72641,6 +73579,13 @@
           "offer": 25.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 25.0,
+          "offer": 25.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -72649,10 +73594,10 @@
       "name": "Vimber 300 gram",
       "slug": "vimber-300-gram",
       "sku": "yEePbvx2",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/303/Vim-Dishwashing-Bar-300-gm-1.jpg",
       "best_selling": "0",
       "history": [
@@ -73138,6 +74083,13 @@
           "offer": 39.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 40.0,
+          "offer": 39.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -73147,7 +74099,7 @@
       "slug": "ada-imported-ginger-250gm",
       "sku": "b4smHmGF",
       "category_id": "38",
-      "category": "Root Vegetables",
+      "category": "Vegetables",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1030/WhatsApp-Image-2026-08-16-at-4.03.36-PM-(1).jpg",
@@ -73635,6 +74587,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 55.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -73644,7 +74603,7 @@
       "slug": "wheel-clean-fresh-2in1-detergent-powder-500-gm",
       "sku": "TubM6ayh",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "KG",
       "volume": null,
       "image": "https://sharedealnow.com/storage/647/67dab5b1ac5a5cedd1d7a954_Wheel-Clean-Fresh-2in1-Detergent-Powder-500gm_2[1].webp",
@@ -74132,6 +75091,13 @@
           "offer": 67.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -74140,8 +75106,8 @@
       "name": "Fresh Salt 1KG Pack",
       "slug": "fresh-salt-1kg-pack",
       "sku": "DEnOUUn6",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/298/fresh-super-premium-salt-1-kg.png",
@@ -74594,6 +75560,13 @@
           "offer": 40.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 42.0,
+          "offer": 40.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -74602,10 +75575,10 @@
       "name": "Black Cumin (Kalo Jira) 100gm",
       "slug": "black-cumin-kalo-jira-100gm",
       "sku": "xTeZeZgI",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/589/black-cumin-kalo-jira-100-gm[1]",
       "best_selling": "0",
       "history": [
@@ -75091,6 +76064,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1012.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 65.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1012.0
         }
       ]
     },
@@ -75099,10 +76079,10 @@
       "name": "Radhuni Coriander Powder (ধনিয়ার গুড়া) 100gm",
       "slug": "radhuni-coriander-powder-dhniyar-gura-100gm",
       "sku": "AYfjDvTm",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/293/radhuni-coriander-dhonia-powder-200-gm",
       "best_selling": "0",
       "history": [
@@ -75588,6 +76568,13 @@
           "offer": 58.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 60.0,
+          "offer": 58.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -75597,7 +76584,7 @@
       "slug": "nescafe-classic-coffee-18010gm-glass-bottle",
       "sku": "xqpJabx8",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/291/nestle-nescafe-classic-instant-coffee-jar-200-gm",
@@ -76085,6 +77072,13 @@
           "offer": 960.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 970.0,
+          "offer": 960.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -76094,7 +77088,7 @@
       "slug": "quaker-oats-jar-900gm",
       "sku": "4KLIHm09",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/290/quaker-oats-jar-900-gm",
@@ -76582,6 +77576,13 @@
           "offer": 720.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 750.0,
+          "offer": 720.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -76591,7 +77592,7 @@
       "slug": "mama-noodles-hot-spicy-flavors-8pcs",
       "sku": "lqT0QIlH",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/289/mama-noodles-hot-spicy-flavour-8-pcs-496-gm",
@@ -77079,6 +78080,13 @@
           "offer": 170.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 175.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -77087,8 +78095,8 @@
       "name": "Pran Chinigura Aromatic Rice 1KG",
       "slug": "pran-chinigura-aromatic-rice-1kg",
       "sku": "q3tG63M1",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "35",
+      "category": "Rice",
       "unit": "KG",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/592/pran-chinigura-aromatic-rice-1-kg[1]",
@@ -77576,6 +78584,13 @@
           "offer": 225.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -77584,8 +78599,8 @@
       "name": "Fresh Chinigura Rice 1 KG",
       "slug": "fresh-chinigura-rice-1-kg",
       "sku": "FnKc7nOC",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "35",
+      "category": "Rice",
       "unit": "KG",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/559/fresh-chinigura-rice-1-kg[1]",
@@ -78073,6 +79088,13 @@
           "offer": 225.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -78082,7 +79104,7 @@
       "slug": "danish-dry-cake-biscuit-300gm",
       "sku": "5fQerMrr",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/285/danish-dry-cake-biscuit-300-gm",
@@ -78570,6 +79592,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -78579,7 +79608,7 @@
       "slug": "bombay-sweets-nachoz-chutney-lime-chips-30gm",
       "sku": "iu8qlrD8",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/283/bombay-sweets-nachoz-chutney-lime-35-gm",
@@ -79067,6 +80096,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 20.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -79076,7 +80112,7 @@
       "slug": "sun-chips-tomato-tango-chips-75gm",
       "sku": "umrBcs4U",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/557/sun-chips-tomato-tango-75-gm[1]",
@@ -79564,6 +80600,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -79572,10 +80615,10 @@
       "name": "Cinnamon (Daruchini) Whole 100gm",
       "slug": "cinnamon-daruchini-whole-100gm",
       "sku": "XrvwQK9g",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/593/cinnamon-daruchini-whole-100-gm[1]",
       "best_selling": "0",
       "history": [
@@ -80061,6 +81104,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -80069,10 +81119,10 @@
       "name": "Raisins (Kishmish) 100gm",
       "slug": "raisins-kishmish-100gm",
       "sku": "uXQFu075",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "40",
+      "category": "Dates, Nuts & Dried Fruits",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/594/raisins-kishmish-100-gm[1]",
       "best_selling": "0",
       "history": [
@@ -80558,6 +81608,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -80566,10 +81623,10 @@
       "name": "Radhuni Premium Ghee 200gm",
       "slug": "radhuni-premium-ghee-200gm",
       "sku": "DU94bS9y",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "37",
+      "category": "Oil & Ghee",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/276/Radhuni_Premium_Ghee_200_gm-Radhuni-ed204-371189.png",
       "best_selling": "0",
       "history": [
@@ -81055,6 +82112,13 @@
           "offer": 405.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 415.0,
+          "offer": 405.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -81512,7 +82576,7 @@
       "slug": "bombay-sweets-instant-laccha-shemai-180gm",
       "sku": "IobVKJ1r",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/272/bombay-sweets-instant-laccha-shemai-180-gm",
@@ -82000,6 +83064,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -82008,10 +83079,10 @@
       "name": "Dried Chillies (Shukna Morich) 100gm",
       "slug": "dried-chillies-shukna-morich-100gm",
       "sku": "9XnnzIBJ",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/554/Dried-Chillies-(Shukna-Morich)-100gm.png",
       "best_selling": "0",
       "history": [
@@ -82497,6 +83568,13 @@
           "offer": 42.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 42.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -82505,8 +83583,8 @@
       "name": "Radhuni Chilli (মরিচের গুড়া ) Powder 100gm",
       "slug": "radhuni-chilli-mricer-gura-powder-100gm",
       "sku": "I4ZXHr3Z",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/269/radhuni-chilli-morich-powder-50-gm",
@@ -82994,6 +84072,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -83002,8 +84087,8 @@
       "name": "Radhuni Turmeric Powder (Holud Gura) 100gm",
       "slug": "radhuni-turmeric-powder-holud-gura-100gm",
       "sku": "viLm2evP",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/268/1636288589.Radhuni-Turmeric-Powder.webp",
@@ -83491,6 +84576,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -83499,10 +84591,10 @@
       "name": "Fresh Happy Nappy Pant Diaper S (4-8 kg) 42 Pack",
       "slug": "fresh-happy-nappy-pant-diaper-s-4-8-kg-42-pack",
       "sku": "Wj7SQh2C",
-      "category_id": "6",
-      "category": null,
+      "category_id": "17",
+      "category": "Baby Care",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/556/fresh-happy-nappy-pant-diaper-s-4-8-kg-42-pcs[1]",
       "best_selling": "0",
       "history": [
@@ -83988,6 +85080,13 @@
           "offer": 640.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 890.0,
+          "offer": 640.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -83997,7 +85096,7 @@
       "slug": "aarong-dairy-curd-sour-500gm",
       "sku": "f4VvQ6b3",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/261/aarong-dairy-sour-yogurt-500-gm.jpg",
@@ -84485,6 +85584,13 @@
           "offer": 112.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 120.0,
+          "offer": 112.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -84493,10 +85599,10 @@
       "name": "Radhuni Gorom Masala 15gm",
       "slug": "radhuni-gorom-masala-15gm",
       "sku": "GEqRM5Vg",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/258/radhuni-garam-masala-40-gm",
       "best_selling": "0",
       "history": [
@@ -84982,6 +86088,13 @@
           "offer": 33.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 35.0,
+          "offer": 33.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -84990,10 +86103,10 @@
       "name": "Pusti Flour (Atta) 2 KG",
       "slug": "pusti-flour-atta-2-kg",
       "sku": "EirGdfnJ",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/360/pusti-flour-atta-2-kg.jpg",
       "best_selling": "0",
       "history": [
@@ -85479,6 +86592,13 @@
           "offer": 125.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -85487,10 +86607,10 @@
       "name": "Moyda Loose (খোলা ময়দা) 1 KG",
       "slug": "moyda-loose-khola-myda-1-kg",
       "sku": "hWxHhbjH",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/551/Moyda-Loose-(খোলা-ময়দা)-1-KG.png",
       "best_selling": "0",
       "history": [
@@ -85976,6 +87096,13 @@
           "offer": 67.0,
           "group": null,
           "stock": 1023.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1023.0
         }
       ]
     },
@@ -85985,7 +87112,7 @@
       "slug": "marks-full-cream-milk-powder-1-kg",
       "sku": "2MX4CP4Z",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "KG",
       "volume": null,
       "image": "https://sharedealnow.com/storage/248/0472737_marks-milk-powder-foil-1000gm.jpeg",
@@ -86473,6 +87600,13 @@
           "offer": 940.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 950.0,
+          "offer": 940.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -86482,7 +87616,7 @@
       "slug": "dano-full-cream-milk-powder-500gm",
       "sku": "BFjo7dYW",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/552/Dano-Full-Cream-Milk-Powder-500gm.png",
@@ -86970,6 +88104,13 @@
           "offer": 470.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 480.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -86979,7 +88120,7 @@
       "slug": "brooke-bond-taaza-black-tea-200gm",
       "sku": "bvcE8oTI",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/553/Brooke-Bond-Taaza-Black-Tea-200gm.png",
@@ -87467,6 +88608,13 @@
           "offer": 128.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 128.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -87476,7 +88624,7 @@
       "slug": "doodles-instant-masala-noodles-8-pack",
       "sku": "LrPpJAAS",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/243/1696678171816.webp",
@@ -87964,6 +89112,13 @@
           "offer": 155.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 160.0,
+          "offer": 155.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -87972,10 +89127,10 @@
       "name": "ACI Pure Suji 500gm",
       "slug": "aci-pure-suji-500gm",
       "sku": "K9mfiSG9",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/241/aci-pure-suji-500-gm",
       "best_selling": "0",
       "history": [
@@ -88461,6 +89616,13 @@
           "offer": 43.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 48.0,
+          "offer": 43.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -88469,10 +89631,10 @@
       "name": "Mug Dal (Moong Dal) 1 KG",
       "slug": "mug-dal-moong-dal-1-kg",
       "sku": "RveCcGph",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/240/0138926_mung-dal-1kg.jpeg",
       "best_selling": "0",
       "history": [
@@ -88958,6 +90120,13 @@
           "offer": 170.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 180.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -89142,7 +90311,7 @@
       "slug": "all-time-roma-chocolate-cookies-150gm",
       "sku": "wuIoXv9M",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/548/All-Time-Roma-Chocolate-Cookies-150gm.png",
@@ -89630,6 +90799,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -89639,7 +90815,7 @@
       "slug": "pran-chira-pran-cira-500gm",
       "sku": "Ul811J8o",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "498",
       "image": "https://sharedealnow.com/storage/236/pran-flattened-rice-chira.jpg",
@@ -90127,6 +91303,13 @@
           "offer": 68.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 70.0,
+          "offer": 68.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -90136,7 +91319,7 @@
       "slug": "all-time-family-cake-mixed-fruit-230gm",
       "sku": "7vrqIWcu",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/235/083043a0-f58e-11ec-bce0-ef2bdd770bba.png",
@@ -90624,6 +91807,13 @@
           "offer": 125.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -90633,7 +91823,7 @@
       "slug": "all-time-family-chocolate-cake-230gm",
       "sku": "JP605FcY",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/547/All-Time-Family-Chocolate-Cake-230gm.png",
@@ -91121,6 +92311,13 @@
           "offer": 120.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 130.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -91129,10 +92326,10 @@
       "name": "Rin Washing Liquid 800ml",
       "slug": "rin-washing-liquid-800ml",
       "sku": "WBe4JYEk",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/550/Rin-Washing-Liquid-800ml.png",
       "best_selling": "0",
       "history": [
@@ -91618,6 +92815,13 @@
           "offer": 210.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 220.0,
+          "offer": 210.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -91626,10 +92830,10 @@
       "name": "Harpic Liquid Toilet Cleaner Original 750ml",
       "slug": "harpic-liquid-toilet-cleaner-original-750ml",
       "sku": "8gGgifuk",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/232/Harpic_Liquid_Toilet_Cleaner_750ml_BD006-Harpic-a550d-328489.jpg",
       "best_selling": "0",
       "history": [
@@ -92115,6 +93319,13 @@
           "offer": 170.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 180.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -92123,10 +93334,10 @@
       "name": "Cardamom (Elachi) 50gm",
       "slug": "cardamom-elachi-50gm",
       "sku": "GVnVw6mg",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/549/Cardamom-(Elachi)-50gm.png",
       "best_selling": "0",
       "history": [
@@ -92612,6 +93823,13 @@
           "offer": 295.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 310.0,
+          "offer": 295.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -92620,10 +93838,10 @@
       "name": "Radhuni Cumin (Jira) Powder 100gm",
       "slug": "radhuni-cumin-jira-powder-100gm",
       "sku": "awpP2dDH",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/222/14.-Radhuni-Jirar-Gura-100g-80tk-min.jpg",
       "best_selling": "0",
       "history": [
@@ -93109,6 +94327,13 @@
           "offer": 155.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 160.0,
+          "offer": 155.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -93117,10 +94342,10 @@
       "name": "Radhuni Turmeric (Holud) Powder 100gm",
       "slug": "radhuni-turmeric-holud-powder-100gm",
       "sku": "U8RBfrJp",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/221/radhuni-turmeric-holud-powder-100-gm",
       "best_selling": "0",
       "history": [
@@ -93606,6 +94831,13 @@
           "offer": 70.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -93614,10 +94846,10 @@
       "name": "Radhuni Chilli (Morich) Powder 100gm",
       "slug": "radhuni-chilli-morich-powder-100gm",
       "sku": "MeF3F0to",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/220/radhuni-chilli-morich-powder-100-gm",
       "best_selling": "0",
       "history": [
@@ -94103,6 +95335,13 @@
           "offer": 70.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -94111,10 +95350,10 @@
       "name": "Aarong Dairy Pure Ghee 450gm",
       "slug": "aarong-dairy-pure-ghee-450gm",
       "sku": "m6y63x21",
-      "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category_id": "37",
+      "category": "Oil & Ghee",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/217/400.jpg",
       "best_selling": "0",
       "history": [
@@ -94600,6 +95839,13 @@
           "offer": 820.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 825.0,
+          "offer": 820.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -94608,10 +95854,10 @@
       "name": "Radhuni Kasundi 285ml",
       "slug": "radhuni-kasundi-285ml",
       "sku": "sfYJeZfY",
-      "category_id": "25",
-      "category": "Sauces & Pickles",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/216/radhuni-kasundi-285-ml",
       "best_selling": "0",
       "history": [
@@ -95097,6 +96343,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -95106,7 +96359,7 @@
       "slug": "ruchi-bbq-chanachur-300gm",
       "sku": "e3VeW6cy",
       "category_id": "23",
-      "category": "Snacks",
+      "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
       "image": "https://sharedealnow.com/storage/215/ruchi-bbq-chanachur-300-gm",
@@ -95594,6 +96847,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -95603,7 +96863,7 @@
       "slug": "rin-advanced-detergent-powder-1-kg",
       "sku": "hAMBveEd",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1480/rin-advanced-detergent-powder-1kg-1200.jpg",
@@ -96091,6 +97351,13 @@
           "offer": 195.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 195.0,
+          "offer": 195.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -96099,10 +97366,10 @@
       "name": "Vim Dishwashing Bar 125gm",
       "slug": "vim-dishwashing-bar-125gm",
       "sku": "P5DM34Dh",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/207/vim-dishwashing-bar-125-gm",
       "best_selling": "0",
       "history": [
@@ -96588,6 +97855,13 @@
           "offer": 12.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 15.0,
+          "offer": 12.0,
+          "group": null,
+          "stock": 1007.0
         }
       ]
     },
@@ -96596,10 +97870,10 @@
       "name": "Clove (Lobongo) 50gm",
       "slug": "clove-lobongo-50gm",
       "sku": "d3MOPqEJ",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/205/1000057944.jpg",
       "best_selling": "0",
       "history": [
@@ -97085,6 +98359,13 @@
           "offer": 84.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 120.0,
+          "offer": 84.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -97094,7 +98375,7 @@
       "slug": "odonil-air-freshener-50g",
       "sku": "dO8s4f6V",
       "category_id": "22",
-      "category": "Home & Cleaning",
+      "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/203/1000057942.jpg",
@@ -97582,6 +98863,13 @@
           "offer": 65.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 65.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -97591,7 +98879,7 @@
       "slug": "ispahani-mirzapore-best-leaf-tea-400gm",
       "sku": "47CmfS1O",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "2",
       "image": "https://sharedealnow.com/storage/202/1000057940.jpg",
@@ -98079,6 +99367,13 @@
           "offer": 229.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 230.0,
+          "offer": 229.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -98088,7 +99383,7 @@
       "slug": "diploma-instant-full-cream-milk-powder-1-kg-pack",
       "sku": "OIHT47Ub",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/201/1000057939.jpg",
@@ -98576,6 +99871,13 @@
           "offer": 938.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 950.0,
+          "offer": 938.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -98584,10 +99886,10 @@
       "name": "Radhuni Roast Masala 35gm",
       "slug": "radhuni-roast-masala-35gm",
       "sku": "RZ1Fs9Sk",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/363/radhuni-roast-masala-35-gm-Selefe-grocery-store.jpg",
       "best_selling": "0",
       "history": [
@@ -99073,6 +100375,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1024.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1024.0
         }
       ]
     },
@@ -99081,10 +100390,10 @@
       "name": "Radhuni Chilli (Morich) Powder 500gm",
       "slug": "radhuni-chilli-morich-powder-500gm",
       "sku": "PlBHbdKR",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/189/1000051880.jpg",
       "best_selling": "0",
       "history": [
@@ -99570,6 +100879,13 @@
           "offer": 330.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 345.0,
+          "offer": 330.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -99578,10 +100894,10 @@
       "name": "Mosur Dal Imported (Khola) Per KG",
       "slug": "mosur-dal-imported-khola-per-kg",
       "sku": "z64hsPfO",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/179/images-(29).jpeg",
       "best_selling": "0",
       "history": [
@@ -100067,6 +101383,13 @@
           "offer": 110.0,
           "group": null,
           "stock": 1023.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 125.0,
+          "offer": 110.0,
+          "group": null,
+          "stock": 1023.0
         }
       ]
     },
@@ -100075,10 +101398,10 @@
       "name": "Radhuni Fish Curry Masala 100gm",
       "slug": "radhuni-fish-curry-masala-100gm",
       "sku": "bX6VKQIn",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/175/images-(21).jpeg",
       "best_selling": "0",
       "history": [
@@ -100564,6 +101887,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 80.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -100572,10 +101902,10 @@
       "name": "Radhuni Beef Curry Masala 100gm",
       "slug": "radhuni-beef-curry-masala-100gm",
       "sku": "EsYD0QIQ",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/173/images-(19).jpeg",
       "best_selling": "0",
       "history": [
@@ -101061,6 +102391,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 100.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -101069,10 +102406,10 @@
       "name": "Radhuni Meat Curry Masala 100gm",
       "slug": "radhuni-meat-curry-masala-100gm",
       "sku": "NokX0YEe",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/172/images-(18).jpeg",
       "best_selling": "0",
       "history": [
@@ -101558,6 +102895,13 @@
           "offer": 90.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -101566,10 +102910,10 @@
       "name": "Radhuni Coriander (Dhonia) Powder 100gm",
       "slug": "radhuni-coriander-dhonia-powder-100gm",
       "sku": "Zu7I7gTp",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/171/radhuni-coriander-dhonia-powder-200-gm.jpeg",
       "best_selling": "0",
       "history": [
@@ -102055,6 +103399,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -102064,7 +103415,7 @@
       "slug": "desi-roshun-per-kg",
       "sku": "3lczGb3t",
       "category_id": "38",
-      "category": "Root Vegetables",
+      "category": "Vegetables",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1029/WhatsApp-Image-2026-08-16-at-3.10.36-PM-(2).jpg",
@@ -102552,6 +103903,13 @@
           "offer": 160.0,
           "group": null,
           "stock": 994.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 175.0,
+          "offer": 160.0,
+          "group": null,
+          "stock": 994.0
         }
       ]
     },
@@ -102560,10 +103918,10 @@
       "name": "Teer White Flour (Maida) 2 KG Pack",
       "slug": "teer-white-flour-maida-2-kg-pack",
       "sku": "Tnfp9dEP",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "39",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/95/teer-white-flour-maida-2-kg.jpg",
       "best_selling": "0",
       "history": [
@@ -103049,6 +104407,13 @@
           "offer": 135.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 140.0,
+          "offer": 135.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -103267,8 +104632,8 @@
       "name": "Radhuni Haleem Mix",
       "slug": "radhuni-haleem-mix",
       "sku": "NRd9jwi4",
-      "category_id": "5",
-      "category": "Cooking",
+      "category_id": "36",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/56/radhuni-haleem-mix-200-gm.jpg",
@@ -103756,6 +105121,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -104162,6 +105534,13 @@
           "offer": 220.0,
           "group": 189.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 290.0,
+          "offer": 220.0,
+          "group": 189.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -104171,7 +105550,7 @@
       "slug": "saad-tomato-sauce-500gm",
       "sku": "WLBM1MtR",
       "category_id": "36",
-      "category": "Saad",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1019/WhatsApp-Image-2026-08-16-at-3.10.36-PM.jpg",
@@ -104645,6 +106024,13 @@
           "offer": 125.0,
           "group": 115.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 170.0,
+          "offer": 125.0,
+          "group": 115.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -104654,7 +106040,7 @@
       "slug": "neocare-baby-diaper-xl-11-25kg-50-pieces",
       "sku": "8gkshJOq",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1397/neocare-baby-diaper-xl-50pcs-1200.jpg",
@@ -105117,6 +106503,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1950.0,
+          "offer": 1350.0,
+          "group": 1299.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1950.0,
           "offer": 1350.0,
           "group": 1299.0,
@@ -105597,6 +106990,13 @@
           "offer": 1269.0,
           "group": 1130.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1650.0,
+          "offer": 1269.0,
+          "group": 1130.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -105606,7 +107006,7 @@
       "slug": "neo-care-baby-diaper-m-4-9-kg-50-pieces",
       "sku": "2um9U5y8",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1401/neocare-baby-diaper-m-50pcs-1200.jpg",
@@ -106073,6 +107473,13 @@
           "offer": 1149.0,
           "group": 990.0,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1450.0,
+          "offer": 1149.0,
+          "group": 990.0,
+          "stock": 1001.0
         }
       ]
     },
@@ -106082,7 +107489,7 @@
       "slug": "neocare-baby-belt-system-diaper-s-3-6kg-50-pieces",
       "sku": "ABiqdPvb",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1400/neocare-baby-diaper-s-50pcs-1200.jpg",
@@ -106545,6 +107952,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1200.0,
+          "offer": 899.0,
+          "group": 810.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1200.0,
           "offer": 899.0,
           "group": 810.0,
@@ -107025,6 +108439,13 @@
           "offer": 849.0,
           "group": 729.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1100.0,
+          "offer": 849.0,
+          "group": 729.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -107501,6 +108922,13 @@
           "offer": 999.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1100.0,
+          "offer": 999.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -107510,7 +108938,7 @@
       "slug": "savlon-twinkle-baby-belt-diaper-l-7-18kg-36-pieces",
       "sku": "2tFevexR",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1403/savlon-twinkle-baby-diaper-l-7-18kg-1200.jpg",
@@ -107973,6 +109401,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1100.0,
+          "offer": 1049.0,
+          "group": 715.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1100.0,
           "offer": 1049.0,
           "group": 715.0,
@@ -108453,6 +109888,13 @@
           "offer": 899.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1100.0,
+          "offer": 899.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -108925,6 +110367,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1100.0,
+          "offer": 899.0,
+          "group": 715.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1100.0,
           "offer": 899.0,
           "group": 715.0,
@@ -109405,6 +110854,13 @@
           "offer": 949.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1100.0,
+          "offer": 949.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -109877,6 +111333,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1200.0,
+          "offer": 799.0,
+          "group": 699.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1200.0,
           "offer": 799.0,
           "group": 699.0,
@@ -110357,6 +111820,13 @@
           "offer": 840.0,
           "group": 650.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 890.0,
+          "offer": 840.0,
+          "group": 650.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -110829,6 +112299,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1200.0,
+          "offer": 929.0,
+          "group": 799.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1200.0,
           "offer": 929.0,
           "group": 799.0,
@@ -111309,6 +112786,13 @@
           "offer": 859.0,
           "group": 650.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 890.0,
+          "offer": 859.0,
+          "group": 650.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -111781,6 +113265,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1200.0,
+          "offer": 999.0,
+          "group": 849.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1200.0,
           "offer": 999.0,
           "group": 849.0,
@@ -112261,6 +113752,13 @@
           "offer": 849.0,
           "group": 650.0,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 890.0,
+          "offer": 849.0,
+          "group": 650.0,
+          "stock": 1001.0
         }
       ]
     },
@@ -112737,6 +114235,13 @@
           "offer": 999.0,
           "group": 849.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1200.0,
+          "offer": 999.0,
+          "group": 849.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -112746,7 +114251,7 @@
       "slug": "savlon-twinkle-baby-pant-diaper-s-up-to-8kg-42-pieces",
       "sku": "zoEoi0GJ",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1038/Max_a_give_me_product_desg-(11).jpg",
@@ -113209,6 +114714,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 890.0,
+          "offer": 850.0,
+          "group": 779.0,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 890.0,
           "offer": 850.0,
           "group": 779.0,
@@ -113689,6 +115201,13 @@
           "offer": 779.0,
           "group": 615.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 890.0,
+          "offer": 779.0,
+          "group": 615.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -114161,6 +115680,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 890.0,
+          "offer": 810.0,
+          "group": 770.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 890.0,
           "offer": 810.0,
           "group": 770.0,
@@ -114641,6 +116167,13 @@
           "offer": 949.0,
           "group": 835.0,
           "stock": 1005.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1200.0,
+          "offer": 949.0,
+          "group": 835.0,
+          "stock": 1005.0
         }
       ]
     },
@@ -114650,7 +116183,7 @@
       "slug": "avonee-pants-l-9-14kg-34-pieces",
       "sku": "Z6y2yzdI",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1034/Max_a_give_me_product_desg-(2).jpg",
@@ -115117,6 +116650,13 @@
           "offer": 779.0,
           "group": 605.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 890.0,
+          "offer": 779.0,
+          "group": 605.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -115126,7 +116666,7 @@
       "slug": "avonee-pants-m-7-12kg-56-pieces",
       "sku": "4vmRuxpX",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1033/Max_a_give_me_product_desg-(1).jpg",
@@ -115589,6 +117129,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1200.0,
+          "offer": 1049.0,
+          "group": 949.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1200.0,
           "offer": 1049.0,
           "group": 949.0,
@@ -116069,6 +117616,13 @@
           "offer": 699.0,
           "group": 605.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 890.0,
+          "offer": 699.0,
+          "group": 605.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -116517,6 +118071,13 @@
           "offer": 408.0,
           "group": 397.0,
           "stock": 1023.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 408.0,
+          "offer": 408.0,
+          "group": 397.0,
+          "stock": 1013.0
         }
       ]
     },
@@ -116526,7 +118087,7 @@
       "slug": "danish-condensed-milk-3973gm",
       "sku": "EgZrlDt0",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1128/Screenshot_1.jpg",
@@ -116905,6 +118466,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 105.0,
+          "offer": 94.0,
+          "group": null,
+          "stock": 1135.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 105.0,
           "offer": 94.0,
           "group": null,
@@ -117294,6 +118862,13 @@
           "offer": 95.0,
           "group": 78.0,
           "stock": 98.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 105.0,
+          "offer": 95.0,
+          "group": 78.0,
+          "stock": 98.0
         }
       ]
     },
@@ -117679,6 +119254,13 @@
           "offer": 68.0,
           "group": 55.0,
           "stock": 398.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 72.0,
+          "offer": 68.0,
+          "group": 55.0,
+          "stock": 396.0
         }
       ]
     },
@@ -118064,6 +119646,13 @@
           "offer": 70.0,
           "group": 59.0,
           "stock": 427.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": 59.0,
+          "stock": 427.0
         }
       ]
     },
@@ -118073,7 +119662,7 @@
       "slug": "premium-miniket-by-khan-rice-natore",
       "sku": "D5NA9tNv",
       "category_id": "35",
-      "category": "Khan Rice",
+      "category": "Rice",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1351/miniket-premium-rice.jpg",
@@ -118428,6 +120017,13 @@
           "offer": 85.0,
           "group": 70.0,
           "stock": 394.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": 70.0,
+          "stock": 389.0
         }
       ]
     },
@@ -118437,7 +120033,7 @@
       "slug": "standard-katari-nazir-by-tamim-rice-natore",
       "sku": "Jiu5n9HP",
       "category_id": "35",
-      "category": "Khan Rice",
+      "category": "Rice",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1349/katari-standard-rice-tamim.jpg",
@@ -118813,6 +120409,13 @@
           "offer": 80.0,
           "group": 65.0,
           "stock": 456.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 85.0,
+          "offer": 80.0,
+          "group": 65.0,
+          "stock": 456.0
         }
       ]
     },
@@ -118822,7 +120425,7 @@
       "slug": "premium-katari-nazir-by-khan-rice-natore",
       "sku": "pTQuYG4M",
       "category_id": "35",
-      "category": "Khan Rice",
+      "category": "Rice",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1350/katari-nazir-premium-rice.jpg",
@@ -119198,6 +120801,13 @@
           "offer": 88.0,
           "group": 74.0,
           "stock": 338.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 90.0,
+          "offer": 88.0,
+          "group": 74.0,
+          "stock": 330.0
         }
       ]
     },
@@ -119527,6 +121137,13 @@
           "offer": 612.0,
           "group": 595.0,
           "stock": 43.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 612.0,
+          "offer": 612.0,
+          "group": 595.0,
+          "stock": 42.0
         }
       ]
     },
@@ -120010,6 +121627,13 @@
           "offer": 108.0,
           "group": 106.0,
           "stock": 13.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 110.0,
+          "offer": 108.0,
+          "group": 106.0,
+          "stock": 21.0
         }
       ]
     },
@@ -120019,7 +121643,7 @@
       "slug": "fresh-maida-1-kg",
       "sku": "vF6NEDxX",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1185/fresh-maida-1-kg.jpg",
@@ -120339,6 +121963,13 @@
           "offer": 85.0,
           "group": 76.0,
           "stock": 46.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": 76.0,
+          "stock": 46.0
         }
       ]
     },
@@ -120348,7 +121979,7 @@
       "slug": "fresh-atta-1-kg",
       "sku": "fR7488sl",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1184/fresh-atta-1-kg.jpg",
@@ -120664,6 +122295,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 70.0,
+          "offer": 65.0,
+          "group": 60.0,
+          "stock": 48.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 70.0,
           "offer": 65.0,
           "group": 60.0,
@@ -120997,6 +122635,13 @@
           "offer": 425.0,
           "group": 420.0,
           "stock": 3.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 480.0,
+          "offer": 425.0,
+          "group": 420.0,
+          "stock": 3.0
         }
       ]
     },
@@ -121326,6 +122971,13 @@
           "offer": 899.0,
           "group": 849.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 950.0,
+          "offer": 899.0,
+          "group": 849.0,
+          "stock": 0.0
         }
       ]
     },
@@ -121335,7 +122987,7 @@
       "slug": "super-pure-full-cream-milk-powder-500-gram",
       "sku": "fjUyWSkh",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1524/super-pitor-full-cream-milk-powder-500g-1200.jpg",
@@ -121655,6 +123307,13 @@
           "offer": 380.0,
           "group": null,
           "stock": 22.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 390.0,
+          "offer": 380.0,
+          "group": null,
+          "stock": 22.0
         }
       ]
     },
@@ -121664,7 +123323,7 @@
       "slug": "super-pure-full-cream-milk-powder-1-kg",
       "sku": "1fBYAUeI",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1178/Super-Pure-FCMP-milk-3D-1kg.jpg",
@@ -121984,6 +123643,13 @@
           "offer": 750.0,
           "group": null,
           "stock": 12.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 770.0,
+          "offer": 750.0,
+          "group": null,
+          "stock": 12.0
         }
       ]
     },
@@ -121993,7 +123659,7 @@
       "slug": "no1-full-cream-milk-powder-500-gram",
       "sku": "ylvgybcO",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1574/no1-full-cream-milk-powder-500g-1200.jpg",
@@ -122313,6 +123979,13 @@
           "offer": 380.0,
           "group": null,
           "stock": 17.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 390.0,
+          "offer": 380.0,
+          "group": null,
+          "stock": 17.0
         }
       ]
     },
@@ -122322,7 +123995,7 @@
       "slug": "no-1-full-cream-milk-powder-1-kg",
       "sku": "xjdtVWvY",
       "category_id": "31",
-      "category": "Dairy & Breakfast",
+      "category": "Eggs & Dairy",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1575/no1-full-cream-milk-powder-1kg-1200.jpg",
@@ -122642,6 +124315,13 @@
           "offer": 750.0,
           "group": 699.0,
           "stock": 6.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 770.0,
+          "offer": 750.0,
+          "group": 699.0,
+          "stock": 6.0
         }
       ]
     },
@@ -122651,7 +124331,7 @@
       "slug": "fresh-atta-2-kg",
       "sku": "E1wJS7Fo",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "2",
       "image": "https://sharedealnow.com/storage/1347/fresh-atta-2kg.jpg",
@@ -122971,6 +124651,13 @@
           "offer": 143.0,
           "group": null,
           "stock": 21.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 150.0,
+          "offer": 143.0,
+          "group": null,
+          "stock": 21.0
         }
       ]
     },
@@ -122980,7 +124667,7 @@
       "slug": "fresh-maida-2-kg",
       "sku": "TeDyeLRl",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
       "volume": "2",
       "image": "https://sharedealnow.com/storage/1346/fresh-maida-2kg.jpg",
@@ -123300,6 +124987,13 @@
           "offer": 175.0,
           "group": null,
           "stock": 22.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 180.0,
+          "offer": 175.0,
+          "group": null,
+          "stock": 22.0
         }
       ]
     },
@@ -123309,7 +125003,7 @@
       "slug": "aci-pure-maida-1-kg",
       "sku": "OAuUFiVP",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1345/aci-pure-maida-1kg.jpg",
@@ -123629,6 +125323,13 @@
           "offer": 74.0,
           "group": null,
           "stock": 4.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 75.0,
+          "offer": 74.0,
+          "group": null,
+          "stock": 4.0
         }
       ]
     },
@@ -123638,7 +125339,7 @@
       "slug": "aci-pure-atta-1-kg",
       "sku": "wgVifQux",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1344/aci-pure-atta-1kg.jpg",
@@ -123954,6 +125655,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 66.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 66.0,
           "offer": 65.0,
           "group": null,
@@ -124343,6 +126051,13 @@
           "offer": 229.0,
           "group": 179.0,
           "stock": 13.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 270.0,
+          "offer": 229.0,
+          "group": 179.0,
+          "stock": 21.0
         }
       ]
     },
@@ -124602,6 +126317,13 @@
           "offer": 300.0,
           "group": 280.0,
           "stock": 13.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 390.0,
+          "offer": 300.0,
+          "group": 280.0,
+          "stock": 21.0
         }
       ]
     },
@@ -124840,6 +126562,13 @@
           "offer": 168.0,
           "group": 139.0,
           "stock": 423.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 170.0,
+          "offer": 168.0,
+          "group": 139.0,
+          "stock": 417.0
         }
       ]
     },
@@ -125025,6 +126754,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 747.0,
+          "offer": 639.0,
+          "group": null,
+          "stock": 85.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 747.0,
           "offer": 639.0,
           "group": null,
@@ -125253,6 +126989,13 @@
           "offer": 1850.0,
           "group": 1700.0,
           "stock": 3.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1900.0,
+          "offer": 1850.0,
+          "group": 1700.0,
+          "stock": 3.0
         }
       ]
     },
@@ -125262,7 +127005,7 @@
       "slug": "khan-premium-miniket-rice-25-kg-bosta",
       "sku": "3yjYy2WX",
       "category_id": "35",
-      "category": "Khan Rice",
+      "category": "Rice",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1438/khan-premium-miniket-25kg.jpg",
@@ -125477,6 +127220,13 @@
           "offer": 1900.0,
           "group": 1750.0,
           "stock": 8.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1950.0,
+          "offer": 1900.0,
+          "group": 1750.0,
+          "stock": 8.0
         }
       ]
     },
@@ -125683,6 +127433,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 2300.0,
+          "offer": 2200.0,
+          "group": 1900.0,
+          "stock": 2.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 2300.0,
           "offer": 2200.0,
           "group": 1900.0,
@@ -125897,6 +127654,13 @@
           "offer": 6970.0,
           "group": null,
           "stock": 6.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 7412.0,
+          "offer": 6970.0,
+          "group": null,
+          "stock": 6.0
         }
       ]
     },
@@ -126103,6 +127867,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 5880.0,
+          "offer": 5565.0,
+          "group": null,
+          "stock": 6.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 5880.0,
           "offer": 5565.0,
           "group": null,
@@ -126317,6 +128088,13 @@
           "offer": 2999.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 3270.0,
+          "offer": 2999.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -126495,6 +128273,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 1010.0,
+          "offer": 960.0,
+          "group": null,
+          "stock": 23.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 1010.0,
           "offer": 960.0,
           "group": null,
@@ -126681,6 +128466,13 @@
           "offer": 470.0,
           "group": null,
           "stock": 23.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 520.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 23.0
         }
       ]
     },
@@ -126859,6 +128651,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 478.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 99.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 478.0,
           "offer": 375.0,
           "group": null,
@@ -127045,6 +128844,13 @@
           "offer": 580.0,
           "group": null,
           "stock": 78.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 695.0,
+          "offer": 580.0,
+          "group": null,
+          "stock": 77.0
         }
       ]
     },
@@ -127054,7 +128860,7 @@
       "slug": "lux-bar-soap-bright-glow-75g",
       "sku": "1F4Oz3VK",
       "category_id": "45",
-      "category": "Beauty & Personal Care",
+      "category": "Personal Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1476/lux-bright-glow-soap-75g-1200.jpg",
@@ -127185,6 +128991,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 55.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -127194,7 +129007,7 @@
       "slug": "ispahani-mirzapore-tea-bags-25-pcs",
       "sku": "GCLQ7NxJ",
       "category_id": "24",
-      "category": "Beverages",
+      "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/682/tea.png",
@@ -127311,6 +129124,13 @@
           "offer": 45.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -127320,7 +129140,7 @@
       "slug": "pepsodent-toothpaste-advanced-salt-70ml",
       "sku": "g96WZYzQ",
       "category_id": "45",
-      "category": "Beauty & Personal Care",
+      "category": "Personal Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1577/Pepsodent-Salt-Toothpaste-Packshot.jpg",
@@ -127356,6 +129176,13 @@
         },
         {
           "date": "2026-10-24",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 90.0,
           "offer": 85.0,
           "group": null,
