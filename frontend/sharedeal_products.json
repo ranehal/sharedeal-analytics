@@ -1,7 +1,7 @@
 {
   "store": "ShareDeal",
   "api_base": "https://sharedealnow.com/api/v1",
-  "captured_at": "2026-10-27",
+  "captured_at": "2026-10-28",
   "categories": [
     {
       "id": 5,
@@ -15,35 +15,35 @@
       "name": "Baby Care",
       "slug": "baby-care",
       "featured": "0",
-      "image": "https://sharedealnow.com/storage/560/beauty-product-still-life_23-2147817672[1].jpg"
+      "image": "https://sharedealnow.com/storage/560/beauty-product-still-life_23-2147817672%5B1%5D.jpg"
     },
     {
       "id": 22,
       "name": "Cleaning & Tissue",
       "slug": "cleaning-tissue",
       "featured": "0",
-      "image": "https://sharedealnow.com/storage/574/home-cleaning[1].png"
+      "image": "https://sharedealnow.com/storage/574/home-cleaning%5B1%5D.png"
     },
     {
       "id": 23,
       "name": "Snacks & Biscuits",
       "slug": "snacks-biscuits",
       "featured": "0",
-      "image": "https://sharedealnow.com/storage/575/snacks[1]"
+      "image": "https://sharedealnow.com/storage/575/snacks%5B1%5D"
     },
     {
       "id": 24,
       "name": "Tea, Coffee & Drinks",
       "slug": "tea-coffee-drinks",
       "featured": "0",
-      "image": "https://sharedealnow.com/storage/576/beverages[1]"
+      "image": "https://sharedealnow.com/storage/576/beverages%5B1%5D"
     },
     {
       "id": 31,
       "name": "Eggs & Dairy",
       "slug": "eggs-dairy",
       "featured": "0",
-      "image": "https://sharedealnow.com/storage/583/breakfast[1]"
+      "image": "https://sharedealnow.com/storage/583/breakfast%5B1%5D"
     },
     {
       "id": 35,
@@ -92,7 +92,7 @@
       "name": "COMBO Offer",
       "slug": "combo-offer",
       "featured": "0",
-      "image": "https://sharedealnow.com/storage/1410/ChatGPT-Image-Sep-30,-2026,-12_49_49-PM.png"
+      "image": "https://sharedealnow.com/storage/1410/ChatGPT-Image-Sep-30%2C-2026%2C-12_49_49-PM.png"
     },
     {
       "id": 44,
@@ -632,6 +632,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -644,7 +651,7 @@
       "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/565/starship-full-cream-milk-powder-500-gm[1]",
+      "image": "https://sharedealnow.com/storage/565/starship-full-cream-milk-powder-500-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -1157,6 +1164,13 @@
           "offer": 370.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 380.0,
+          "offer": 370.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -1608,6 +1622,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 15.0,
+          "offer": 14.0,
+          "group": null,
+          "stock": 1033.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 15.0,
           "offer": 14.0,
           "group": null,
@@ -2137,6 +2158,13 @@
           "offer": 180.0,
           "group": 165.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 180.0,
+          "offer": 180.0,
+          "group": 165.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -2658,6 +2686,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1200.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 100.0,
           "offer": 95.0,
           "group": null,
@@ -3187,6 +3222,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 50.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -3708,6 +3750,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 50.0,
           "offer": 48.0,
           "group": null,
@@ -4237,6 +4286,13 @@
           "offer": 48.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -4758,6 +4814,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 350.0,
+          "offer": 342.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 350.0,
           "offer": 342.0,
           "group": null,
@@ -5287,6 +5350,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -5808,6 +5878,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 20.0,
           "offer": 19.0,
           "group": null,
@@ -6337,6 +6414,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -6862,6 +6946,13 @@
           "offer": 23.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 25.0,
+          "offer": 23.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -6874,7 +6965,7 @@
       "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
-      "image": "https://sharedealnow.com/storage/416/images-(2).jpeg",
+      "image": "https://sharedealnow.com/storage/416/images-%282%29.jpeg",
       "best_selling": "0",
       "history": [
         {
@@ -7383,6 +7474,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 170.0,
+          "offer": 165.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 170.0,
           "offer": 165.0,
           "group": null,
@@ -7912,6 +8010,13 @@
           "offer": 43.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 45.0,
+          "offer": 43.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -7924,7 +8029,7 @@
       "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/414/images-(1).jpeg",
+      "image": "https://sharedealnow.com/storage/414/images-%281%29.jpeg",
       "best_selling": "0",
       "history": [
         {
@@ -8433,6 +8538,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 50.0,
           "offer": 45.0,
           "group": null,
@@ -8962,6 +9074,13 @@
           "offer": 40.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 45.0,
+          "offer": 40.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -9487,6 +9606,13 @@
           "offer": 45.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -9499,7 +9625,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/398/images-(1).jpg",
+      "image": "https://sharedealnow.com/storage/398/images-%281%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -10008,6 +10134,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 160.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 160.0,
           "offer": 145.0,
           "group": null,
@@ -10537,6 +10670,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -11058,6 +11198,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 115.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1005.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 115.0,
           "offer": 95.0,
           "group": null,
@@ -11587,6 +11734,13 @@
           "offer": 81.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 85.0,
+          "offer": 81.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -12108,6 +12262,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 95.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1021.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 95.0,
           "offer": 85.0,
           "group": null,
@@ -12637,6 +12798,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 104.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -13162,6 +13330,13 @@
           "offer": 34.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 38.0,
+          "offer": 34.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -13683,6 +13858,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 75.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 75.0,
           "offer": 65.0,
           "group": null,
@@ -14534,6 +14716,13 @@
           "offer": 52.0,
           "group": 48.0,
           "stock": 1299.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 55.0,
+          "offer": 52.0,
+          "group": 48.0,
+          "stock": 1299.0
         }
       ]
     },
@@ -15055,6 +15244,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 160.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 160.0,
           "offer": 150.0,
           "group": null,
@@ -15584,6 +15780,13 @@
           "offer": 125.0,
           "group": 120.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": 120.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -16109,6 +16312,13 @@
           "offer": 60.0,
           "group": 47.0,
           "stock": 1041.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": 47.0,
+          "stock": 1041.0
         }
       ]
     },
@@ -16578,6 +16788,13 @@
           "offer": 108.0,
           "group": 99.0,
           "stock": 1075.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 115.0,
+          "offer": 108.0,
+          "group": 99.0,
+          "stock": 1075.0
         }
       ]
     },
@@ -16587,7 +16804,7 @@
       "slug": "regular-alu-1-kg",
       "sku": "oAGHBm9E",
       "category_id": "38",
-      "category": "Root Vegetables",
+      "category": "Vegetables",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1022/WhatsApp-Image-2026-08-16-at-3.10.37-PM.jpg",
@@ -17099,6 +17316,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 35.0,
+          "offer": 28.0,
+          "group": 25.0,
+          "stock": 1654.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 35.0,
           "offer": 28.0,
           "group": 25.0,
@@ -17628,6 +17852,13 @@
           "offer": 170.0,
           "group": 139.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 190.0,
+          "offer": 170.0,
+          "group": 139.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -18149,6 +18380,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 400.0,
+          "offer": 399.0,
+          "group": 369.0,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 400.0,
           "offer": 399.0,
           "group": 369.0,
@@ -19224,6 +19462,13 @@
           "offer": 850.0,
           "group": 770.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 900.0,
+          "offer": 850.0,
+          "group": 770.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -19745,6 +19990,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": 99.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 130.0,
           "offer": 125.0,
           "group": 99.0,
@@ -20274,6 +20526,13 @@
           "offer": 250.0,
           "group": 220.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 260.0,
+          "offer": 250.0,
+          "group": 220.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -20328,7 +20587,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/613/NeoCare-Premium-Baby-Diaper-Belt-S-(3-6-kg).png",
+      "image": "https://sharedealnow.com/storage/613/NeoCare-Premium-Baby-Diaper-Belt-S-%283-6-kg%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -20841,6 +21100,13 @@
           "offer": 930.0,
           "group": 880.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1200.0,
+          "offer": 930.0,
+          "group": 880.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -20853,7 +21119,7 @@
       "category": "Dal, Flour & Sugar",
       "unit": "Piece",
       "volume": "2",
-      "image": "https://sharedealnow.com/storage/863/converted-512x512-(14).png",
+      "image": "https://sharedealnow.com/storage/863/converted-512x512-%2814%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -21362,6 +21628,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 140.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 140.0,
           "offer": 120.0,
           "group": null,
@@ -22013,6 +22286,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 720.0,
+          "offer": 710.0,
+          "group": 690.0,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 720.0,
           "offer": 710.0,
           "group": 690.0,
@@ -22682,6 +22962,13 @@
           "offer": 105.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 110.0,
+          "offer": 105.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -23037,7 +23324,7 @@
       "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/792/converted-512x512-(5).png",
+      "image": "https://sharedealnow.com/storage/792/converted-512x512-%285%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -23546,6 +23833,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 130.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1007.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 130.0,
           "offer": 120.0,
           "group": null,
@@ -23562,7 +23856,7 @@
       "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/791/converted-512x512-(4).png",
+      "image": "https://sharedealnow.com/storage/791/converted-512x512-%284%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -24071,6 +24365,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 420.0,
+          "offer": 420.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 420.0,
           "offer": 420.0,
           "group": null,
@@ -24087,7 +24388,7 @@
       "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/790/converted-512x512-(2).png",
+      "image": "https://sharedealnow.com/storage/790/converted-512x512-%282%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -24596,6 +24897,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 140.0,
+          "offer": 140.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 140.0,
           "offer": 140.0,
           "group": null,
@@ -24612,7 +24920,7 @@
       "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/789/converted-512x512-(1).png",
+      "image": "https://sharedealnow.com/storage/789/converted-512x512-%281%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -25121,6 +25429,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 130.0,
+          "offer": 130.0,
+          "group": 115.0,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 130.0,
           "offer": 130.0,
           "group": 115.0,
@@ -25650,6 +25965,13 @@
           "offer": 320.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 320.0,
+          "offer": 320.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -26164,6 +26486,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 260.0,
+          "offer": 255.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 260.0,
           "offer": 255.0,
           "group": null,
@@ -26686,6 +27015,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -27200,6 +27536,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 80.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 80.0,
           "offer": 75.0,
           "group": null,
@@ -27722,6 +28065,13 @@
           "offer": 945.0,
           "group": null,
           "stock": 1027.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 950.0,
+          "offer": 945.0,
+          "group": null,
+          "stock": 1027.0
         }
       ]
     },
@@ -28240,6 +28590,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -28252,7 +28609,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/674/converted-512x512-(1).png",
+      "image": "https://sharedealnow.com/storage/674/converted-512x512-%281%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -28754,6 +29111,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 10.0,
+          "offer": 10.0,
+          "group": null,
+          "stock": 1040.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 10.0,
           "offer": 10.0,
           "group": null,
@@ -28770,7 +29134,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/1432/Nescafé-Classic-Coffee-Sachet-Showcase.jpg",
+      "image": "https://sharedealnow.com/storage/1432/Nescaf%C3%A9-Classic-Coffee-Sachet-Showcase.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -29258,6 +29622,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 5.0,
+          "offer": 5.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 5.0,
           "offer": 5.0,
           "group": null,
@@ -29274,7 +29645,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "95",
-      "image": "https://sharedealnow.com/storage/663/converted-512x512-(3).png",
+      "image": "https://sharedealnow.com/storage/663/converted-512x512-%283%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -29776,6 +30147,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 95.0,
           "offer": 90.0,
           "group": null,
@@ -29792,7 +30170,7 @@
       "category": "Personal Care",
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/662/converted-512x512-(2).png",
+      "image": "https://sharedealnow.com/storage/662/converted-512x512-%282%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -30294,6 +30672,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 380.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 380.0,
           "offer": 375.0,
           "group": null,
@@ -30310,7 +30695,7 @@
       "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "800",
-      "image": "https://sharedealnow.com/storage/661/converted-512x512-(1).png",
+      "image": "https://sharedealnow.com/storage/661/converted-512x512-%281%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -30812,6 +31197,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 620.0,
+          "offer": 615.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 620.0,
           "offer": 615.0,
           "group": null,
@@ -31334,6 +31726,13 @@
           "offer": 225.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -31852,6 +32251,13 @@
           "offer": 150.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 160.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -31864,7 +32270,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/657/converted-512x512-(2).png",
+      "image": "https://sharedealnow.com/storage/657/converted-512x512-%282%29.png",
       "best_selling": "1",
       "history": [
         {
@@ -32366,6 +32772,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 235.0,
+          "offer": 230.0,
+          "group": null,
+          "stock": 1017.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 235.0,
           "offer": 230.0,
           "group": null,
@@ -33238,6 +33651,13 @@
           "offer": 230.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 250.0,
+          "offer": 230.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -33752,6 +34172,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 355.0,
+          "offer": 350.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 355.0,
           "offer": 350.0,
           "group": null,
@@ -34274,6 +34701,13 @@
           "offer": 1390.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1405.0,
+          "offer": 1390.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -34286,7 +34720,7 @@
       "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "500",
-      "image": "https://sharedealnow.com/storage/650/harpic-all-in-one-toilet-bathroom-cleaning-powder-400-gm-(1).jpg",
+      "image": "https://sharedealnow.com/storage/650/harpic-all-in-one-toilet-bathroom-cleaning-powder-400-gm-%281%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -34792,6 +35226,13 @@
           "offer": 100.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 105.0,
+          "offer": 100.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -34804,7 +35245,7 @@
       "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": null,
-      "image": "https://sharedealnow.com/storage/648/66f37b07d757d87bcf4128e0_Godrej-Aer-Power-Pocket-Lavender-Bloom-10gm_1[1].webp",
+      "image": "https://sharedealnow.com/storage/648/66f37b07d757d87bcf4128e0_Godrej-Aer-Power-Pocket-Lavender-Bloom-10gm_1%5B1%5D.webp",
       "best_selling": "0",
       "history": [
         {
@@ -35310,6 +35751,13 @@
           "offer": 72.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 72.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -35322,7 +35770,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "KG",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/646/65fa9389115075f231ec4af2_Nescafe-Classic-Coffee-100gm-Glass-Bottle_1[1].webp",
+      "image": "https://sharedealnow.com/storage/646/65fa9389115075f231ec4af2_Nescafe-Classic-Coffee-100gm-Glass-Bottle_1%5B1%5D.webp",
       "best_selling": "0",
       "history": [
         {
@@ -35824,6 +36272,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 475.0,
+          "offer": 465.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 475.0,
           "offer": 465.0,
           "group": null,
@@ -35840,7 +36295,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "KG",
       "volume": null,
-      "image": "https://sharedealnow.com/storage/645/65fa94b2115075f231ec4dd1_Nescafe-Original-Coffee-230gm-Jar_1[1].webp",
+      "image": "https://sharedealnow.com/storage/645/65fa94b2115075f231ec4dd1_Nescafe-Original-Coffee-230gm-Jar_1%5B1%5D.webp",
       "best_selling": "0",
       "history": [
         {
@@ -36342,6 +36797,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1310.0,
+          "offer": 1250.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1310.0,
           "offer": 1250.0,
           "group": null,
@@ -36864,6 +37326,13 @@
           "offer": 375.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 390.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -37382,6 +37851,13 @@
           "offer": 180.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 190.0,
+          "offer": 180.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -37394,7 +37870,7 @@
       "category": "Cleaning & Tissue",
       "unit": "KG",
       "volume": "500",
-      "image": "https://sharedealnow.com/storage/642/harpic-all-in-1-toilet-bathroom-cleaning-powder-1-kg[1]",
+      "image": "https://sharedealnow.com/storage/642/harpic-all-in-1-toilet-bathroom-cleaning-powder-1-kg%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -37896,6 +38372,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 220.0,
+          "offer": 205.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 220.0,
           "offer": 205.0,
           "group": null,
@@ -38768,6 +39251,13 @@
           "offer": 235.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 245.0,
+          "offer": 235.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -39282,6 +39772,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1019.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 300.0,
           "offer": 245.0,
           "group": null,
@@ -39937,6 +40434,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 60.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -40455,6 +40959,13 @@
           "offer": 335.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 340.0,
+          "offer": 335.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -40467,7 +40978,7 @@
       "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/626/65fa9671d61902ef2307b17f_Doodles-Stick-Noodles-1755gm_1[1].webp",
+      "image": "https://sharedealnow.com/storage/626/65fa9671d61902ef2307b17f_Doodles-Stick-Noodles-1755gm_1%5B1%5D.webp",
       "best_selling": "0",
       "history": [
         {
@@ -40973,6 +41484,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1006.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 25.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -41223,7 +41741,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/616/Neocare-Premium-Belt-System-Baby-Diaper-(3-6-kg)-(30-Pcs).png",
+      "image": "https://sharedealnow.com/storage/616/Neocare-Premium-Belt-System-Baby-Diaper-%283-6-kg%29-%2830-Pcs%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -41725,6 +42243,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 780.0,
+          "offer": 609.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 780.0,
           "offer": 609.0,
           "group": null,
@@ -42247,6 +42772,13 @@
           "offer": 67.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 70.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -42259,7 +42791,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/610/fresh-haleem-mix-200-gm[1]",
+      "image": "https://sharedealnow.com/storage/610/fresh-haleem-mix-200-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -42761,6 +43293,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 80.0,
+          "offer": 77.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 80.0,
           "offer": 77.0,
           "group": null,
@@ -42777,7 +43316,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/609/radhuni-falooda-mix-mango-flavor-250-gm[1]",
+      "image": "https://sharedealnow.com/storage/609/radhuni-falooda-mix-mango-flavor-250-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -43279,6 +43818,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 120.0,
+          "offer": 105.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 120.0,
           "offer": 105.0,
           "group": null,
@@ -43673,7 +44219,7 @@
       "category": "Eggs & Dairy",
       "unit": "Piece",
       "volume": null,
-      "image": "https://sharedealnow.com/storage/603/marks-full-cream-milk-powder-poly-500-gm[1]",
+      "image": "https://sharedealnow.com/storage/603/marks-full-cream-milk-powder-poly-500-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -44175,6 +44721,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 480.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 480.0,
           "offer": 470.0,
           "group": null,
@@ -44191,7 +44744,7 @@
       "category": "Eggs & Dairy",
       "unit": "KG",
       "volume": null,
-      "image": "https://sharedealnow.com/storage/602/dano-daily-pushti-milk-powder-1-kg[1]",
+      "image": "https://sharedealnow.com/storage/602/dano-daily-pushti-milk-powder-1-kg%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -44693,6 +45246,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 770.0,
+          "offer": 760.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 770.0,
           "offer": 760.0,
           "group": null,
@@ -44709,7 +45269,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/598/sajeeb-soya-sauce-300-ml[1]",
+      "image": "https://sharedealnow.com/storage/598/sajeeb-soya-sauce-300-ml%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -45211,6 +45771,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 120.0,
+          "offer": 98.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 120.0,
           "offer": 98.0,
           "group": null,
@@ -46013,6 +46580,13 @@
           "offer": 145.0,
           "group": 99.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 160.0,
+          "offer": 145.0,
+          "group": 99.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -46025,7 +46599,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": null,
-      "image": "https://sharedealnow.com/storage/612/Smart-Care-Wet-Wipes-with-Tube-(220-pcs).png",
+      "image": "https://sharedealnow.com/storage/612/Smart-Care-Wet-Wipes-with-Tube-%28220-pcs%29.png",
       "best_selling": "0",
       "history": [
         {
@@ -46531,6 +47105,13 @@
           "offer": 249.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 300.0,
+          "offer": 249.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -46543,7 +47124,7 @@
       "category": "Oil & Ghee",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/568/fresh-fortified-soyabean-oil-1-ltr[1]",
+      "image": "https://sharedealnow.com/storage/568/fresh-fortified-soyabean-oil-1-ltr%5B1%5D",
       "best_selling": "1",
       "history": [
         {
@@ -47049,6 +47630,13 @@
           "offer": 204.0,
           "group": 201.0,
           "stock": 1058.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 204.0,
+          "offer": 204.0,
+          "group": 201.0,
+          "stock": 1043.0
         }
       ]
     },
@@ -47061,7 +47649,7 @@
       "category": "Tea, Coffee & Drinks",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/566/ispi-orange-instant-powder-drink-500-gm[1]",
+      "image": "https://sharedealnow.com/storage/566/ispi-orange-instant-powder-drink-500-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -47567,6 +48155,13 @@
           "offer": 200.0,
           "group": 180.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 280.0,
+          "offer": 200.0,
+          "group": 180.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -47579,7 +48174,7 @@
       "category": "Rice",
       "unit": "KG",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/564/chinigura-rice-premium-1-kg[1]",
+      "image": "https://sharedealnow.com/storage/564/chinigura-rice-premium-1-kg%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -48081,6 +48676,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 195.0,
+          "offer": 190.0,
+          "group": null,
+          "stock": 1020.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 195.0,
           "offer": 190.0,
           "group": null,
@@ -48645,6 +49247,13 @@
           "offer": 295.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 330.0,
+          "offer": 295.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -49159,6 +49768,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 100.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 100.0,
           "offer": 90.0,
           "group": null,
@@ -49681,6 +50297,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -50199,6 +50822,13 @@
           "offer": 104.0,
           "group": 102.0,
           "stock": 1184.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 105.0,
+          "offer": 104.0,
+          "group": 102.0,
+          "stock": 1171.0
         }
       ]
     },
@@ -50713,6 +51343,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 50.0,
           "offer": 48.0,
           "group": null,
@@ -51235,6 +51872,13 @@
           "offer": 480.0,
           "group": null,
           "stock": 1073.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 490.0,
+          "offer": 480.0,
+          "group": null,
+          "stock": 1073.0
         }
       ]
     },
@@ -51749,6 +52393,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 240.0,
+          "offer": 220.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 240.0,
           "offer": 220.0,
           "group": null,
@@ -52446,6 +53097,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1011.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1011.0
         }
       ]
     },
@@ -52960,6 +53618,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 480.0,
+          "offer": 460.0,
+          "group": null,
+          "stock": 1034.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 480.0,
           "offer": 460.0,
           "group": null,
@@ -53482,6 +54147,13 @@
           "offer": 930.0,
           "group": null,
           "stock": 1012.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 950.0,
+          "offer": 930.0,
+          "group": null,
+          "stock": 1012.0
         }
       ]
     },
@@ -53996,6 +54668,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 155.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1008.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 155.0,
           "offer": 150.0,
           "group": null,
@@ -54518,6 +55197,13 @@
           "offer": 80.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 80.0,
+          "offer": 80.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -54530,7 +55216,7 @@
       "category": "Personal Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/487/images-(7).jpg",
+      "image": "https://sharedealnow.com/storage/487/images-%287%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -55032,6 +55718,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 60.0,
           "offer": 55.0,
           "group": null,
@@ -55554,6 +56247,13 @@
           "offer": 390.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 400.0,
+          "offer": 390.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -55566,7 +56266,7 @@
       "category": "Oil & Ghee",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/501/fresh-fortified-soyabean-oil-5-ltr-(1).jpg",
+      "image": "https://sharedealnow.com/storage/501/fresh-fortified-soyabean-oil-5-ltr-%281%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -56072,6 +56772,13 @@
           "offer": 1000.0,
           "group": 989.0,
           "stock": 1132.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1000.0,
+          "offer": 1000.0,
+          "group": 989.0,
+          "stock": 1131.0
         }
       ]
     },
@@ -56586,6 +57293,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 300.0,
           "offer": 245.0,
           "group": null,
@@ -57108,6 +57822,13 @@
           "offer": 174.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 180.0,
+          "offer": 174.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -57622,6 +58343,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 170.0,
+          "offer": 165.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 170.0,
           "offer": 165.0,
           "group": null,
@@ -58144,6 +58872,13 @@
           "offer": 188.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 190.0,
+          "offer": 188.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -58658,6 +59393,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 790.0,
+          "offer": 770.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 790.0,
           "offer": 770.0,
           "group": null,
@@ -59180,6 +59922,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -59694,6 +60443,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 90.0,
+          "offer": 88.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 90.0,
           "offer": 88.0,
           "group": null,
@@ -60216,6 +60972,13 @@
           "offer": 400.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 420.0,
+          "offer": 400.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -60730,6 +61493,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 130.0,
+          "offer": 121.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 130.0,
           "offer": 121.0,
           "group": null,
@@ -61252,6 +62022,13 @@
           "offer": 81.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 85.0,
+          "offer": 81.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -61264,7 +62041,7 @@
       "category": "Cleaning & Tissue",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/458/images-(2).jpg",
+      "image": "https://sharedealnow.com/storage/458/images-%282%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -61766,6 +62543,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1096.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 100.0,
           "offer": 95.0,
           "group": null,
@@ -62288,6 +63072,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -62802,6 +63593,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 300.0,
           "offer": 245.0,
           "group": null,
@@ -63324,6 +64122,13 @@
           "offer": 42.0,
           "group": null,
           "stock": 1007.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 45.0,
+          "offer": 42.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -63842,6 +64647,13 @@
           "offer": 100.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 100.0,
+          "offer": 100.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -64356,6 +65168,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 105.0,
+          "offer": 94.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 105.0,
           "offer": 94.0,
           "group": null,
@@ -65060,6 +65879,13 @@
           "offer": 270.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 280.0,
+          "offer": 270.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -65574,6 +66400,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 106.0,
+          "offer": 102.0,
+          "group": 92.0,
+          "stock": 1089.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 106.0,
           "offer": 102.0,
           "group": 92.0,
@@ -66096,6 +66929,13 @@
           "offer": 400.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 415.0,
+          "offer": 400.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -66610,6 +67450,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 100.0,
+          "offer": 99.0,
+          "group": 87.0,
+          "stock": 1005.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 100.0,
           "offer": 99.0,
           "group": 87.0,
@@ -67132,6 +67979,13 @@
           "offer": 34.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 35.0,
+          "offer": 34.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -67650,6 +68504,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 23.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -68164,6 +69025,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 65.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 65.0,
           "offer": 65.0,
           "group": null,
@@ -68868,6 +69736,13 @@
           "offer": 70.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -69382,6 +70257,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 250.0,
+          "offer": 240.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 250.0,
           "offer": 240.0,
           "group": null,
@@ -70149,6 +71031,13 @@
           "offer": 189.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 200.0,
+          "offer": 189.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -70663,6 +71552,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 399.0,
+          "offer": 389.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 399.0,
           "offer": 389.0,
           "group": null,
@@ -71185,6 +72081,13 @@
           "offer": 220.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 230.0,
+          "offer": 220.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -71699,6 +72602,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 500.0,
+          "offer": 480.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 500.0,
           "offer": 480.0,
           "group": null,
@@ -72221,6 +73131,13 @@
           "offer": 320.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 330.0,
+          "offer": 320.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -72739,6 +73656,13 @@
           "offer": 305.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 320.0,
+          "offer": 305.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -73253,6 +74177,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 590.0,
+          "offer": 570.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 590.0,
           "offer": 570.0,
           "group": null,
@@ -73950,6 +74881,13 @@
           "offer": 140.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 145.0,
+          "offer": 140.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -74464,6 +75402,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 155.0,
+          "offer": 135.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 155.0,
           "offer": 135.0,
           "group": null,
@@ -74986,6 +75931,13 @@
           "offer": 32.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 35.0,
+          "offer": 32.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -75500,6 +76452,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 25.0,
+          "offer": 25.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 25.0,
           "offer": 25.0,
           "group": null,
@@ -76022,6 +76981,13 @@
           "offer": 39.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 40.0,
+          "offer": 39.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -76034,7 +77000,7 @@
       "category": "Vegetables",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1030/WhatsApp-Image-2026-08-16-at-4.03.36-PM-(1).jpg",
+      "image": "https://sharedealnow.com/storage/1030/WhatsApp-Image-2026-08-16-at-4.03.36-PM-%281%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -76536,6 +77502,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 55.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1004.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 55.0,
           "offer": 50.0,
           "group": null,
@@ -76550,9 +77523,9 @@
       "sku": "TubM6ayh",
       "category_id": "22",
       "category": "Cleaning & Tissue",
-      "unit": "KG",
-      "volume": null,
-      "image": "https://sharedealnow.com/storage/647/67dab5b1ac5a5cedd1d7a954_Wheel-Clean-Fresh-2in1-Detergent-Powder-500gm_2[1].webp",
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/1800/wheel-2in1-clean-fresh-washing-powder-1200.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -77054,6 +78027,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 75.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 75.0,
           "offer": 67.0,
           "group": null,
@@ -77541,6 +78521,13 @@
           "offer": 40.0,
           "group": null,
           "stock": 1009.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 42.0,
+          "offer": 40.0,
+          "group": null,
+          "stock": 1009.0
         }
       ]
     },
@@ -77553,7 +78540,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/589/black-cumin-kalo-jira-100-gm[1]",
+      "image": "https://sharedealnow.com/storage/589/black-cumin-kalo-jira-100-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -78055,6 +79042,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 65.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1012.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 65.0,
           "offer": 55.0,
           "group": null,
@@ -78577,6 +79571,13 @@
           "offer": 58.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 60.0,
+          "offer": 58.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -79091,6 +80092,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 970.0,
+          "offer": 960.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 970.0,
           "offer": 960.0,
           "group": null,
@@ -79613,6 +80621,13 @@
           "offer": 720.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 750.0,
+          "offer": 720.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -80131,6 +81146,13 @@
           "offer": 170.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 175.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -80143,7 +81165,7 @@
       "category": "Rice",
       "unit": "KG",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/592/pran-chinigura-aromatic-rice-1-kg[1]",
+      "image": "https://sharedealnow.com/storage/592/pran-chinigura-aromatic-rice-1-kg%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -80645,6 +81667,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 240.0,
           "offer": 225.0,
           "group": null,
@@ -80661,7 +81690,7 @@
       "category": "Rice",
       "unit": "KG",
       "volume": "0",
-      "image": "https://sharedealnow.com/storage/559/fresh-chinigura-rice-1-kg[1]",
+      "image": "https://sharedealnow.com/storage/559/fresh-chinigura-rice-1-kg%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -81163,6 +82192,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 240.0,
           "offer": 225.0,
           "group": null,
@@ -81685,6 +82721,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -82203,6 +83246,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 20.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -82215,7 +83265,7 @@
       "category": "Snacks & Biscuits",
       "unit": "Piece",
       "volume": null,
-      "image": "https://sharedealnow.com/storage/557/sun-chips-tomato-tango-75-gm[1]",
+      "image": "https://sharedealnow.com/storage/557/sun-chips-tomato-tango-75-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -82717,6 +83767,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 60.0,
           "offer": 55.0,
           "group": null,
@@ -82733,7 +83790,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/593/cinnamon-daruchini-whole-100-gm[1]",
+      "image": "https://sharedealnow.com/storage/593/cinnamon-daruchini-whole-100-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -83235,6 +84292,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 75.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 75.0,
           "offer": 60.0,
           "group": null,
@@ -83251,7 +84315,7 @@
       "category": "Dates, Nuts & Dried Fruits",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/594/raisins-kishmish-100-gm[1]",
+      "image": "https://sharedealnow.com/storage/594/raisins-kishmish-100-gm%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -83753,6 +84817,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 100.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 100.0,
           "offer": 85.0,
           "group": null,
@@ -84271,6 +85342,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 415.0,
+          "offer": 405.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 415.0,
           "offer": 405.0,
           "group": null,
@@ -85241,6 +86319,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -85253,7 +86338,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/554/Dried-Chillies-(Shukna-Morich)-100gm.png",
+      "image": "https://sharedealnow.com/storage/554/Dried-Chillies-%28Shukna-Morich%29-100gm.png",
       "best_selling": "0",
       "history": [
         {
@@ -85755,6 +86840,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 50.0,
+          "offer": 42.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 50.0,
           "offer": 42.0,
           "group": null,
@@ -86277,6 +87369,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -86795,6 +87894,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -86807,7 +87913,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/556/fresh-happy-nappy-pant-diaper-s-4-8-kg-42-pcs[1]",
+      "image": "https://sharedealnow.com/storage/556/fresh-happy-nappy-pant-diaper-s-4-8-kg-42-pcs%5B1%5D",
       "best_selling": "0",
       "history": [
         {
@@ -87309,6 +88415,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 890.0,
+          "offer": 640.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 890.0,
           "offer": 640.0,
           "group": null,
@@ -87831,6 +88944,13 @@
           "offer": 112.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 120.0,
+          "offer": 112.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -88345,6 +89465,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 35.0,
+          "offer": 33.0,
+          "group": null,
+          "stock": 1004.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 35.0,
           "offer": 33.0,
           "group": null,
@@ -88867,6 +89994,13 @@
           "offer": 125.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -88879,7 +90013,7 @@
       "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/551/Moyda-Loose-(খোলা-ময়দা)-1-KG.png",
+      "image": "https://sharedealnow.com/storage/551/Moyda-Loose-%28%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE-%E0%A6%AE%E0%A7%9F%E0%A6%A6%E0%A6%BE%29-1-KG.png",
       "best_selling": "0",
       "history": [
         {
@@ -89381,6 +90515,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 75.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1023.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 75.0,
           "offer": 67.0,
           "group": null,
@@ -89903,6 +91044,13 @@
           "offer": 940.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 950.0,
+          "offer": 940.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -90417,6 +91565,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 480.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 480.0,
           "offer": 470.0,
           "group": null,
@@ -90939,6 +92094,13 @@
           "offer": 128.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 130.0,
+          "offer": 128.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -91453,6 +92615,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 160.0,
+          "offer": 155.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 160.0,
           "offer": 155.0,
           "group": null,
@@ -91975,6 +93144,13 @@
           "offer": 43.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 48.0,
+          "offer": 43.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -92489,6 +93665,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 180.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 180.0,
           "offer": 170.0,
           "group": null,
@@ -93186,6 +94369,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -93700,6 +94890,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 70.0,
+          "offer": 68.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 70.0,
           "offer": 68.0,
           "group": null,
@@ -94222,6 +95419,13 @@
           "offer": 125.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -94736,6 +95940,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 130.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 130.0,
           "offer": 120.0,
           "group": null,
@@ -95258,6 +96469,13 @@
           "offer": 210.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 220.0,
+          "offer": 210.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -95776,6 +96994,13 @@
           "offer": 170.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 180.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -95788,7 +97013,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/549/Cardamom-(Elachi)-50gm.png",
+      "image": "https://sharedealnow.com/storage/549/Cardamom-%28Elachi%29-50gm.png",
       "best_selling": "0",
       "history": [
         {
@@ -96290,6 +97515,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 310.0,
+          "offer": 295.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 310.0,
           "offer": 295.0,
           "group": null,
@@ -96812,6 +98044,13 @@
           "offer": 155.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 160.0,
+          "offer": 155.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -97326,6 +98565,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 75.0,
           "offer": 70.0,
           "group": null,
@@ -97848,6 +99094,13 @@
           "offer": 70.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -98362,6 +99615,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 825.0,
+          "offer": 820.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 825.0,
           "offer": 820.0,
           "group": null,
@@ -98884,6 +100144,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -99398,6 +100665,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 100.0,
           "offer": 95.0,
           "group": null,
@@ -99920,6 +101194,13 @@
           "offer": 195.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 195.0,
+          "offer": 195.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -100434,6 +101715,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 15.0,
+          "offer": 12.0,
+          "group": null,
+          "stock": 1008.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 15.0,
           "offer": 12.0,
           "group": null,
@@ -100956,6 +102244,13 @@
           "offer": 84.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 120.0,
+          "offer": 84.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -101470,6 +102765,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 65.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 65.0,
           "offer": 65.0,
           "group": null,
@@ -101992,6 +103294,13 @@
           "offer": 229.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 230.0,
+          "offer": 229.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -102506,6 +103815,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 950.0,
+          "offer": 938.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 950.0,
           "offer": 938.0,
           "group": null,
@@ -103028,6 +104344,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1024.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1024.0
         }
       ]
     },
@@ -103546,6 +104869,13 @@
           "offer": 330.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 345.0,
+          "offer": 330.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -103558,7 +104888,7 @@
       "category": "Dal, Flour & Sugar",
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/179/images-(29).jpeg",
+      "image": "https://sharedealnow.com/storage/179/images-%2829%29.jpeg",
       "best_selling": "0",
       "history": [
         {
@@ -104060,6 +105390,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 125.0,
+          "offer": 110.0,
+          "group": null,
+          "stock": 1023.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 125.0,
           "offer": 110.0,
           "group": null,
@@ -104076,7 +105413,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/175/images-(21).jpeg",
+      "image": "https://sharedealnow.com/storage/175/images-%2821%29.jpeg",
       "best_selling": "0",
       "history": [
         {
@@ -104582,6 +105919,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 80.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -104594,7 +105938,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/173/images-(19).jpeg",
+      "image": "https://sharedealnow.com/storage/173/images-%2819%29.jpeg",
       "best_selling": "0",
       "history": [
         {
@@ -105100,6 +106444,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 100.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -105112,7 +106463,7 @@
       "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/172/images-(18).jpeg",
+      "image": "https://sharedealnow.com/storage/172/images-%2818%29.jpeg",
       "best_selling": "0",
       "history": [
         {
@@ -105614,6 +106965,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 95.0,
           "offer": 90.0,
           "group": null,
@@ -106136,6 +107494,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -106148,7 +107513,7 @@
       "category": "Vegetables",
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1029/WhatsApp-Image-2026-08-16-at-3.10.36-PM-(2).jpg",
+      "image": "https://sharedealnow.com/storage/1029/WhatsApp-Image-2026-08-16-at-3.10.36-PM-%282%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -106650,6 +108015,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 175.0,
+          "offer": 160.0,
+          "group": null,
+          "stock": 995.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 175.0,
           "offer": 160.0,
           "group": null,
@@ -107168,6 +108540,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 140.0,
+          "offer": 135.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 140.0,
           "offer": 135.0,
           "group": null,
@@ -107900,6 +109279,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -107909,10 +109295,10 @@
       "slug": "saad-tomato-sauce-1000gm",
       "sku": "3Tw6xxFr",
       "category_id": "36",
-      "category": "Saad",
+      "category": "Spices, Salt & Sauces",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1018/WhatsApp-Image-2026-08-16-at-3.10.36-PM-(1).jpg",
+      "image": "https://sharedealnow.com/storage/1018/WhatsApp-Image-2026-08-16-at-3.10.36-PM-%281%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -108323,6 +109709,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 290.0,
+          "offer": 220.0,
+          "group": 189.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 290.0,
           "offer": 220.0,
           "group": 189.0,
@@ -108831,6 +110224,13 @@
           "offer": 125.0,
           "group": 115.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 170.0,
+          "offer": 125.0,
+          "group": 115.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -109324,6 +110724,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1950.0,
+          "offer": 1350.0,
+          "group": 1299.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1950.0,
           "offer": 1350.0,
           "group": 1299.0,
@@ -109825,6 +111232,13 @@
           "offer": 1269.0,
           "group": 1130.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1650.0,
+          "offer": 1269.0,
+          "group": 1130.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -110318,6 +111732,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1450.0,
+          "offer": 1149.0,
+          "group": 990.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1450.0,
           "offer": 1149.0,
           "group": 990.0,
@@ -110819,6 +112240,13 @@
           "offer": 899.0,
           "group": 810.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1200.0,
+          "offer": 899.0,
+          "group": 810.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -111312,6 +112740,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1100.0,
+          "offer": 849.0,
+          "group": 729.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1100.0,
           "offer": 849.0,
           "group": 729.0,
@@ -111813,6 +113248,13 @@
           "offer": 999.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1100.0,
+          "offer": 999.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -112306,6 +113748,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1100.0,
+          "offer": 1049.0,
+          "group": 715.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1100.0,
           "offer": 1049.0,
           "group": 715.0,
@@ -112807,6 +114256,13 @@
           "offer": 899.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1100.0,
+          "offer": 899.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -112819,7 +114275,7 @@
       "category": "Baby & Children Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1047/Max_a_give_me_product_desg-(22).jpg",
+      "image": "https://sharedealnow.com/storage/1047/Max_a_give_me_product_desg-%2822%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -113300,6 +114756,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1100.0,
+          "offer": 899.0,
+          "group": 715.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1100.0,
           "offer": 899.0,
           "group": 715.0,
@@ -113801,6 +115264,13 @@
           "offer": 949.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1100.0,
+          "offer": 949.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -113813,7 +115283,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1045/Max_a_give_me_product_desg-(19).jpg",
+      "image": "https://sharedealnow.com/storage/1045/Max_a_give_me_product_desg-%2819%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -114294,6 +115764,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1200.0,
+          "offer": 799.0,
+          "group": 699.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1200.0,
           "offer": 799.0,
           "group": 699.0,
@@ -114310,7 +115787,7 @@
       "category": "Baby & Children Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1044/Max_a_give_me_product_desg-(17).jpg",
+      "image": "https://sharedealnow.com/storage/1044/Max_a_give_me_product_desg-%2817%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -114791,6 +116268,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 890.0,
+          "offer": 840.0,
+          "group": 650.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 890.0,
           "offer": 840.0,
           "group": 650.0,
@@ -114807,7 +116291,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1043/Max_a_give_me_product_desg-(16).jpg",
+      "image": "https://sharedealnow.com/storage/1043/Max_a_give_me_product_desg-%2816%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -115288,6 +116772,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1200.0,
+          "offer": 929.0,
+          "group": 799.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1200.0,
           "offer": 929.0,
           "group": 799.0,
@@ -115304,7 +116795,7 @@
       "category": "Baby & Children Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1042/Max_a_give_me_product_desg-(15).jpg",
+      "image": "https://sharedealnow.com/storage/1042/Max_a_give_me_product_desg-%2815%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -115785,6 +117276,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 890.0,
+          "offer": 859.0,
+          "group": 650.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 890.0,
           "offer": 859.0,
           "group": 650.0,
@@ -115801,7 +117299,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1041/Max_a_give_me_product_desg-(14).jpg",
+      "image": "https://sharedealnow.com/storage/1041/Max_a_give_me_product_desg-%2814%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -116282,6 +117780,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1200.0,
+          "offer": 999.0,
+          "group": 849.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1200.0,
           "offer": 999.0,
           "group": 849.0,
@@ -116298,7 +117803,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1040/Max_a_give_me_product_desg-(13).jpg",
+      "image": "https://sharedealnow.com/storage/1040/Max_a_give_me_product_desg-%2813%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -116779,6 +118284,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 890.0,
+          "offer": 849.0,
+          "group": 650.0,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 890.0,
           "offer": 849.0,
           "group": 650.0,
@@ -116792,10 +118304,10 @@
       "slug": "savlon-twinkle-baby-pant-diaper-s-up-to-8kg-60-pieces",
       "sku": "R3V3wU3m",
       "category_id": "17",
-      "category": "Baby & Children Care",
+      "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1039/Max_a_give_me_product_desg-(12).jpg",
+      "image": "https://sharedealnow.com/storage/1039/Max_a_give_me_product_desg-%2812%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -117276,6 +118788,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1200.0,
+          "offer": 999.0,
+          "group": 849.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1200.0,
           "offer": 999.0,
           "group": 849.0,
@@ -117292,7 +118811,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1038/Max_a_give_me_product_desg-(11).jpg",
+      "image": "https://sharedealnow.com/storage/1038/Max_a_give_me_product_desg-%2811%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -117773,6 +119292,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 890.0,
+          "offer": 850.0,
+          "group": 779.0,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 890.0,
           "offer": 850.0,
           "group": 779.0,
@@ -117789,7 +119315,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1037/Max_a_give_me_product_desg-(10).jpg",
+      "image": "https://sharedealnow.com/storage/1037/Max_a_give_me_product_desg-%2810%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -118270,6 +119796,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 890.0,
+          "offer": 779.0,
+          "group": 615.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 890.0,
           "offer": 779.0,
           "group": 615.0,
@@ -118286,7 +119819,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1036/Max_a_give_me_product_desg-(5).jpg",
+      "image": "https://sharedealnow.com/storage/1036/Max_a_give_me_product_desg-%285%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -118771,6 +120304,13 @@
           "offer": 810.0,
           "group": 770.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 890.0,
+          "offer": 810.0,
+          "group": 770.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -118783,7 +120323,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1035/Max_a_give_me_product_desg-(3).jpg",
+      "image": "https://sharedealnow.com/storage/1035/Max_a_give_me_product_desg-%283%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -119268,6 +120808,13 @@
           "offer": 949.0,
           "group": 835.0,
           "stock": 1005.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1200.0,
+          "offer": 949.0,
+          "group": 835.0,
+          "stock": 1005.0
         }
       ]
     },
@@ -119280,7 +120827,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1034/Max_a_give_me_product_desg-(2).jpg",
+      "image": "https://sharedealnow.com/storage/1034/Max_a_give_me_product_desg-%282%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -119761,6 +121308,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 890.0,
+          "offer": 779.0,
+          "group": 605.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 890.0,
           "offer": 779.0,
           "group": 605.0,
@@ -119777,7 +121331,7 @@
       "category": "Baby Care",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1033/Max_a_give_me_product_desg-(1).jpg",
+      "image": "https://sharedealnow.com/storage/1033/Max_a_give_me_product_desg-%281%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -120258,6 +121812,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1200.0,
+          "offer": 1049.0,
+          "group": 949.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1200.0,
           "offer": 1049.0,
           "group": 949.0,
@@ -120759,6 +122320,13 @@
           "offer": 699.0,
           "group": 605.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 890.0,
+          "offer": 699.0,
+          "group": 605.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -121228,6 +122796,13 @@
           "offer": 408.0,
           "group": 400.0,
           "stock": 1047.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 408.0,
+          "offer": 408.0,
+          "group": 400.0,
+          "stock": 1047.0
         }
       ]
     },
@@ -121641,6 +123216,13 @@
           "offer": 94.0,
           "group": null,
           "stock": 1135.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 105.0,
+          "offer": 94.0,
+          "group": null,
+          "stock": 1135.0
         }
       ]
     },
@@ -121653,7 +123235,7 @@
       "category": "Saad",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1143/ChatGPT-Image-Sep-1,-2026,-11_01_50-AM.jpg",
+      "image": "https://sharedealnow.com/storage/1143/ChatGPT-Image-Sep-1%2C-2026%2C-11_01_50-AM.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -122047,6 +123629,13 @@
           "offer": 95.0,
           "group": 78.0,
           "stock": 98.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 105.0,
+          "offer": 95.0,
+          "group": 78.0,
+          "stock": 98.0
         }
       ]
     },
@@ -122056,7 +123645,7 @@
       "slug": "premium-atash-rice-by-khan-rice-natore",
       "sku": "hZGqfA4e",
       "category_id": "35",
-      "category": "Khan Rice",
+      "category": "Rice",
       "unit": "KG",
       "volume": "100",
       "image": "https://sharedealnow.com/storage/1348/premium-atash-rice.jpg",
@@ -122453,6 +124042,13 @@
           "offer": 68.0,
           "group": 55.0,
           "stock": 390.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": 62.0,
+          "stock": 394.0
         }
       ]
     },
@@ -122859,6 +124455,13 @@
           "offer": 70.0,
           "group": 59.0,
           "stock": 427.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": 59.0,
+          "stock": 427.0
         }
       ]
     },
@@ -123243,6 +124846,13 @@
           "price": 90.0,
           "offer": 85.0,
           "group": 70.0,
+          "stock": 369.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": 75.0,
           "stock": 369.0
         }
       ]
@@ -123650,6 +125260,13 @@
           "offer": 80.0,
           "group": 65.0,
           "stock": 456.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 85.0,
+          "offer": 80.0,
+          "group": 68.0,
+          "stock": 406.0
         }
       ]
     },
@@ -124055,6 +125672,13 @@
           "price": 90.0,
           "offer": 88.0,
           "group": 74.0,
+          "stock": 325.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": 80.0,
           "stock": 325.0
         }
       ]
@@ -124562,7 +126186,7 @@
       "slug": "fresh-refind-sugar-1-kg",
       "sku": "tl2UmrWQ",
       "category_id": "39",
-      "category": "Grains, Flours & Lentils",
+      "category": "Dal, Flour & Sugar",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1516/fresh-refined-sugar-1kg-1200.jpg",
@@ -124899,6 +126523,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 110.0,
+          "offer": 108.0,
+          "group": 106.0,
+          "stock": 222.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 110.0,
           "offer": 108.0,
           "group": 106.0,
@@ -125253,6 +126884,13 @@
           "offer": 85.0,
           "group": 76.0,
           "stock": 46.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": 76.0,
+          "stock": 46.0
         }
       ]
     },
@@ -125599,6 +127237,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 70.0,
+          "offer": 65.0,
+          "group": 60.0,
+          "stock": 46.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 70.0,
           "offer": 65.0,
           "group": 60.0,
@@ -125953,6 +127598,13 @@
           "offer": 425.0,
           "group": 420.0,
           "stock": 3.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 480.0,
+          "offer": 425.0,
+          "group": 420.0,
+          "stock": 2.0
         }
       ]
     },
@@ -126299,6 +127951,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 950.0,
+          "offer": 899.0,
+          "group": 849.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 950.0,
           "offer": 899.0,
           "group": 849.0,
@@ -126653,6 +128312,13 @@
           "offer": 380.0,
           "group": null,
           "stock": 22.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 390.0,
+          "offer": 380.0,
+          "group": null,
+          "stock": 22.0
         }
       ]
     },
@@ -126999,6 +128665,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 770.0,
+          "offer": 750.0,
+          "group": null,
+          "stock": 12.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 770.0,
           "offer": 750.0,
           "group": null,
@@ -127353,6 +129026,13 @@
           "offer": 380.0,
           "group": null,
           "stock": 17.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 390.0,
+          "offer": 380.0,
+          "group": null,
+          "stock": 17.0
         }
       ]
     },
@@ -127699,6 +129379,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 770.0,
+          "offer": 750.0,
+          "group": 699.0,
+          "stock": 6.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 770.0,
           "offer": 750.0,
           "group": 699.0,
@@ -128053,6 +129740,13 @@
           "offer": 143.0,
           "group": null,
           "stock": 21.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 150.0,
+          "offer": 143.0,
+          "group": null,
+          "stock": 21.0
         }
       ]
     },
@@ -128399,6 +130093,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 180.0,
+          "offer": 175.0,
+          "group": null,
+          "stock": 46.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 180.0,
           "offer": 175.0,
           "group": null,
@@ -128753,6 +130454,13 @@
           "offer": 74.0,
           "group": null,
           "stock": 4.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 75.0,
+          "offer": 74.0,
+          "group": null,
+          "stock": 4.0
         }
       ]
     },
@@ -129103,6 +130811,13 @@
           "offer": 65.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 66.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -129227,7 +130942,7 @@
       "category": "COMBO Offer",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1412/ChatGPT-Image-Sep-30,-2026,-01_51_40-PM.jpg",
+      "image": "https://sharedealnow.com/storage/1412/ChatGPT-Image-Sep-30%2C-2026%2C-01_51_40-PM.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -129509,6 +131224,13 @@
           "offer": 229.0,
           "group": 179.0,
           "stock": 222.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 270.0,
+          "offer": 229.0,
+          "group": 179.0,
+          "stock": 222.0
         }
       ]
     },
@@ -129521,7 +131243,7 @@
       "category": "COMBO Offer",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1413/ChatGPT-Image-Sep-30,-2026,-01_51_40-PM.jpg",
+      "image": "https://sharedealnow.com/storage/1413/ChatGPT-Image-Sep-30%2C-2026%2C-01_51_40-PM.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -129789,6 +131511,13 @@
           "offer": 300.0,
           "group": 280.0,
           "stock": 222.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 390.0,
+          "offer": 300.0,
+          "group": 280.0,
+          "stock": 222.0
         }
       ]
     },
@@ -130048,6 +131777,13 @@
           "offer": 168.0,
           "group": 139.0,
           "stock": 1201.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 170.0,
+          "offer": 168.0,
+          "group": 139.0,
+          "stock": 1199.0
         }
       ]
     },
@@ -130258,16 +131994,23 @@
           "offer": 639.0,
           "group": null,
           "stock": 85.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 747.0,
+          "offer": 639.0,
+          "group": null,
+          "stock": 85.0
         }
       ]
     },
     "545": {
       "id": 545,
-      "name": "Khan Tamim Katari Rice – 25 kg Bosta",
-      "slug": "khan-tamim-katari-rice-25-kg-bosta",
+      "name": "Standard Katari Nazir by Tamim Rice – 25 kg Bosta",
+      "slug": "standard-katari-nazir-by-tamim-rice-25-kg-bosta",
       "sku": "Zc71GhnQ",
       "category_id": "35",
-      "category": "Khan Rice",
+      "category": "Rice",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1366/WhatsApp-Image-2026-09-26-at-6.20.36-PM.jpg",
@@ -130501,6 +132244,13 @@
           "date": "2026-10-27",
           "price": 1900.0,
           "offer": 1850.0,
+          "group": 1700.0,
+          "stock": 3.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1900.0,
+          "offer": 1750.0,
           "group": 1700.0,
           "stock": 3.0
         }
@@ -130748,6 +132498,13 @@
           "offer": 1900.0,
           "group": 1750.0,
           "stock": 8.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2000.0,
+          "offer": 1950.0,
+          "group": 1800.0,
+          "stock": 8.0
         }
       ]
     },
@@ -130979,6 +132736,13 @@
           "offer": 2200.0,
           "group": 1900.0,
           "stock": 2.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2300.0,
+          "offer": 2150.0,
+          "group": 2000.0,
+          "stock": 2.0
         }
       ]
     },
@@ -131206,6 +132970,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 7412.0,
+          "offer": 6970.0,
+          "group": null,
+          "stock": 6.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 7412.0,
           "offer": 6970.0,
           "group": null,
@@ -131441,6 +133212,13 @@
           "offer": 5565.0,
           "group": null,
           "stock": 6.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 5880.0,
+          "offer": 5565.0,
+          "group": null,
+          "stock": 6.0
         }
       ]
     },
@@ -131672,6 +133450,13 @@
           "offer": 2999.0,
           "group": null,
           "stock": 1.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 3270.0,
+          "offer": 2999.0,
+          "group": null,
+          "stock": 1.0
         }
       ]
     },
@@ -131871,6 +133656,13 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1010.0,
+          "offer": 960.0,
+          "group": null,
+          "stock": 23.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1010.0,
           "offer": 960.0,
           "group": null,
@@ -132078,6 +133870,13 @@
           "offer": 470.0,
           "group": null,
           "stock": 23.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 520.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 23.0
         }
       ]
     },
@@ -132090,7 +133889,7 @@
       "category": "Monthly Savings Package",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1421/ShareDeal-Rice,-Potatoes-&-Onions.jpg",
+      "image": "https://sharedealnow.com/storage/1421/ShareDeal-Rice%2C-Potatoes-%26-Onions.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -132281,6 +134080,13 @@
           "offer": 375.0,
           "group": null,
           "stock": 97.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 478.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 98.0
         }
       ]
     },
@@ -132293,7 +134099,7 @@
       "category": "Monthly Savings Package",
       "unit": "Piece",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/1407/ChatGPT-Image-Sep-30,-2026,-12_40_42-PM.jpg",
+      "image": "https://sharedealnow.com/storage/1407/ChatGPT-Image-Sep-30%2C-2026%2C-12_40_42-PM.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -132484,6 +134290,13 @@
           "offer": 580.0,
           "group": null,
           "stock": 73.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 695.0,
+          "offer": 580.0,
+          "group": null,
+          "stock": 73.0
         }
       ]
     },
@@ -132645,6 +134458,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 55.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -132792,6 +134612,13 @@
           "offer": 45.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -132862,6 +134689,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1.0
         }
       ]
     },
@@ -132883,6 +134717,13 @@
           "offer": 620.0,
           "group": 320.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 650.0,
+          "offer": 620.0,
+          "group": 320.0,
+          "stock": 0.0
         }
       ]
     },
@@ -132892,7 +134733,7 @@
       "slug": "smart-voice-control-light",
       "sku": "xhYY8mHB",
       "category_id": "5",
-      "category": null,
+      "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1748/01-main-light3.jpg",
@@ -132900,6 +134741,13 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 600.0,
+          "offer": 550.0,
+          "group": 350.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 600.0,
           "offer": 550.0,
           "group": 350.0,
@@ -132913,7 +134761,7 @@
       "slug": "ss-wall-mounted-router-stand",
       "sku": "CtDzWZkx",
       "category_id": "5",
-      "category": null,
+      "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1751/01-main-Gemini_Generated_Image_9dtr5j9dtr5j9dtr.jpg",
@@ -132921,6 +134769,13 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 990.0,
+          "offer": 850.0,
+          "group": 620.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 990.0,
           "offer": 850.0,
           "group": 620.0,
@@ -132946,6 +134801,13 @@
           "offer": 550.0,
           "group": 320.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 599.0,
+          "offer": 550.0,
+          "group": 320.0,
+          "stock": 0.0
         }
       ]
     },
@@ -132963,6 +134825,13 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 1000.0,
+          "offer": 950.0,
+          "group": 750.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1000.0,
           "offer": 950.0,
           "group": 750.0,
@@ -132988,6 +134857,13 @@
           "offer": 320.0,
           "group": 270.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 350.0,
+          "offer": 320.0,
+          "group": 270.0,
+          "stock": 0.0
         }
       ]
     },
@@ -133005,6 +134881,13 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 900.0,
+          "offer": 850.0,
+          "group": 599.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 900.0,
           "offer": 850.0,
           "group": 599.0,
@@ -133030,6 +134913,13 @@
           "offer": 650.0,
           "group": 460.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 700.0,
+          "offer": 650.0,
+          "group": 460.0,
+          "stock": 0.0
         }
       ]
     },
@@ -133047,6 +134937,13 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 999.0,
+          "offer": 950.0,
+          "group": 699.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 999.0,
           "offer": 950.0,
           "group": 699.0,
@@ -133072,6 +134969,13 @@
           "offer": 1200.0,
           "group": 899.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1250.0,
+          "offer": 1200.0,
+          "group": 899.0,
+          "stock": 0.0
         }
       ]
     },
@@ -133093,6 +134997,13 @@
           "offer": 1300.0,
           "group": 1099.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1400.0,
+          "offer": 1300.0,
+          "group": 1099.0,
+          "stock": 0.0
         }
       ]
     },
@@ -133102,7 +135013,7 @@
       "slug": "food-grinder-0924",
       "sku": "2jpeeAu3",
       "category_id": "5",
-      "category": null,
+      "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1768/01-main-Gemini_Generated_Image_vv0tonvv0tonvv0t.jpg",
@@ -133110,6 +135021,13 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 1250.0,
+          "offer": 1190.0,
+          "group": 799.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1250.0,
           "offer": 1190.0,
           "group": 799.0,
@@ -133135,6 +135053,13 @@
           "offer": 1240.0,
           "group": 899.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1300.0,
+          "offer": 1240.0,
+          "group": 899.0,
+          "stock": 0.0
         }
       ]
     },
@@ -133156,6 +135081,13 @@
           "offer": 850.0,
           "group": 590.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 900.0,
+          "offer": 850.0,
+          "group": 590.0,
+          "stock": 0.0
         }
       ]
     },
@@ -133165,7 +135097,7 @@
       "slug": "electric-doi-yogurt-maker-1l",
       "sku": "7d9wPIhV",
       "category_id": "5",
-      "category": null,
+      "category": "Kitchen & Home",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1735/main-Electric-Doi-Maker-F1.jpg",
@@ -133173,6 +135105,13 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 700.0,
+          "offer": 650.0,
+          "group": 450.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 700.0,
           "offer": 650.0,
           "group": 450.0,
