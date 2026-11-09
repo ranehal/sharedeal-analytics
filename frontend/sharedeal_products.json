@@ -1,7 +1,7 @@
 {
   "store": "ShareDeal",
   "api_base": "https://sharedealnow.com/api/v1",
-  "captured_at": "2026-11-08",
+  "captured_at": "2026-11-09",
   "categories": [
     {
       "id": 5,
@@ -119,6 +119,20 @@
       "id": 47,
       "name": "Sexual Wellness",
       "slug": "sexual-wellness",
+      "featured": "1",
+      "image": ""
+    },
+    {
+      "id": 48,
+      "name": "Home appliances",
+      "slug": "home-appliances",
+      "featured": "1",
+      "image": "https://sharedealnow.com/storage/2018/home-appliances-category-icon_200x200.png"
+    },
+    {
+      "id": 49,
+      "name": "House Essentials",
+      "slug": "house-essentials",
       "featured": "1",
       "image": ""
     }
@@ -726,6 +740,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 150.0,
           "offer": 145.0,
           "group": null,
@@ -1339,6 +1360,13 @@
           "offer": 370.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 380.0,
+          "offer": 370.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -1874,6 +1902,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 15.0,
+          "offer": 14.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 15.0,
           "offer": 14.0,
           "group": null,
@@ -2487,6 +2522,13 @@
           "offer": 180.0,
           "group": 165.0,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 180.0,
+          "offer": 180.0,
+          "group": 165.0,
+          "stock": 1001.0
         }
       ]
     },
@@ -3092,6 +3134,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1200.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 100.0,
           "offer": 95.0,
           "group": null,
@@ -3705,6 +3754,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 50.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -4310,6 +4366,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 50.0,
           "offer": 48.0,
           "group": null,
@@ -4923,6 +4986,13 @@
           "offer": 48.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -5528,6 +5598,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 350.0,
+          "offer": 342.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 350.0,
           "offer": 342.0,
           "group": null,
@@ -6141,6 +6218,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -6746,6 +6830,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 20.0,
           "offer": 19.0,
           "group": null,
@@ -7359,6 +7450,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -7964,6 +8062,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 25.0,
+          "offer": 23.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 25.0,
           "offer": 23.0,
           "group": null,
@@ -8577,6 +8682,13 @@
           "offer": 165.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 170.0,
+          "offer": 165.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -9182,6 +9294,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 45.0,
+          "offer": 43.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 45.0,
           "offer": 43.0,
           "group": null,
@@ -9795,6 +9914,13 @@
           "offer": 45.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -10404,6 +10530,13 @@
           "offer": 40.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 45.0,
+          "offer": 40.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -11009,6 +11142,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 50.0,
           "offer": 45.0,
           "group": null,
@@ -12175,6 +12315,13 @@
           "offer": 19.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 20.0,
+          "offer": 19.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -12780,6 +12927,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 115.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1005.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 115.0,
           "offer": 95.0,
           "group": null,
@@ -13393,6 +13547,13 @@
           "offer": 81.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 85.0,
+          "offer": 81.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -13998,6 +14159,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 95.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1009.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 95.0,
           "offer": 85.0,
           "group": null,
@@ -14611,6 +14779,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 104.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -15216,6 +15391,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 38.0,
+          "offer": 34.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 38.0,
           "offer": 34.0,
           "group": null,
@@ -15829,6 +16011,13 @@
           "offer": 65.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -16760,6 +16949,13 @@
           "offer": 52.0,
           "group": 48.0,
           "stock": 1238.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 55.0,
+          "offer": 52.0,
+          "group": 48.0,
+          "stock": 1242.0
         }
       ]
     },
@@ -17365,6 +17561,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 160.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 160.0,
           "offer": 150.0,
           "group": null,
@@ -17978,6 +18181,13 @@
           "offer": 125.0,
           "group": 120.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": 120.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -18587,6 +18797,13 @@
           "offer": 60.0,
           "group": 47.0,
           "stock": 1040.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": 47.0,
+          "stock": 1040.0
         }
       ]
     },
@@ -19140,6 +19357,13 @@
           "offer": 108.0,
           "group": 99.0,
           "stock": 1092.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 115.0,
+          "offer": 108.0,
+          "group": 99.0,
+          "stock": 1087.0
         }
       ]
     },
@@ -19749,6 +19973,13 @@
           "offer": 28.0,
           "group": 25.0,
           "stock": 1587.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 35.0,
+          "offer": 28.0,
+          "group": 25.0,
+          "stock": 1602.0
         }
       ]
     },
@@ -20925,6 +21156,13 @@
           "offer": 399.0,
           "group": 369.0,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 400.0,
+          "offer": 399.0,
+          "group": 369.0,
+          "stock": 1001.0
         }
       ]
     },
@@ -22080,6 +22318,13 @@
           "offer": 850.0,
           "group": 770.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 900.0,
+          "offer": 850.0,
+          "group": 770.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -22689,6 +22934,13 @@
           "offer": 125.0,
           "group": 99.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": 99.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -23294,6 +23546,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 260.0,
+          "offer": 250.0,
+          "group": 220.0,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 260.0,
           "offer": 250.0,
           "group": 220.0,
@@ -23949,6 +24208,13 @@
           "offer": 930.0,
           "group": 880.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1200.0,
+          "offer": 930.0,
+          "group": 880.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -24554,6 +24820,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 140.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 140.0,
           "offer": 120.0,
           "group": null,
@@ -25289,6 +25562,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 720.0,
+          "offer": 710.0,
+          "group": 690.0,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 720.0,
           "offer": 710.0,
           "group": 690.0,
@@ -26042,6 +26322,13 @@
           "offer": 105.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 110.0,
+          "offer": 105.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -26393,8 +26680,8 @@
       "name": "Matador All-time 24 pcs",
       "slug": "matador-all-time-24-pcs",
       "sku": "tv2svHG0",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/792/converted-512x512-%285%29.png",
@@ -26994,6 +27281,13 @@
           "offer": 120.0,
           "group": null,
           "stock": 1007.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 130.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1007.0
         }
       ]
     },
@@ -27002,8 +27296,8 @@
       "name": "Bashundhara A4 Paper 80 GSM",
       "slug": "bashundhara-a4-paper-80-gsm",
       "sku": "NzHUKWmY",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "0",
       "image": "https://sharedealnow.com/storage/791/converted-512x512-%284%29.png",
@@ -27599,6 +27893,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 420.0,
+          "offer": 420.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 420.0,
           "offer": 420.0,
           "group": null,
@@ -28212,6 +28513,13 @@
           "offer": 140.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 140.0,
+          "offer": 140.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -28817,6 +29125,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 130.0,
+          "offer": 130.0,
+          "group": 115.0,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 130.0,
           "offer": 130.0,
           "group": 115.0,
@@ -29430,6 +29745,13 @@
           "offer": 320.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 320.0,
+          "offer": 320.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -30028,6 +30350,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 260.0,
+          "offer": 255.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 260.0,
           "offer": 255.0,
           "group": null,
@@ -30634,6 +30963,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -31232,6 +31568,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 80.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 80.0,
           "offer": 75.0,
           "group": null,
@@ -31838,6 +32181,13 @@
           "offer": 945.0,
           "group": null,
           "stock": 1027.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 950.0,
+          "offer": 945.0,
+          "group": null,
+          "stock": 1027.0
         }
       ]
     },
@@ -32436,6 +32786,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1004.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 75.0,
           "offer": 75.0,
           "group": null,
@@ -33042,6 +33399,13 @@
           "offer": 10.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 10.0,
+          "offer": 10.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -33626,6 +33990,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 5.0,
+          "offer": 5.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 5.0,
           "offer": 5.0,
           "group": null,
@@ -34232,6 +34603,13 @@
           "offer": 90.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -34830,6 +35208,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 380.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 380.0,
           "offer": 375.0,
           "group": null,
@@ -35436,6 +35821,13 @@
           "offer": 615.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 620.0,
+          "offer": 615.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -36034,6 +36426,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 240.0,
           "offer": 225.0,
           "group": null,
@@ -36640,6 +37039,13 @@
           "offer": 150.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 160.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -37242,6 +37648,13 @@
           "offer": 230.0,
           "group": null,
           "stock": 1025.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 235.0,
+          "offer": 230.0,
+          "group": null,
+          "stock": 1024.0
         }
       ]
     },
@@ -37600,8 +38013,8 @@
       "name": "Clear Scostape 2.5″",
       "slug": "clear-scostape-25",
       "sku": "GPADKWCH",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "500",
       "image": "https://sharedealnow.com/storage/655/converted-512x512.png",
@@ -38190,6 +38603,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 250.0,
+          "offer": 230.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 250.0,
           "offer": 230.0,
           "group": null,
@@ -38796,6 +39216,13 @@
           "offer": 350.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 355.0,
+          "offer": 350.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -39394,6 +39821,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1405.0,
+          "offer": 1390.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1405.0,
           "offer": 1390.0,
           "group": null,
@@ -40000,6 +40434,13 @@
           "offer": 100.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 105.0,
+          "offer": 100.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -40598,6 +41039,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 75.0,
+          "offer": 72.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 75.0,
           "offer": 72.0,
           "group": null,
@@ -41204,6 +41652,13 @@
           "offer": 465.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 475.0,
+          "offer": 465.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -41802,6 +42257,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1310.0,
+          "offer": 1250.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1310.0,
           "offer": 1250.0,
           "group": null,
@@ -42408,6 +42870,13 @@
           "offer": 375.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 390.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -43010,6 +43479,13 @@
           "offer": 180.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 190.0,
+          "offer": 180.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -43608,6 +44084,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 220.0,
+          "offer": 205.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 220.0,
           "offer": 205.0,
           "group": null,
@@ -44564,6 +45047,13 @@
           "offer": 235.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 245.0,
+          "offer": 235.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -45162,6 +45652,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1014.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 300.0,
           "offer": 245.0,
           "group": null,
@@ -45901,6 +46398,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 60.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -46503,6 +47007,13 @@
           "offer": 335.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 340.0,
+          "offer": 335.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -47101,6 +47612,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 25.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1004.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 25.0,
           "offer": 20.0,
           "group": null,
@@ -47945,6 +48463,13 @@
           "offer": 609.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 780.0,
+          "offer": 609.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -48543,6 +49068,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 70.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 70.0,
           "offer": 67.0,
           "group": null,
@@ -49149,6 +49681,13 @@
           "offer": 77.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 80.0,
+          "offer": 77.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -49747,6 +50286,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 120.0,
+          "offer": 105.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 120.0,
           "offer": 105.0,
           "group": null,
@@ -50731,6 +51277,13 @@
           "offer": 470.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 480.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -51333,6 +51886,13 @@
           "offer": 760.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 770.0,
+          "offer": 760.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -51931,6 +52491,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 120.0,
+          "offer": 98.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 120.0,
           "offer": 98.0,
           "group": null,
@@ -53359,6 +53926,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 300.0,
+          "offer": 249.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 300.0,
           "offer": 249.0,
           "group": null,
@@ -55071,6 +55645,13 @@
           "offer": 190.0,
           "group": null,
           "stock": 1045.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 195.0,
+          "offer": 190.0,
+          "group": null,
+          "stock": 1045.0
         }
       ]
     },
@@ -55715,6 +56296,13 @@
           "offer": 295.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 330.0,
+          "offer": 295.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -56313,6 +56901,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 100.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 100.0,
           "offer": 90.0,
           "group": null,
@@ -56919,6 +57514,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -57521,6 +58123,13 @@
           "offer": 102.0,
           "group": null,
           "stock": 1190.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 105.0,
+          "offer": 102.0,
+          "group": null,
+          "stock": 1188.0
         }
       ]
     },
@@ -58119,6 +58728,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 50.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 50.0,
           "offer": 48.0,
           "group": null,
@@ -58725,6 +59341,13 @@
           "offer": 480.0,
           "group": null,
           "stock": 1073.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 490.0,
+          "offer": 480.0,
+          "group": null,
+          "stock": 1073.0
         }
       ]
     },
@@ -59323,6 +59946,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 240.0,
+          "offer": 220.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 240.0,
           "offer": 220.0,
           "group": null,
@@ -60104,6 +60734,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1010.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1010.0
         }
       ]
     },
@@ -60706,6 +61343,13 @@
           "offer": 460.0,
           "group": null,
           "stock": 1034.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 480.0,
+          "offer": 460.0,
+          "group": null,
+          "stock": 1033.0
         }
       ]
     },
@@ -61304,6 +61948,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 950.0,
+          "offer": 930.0,
+          "group": null,
+          "stock": 1012.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 950.0,
           "offer": 930.0,
           "group": null,
@@ -61910,6 +62561,13 @@
           "offer": 150.0,
           "group": null,
           "stock": 1008.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 155.0,
+          "offer": 150.0,
+          "group": null,
+          "stock": 1008.0
         }
       ]
     },
@@ -62508,6 +63166,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 80.0,
+          "offer": 80.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 80.0,
           "offer": 80.0,
           "group": null,
@@ -63114,6 +63779,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -63712,6 +64384,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 400.0,
+          "offer": 390.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 400.0,
           "offer": 390.0,
           "group": null,
@@ -64318,6 +64997,13 @@
           "offer": 989.0,
           "group": null,
           "stock": 1113.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1000.0,
+          "offer": 989.0,
+          "group": null,
+          "stock": 1112.0
         }
       ]
     },
@@ -64916,6 +65602,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 300.0,
           "offer": 245.0,
           "group": null,
@@ -65522,6 +66215,13 @@
           "offer": 174.0,
           "group": null,
           "stock": 1005.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 180.0,
+          "offer": 174.0,
+          "group": null,
+          "stock": 1005.0
         }
       ]
     },
@@ -66120,6 +66820,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 170.0,
+          "offer": 165.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 170.0,
           "offer": 165.0,
           "group": null,
@@ -66726,6 +67433,13 @@
           "offer": 188.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 190.0,
+          "offer": 188.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -67324,6 +68038,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 790.0,
+          "offer": 770.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 790.0,
           "offer": 770.0,
           "group": null,
@@ -67930,6 +68651,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1017.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1017.0
         }
       ]
     },
@@ -68528,6 +69256,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 90.0,
+          "offer": 88.0,
+          "group": null,
+          "stock": 1008.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 90.0,
           "offer": 88.0,
           "group": null,
@@ -69134,6 +69869,13 @@
           "offer": 400.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 420.0,
+          "offer": 400.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -69732,6 +70474,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 130.0,
+          "offer": 121.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 130.0,
           "offer": 121.0,
           "group": null,
@@ -70338,6 +71087,13 @@
           "offer": 81.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 85.0,
+          "offer": 81.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -70936,6 +71692,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1064.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 100.0,
           "offer": 95.0,
           "group": null,
@@ -71542,6 +72305,13 @@
           "offer": 245.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -72140,6 +72910,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 300.0,
+          "offer": 245.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 300.0,
           "offer": 245.0,
           "group": null,
@@ -72746,6 +73523,13 @@
           "offer": 42.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 45.0,
+          "offer": 42.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -73348,6 +74132,13 @@
           "offer": 100.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 100.0,
+          "offer": 100.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -73946,6 +74737,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 105.0,
+          "offer": 94.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 105.0,
           "offer": 94.0,
           "group": null,
@@ -74734,6 +75532,13 @@
           "offer": 270.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 280.0,
+          "offer": 270.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -75332,6 +76137,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 106.0,
+          "offer": 102.0,
+          "group": 92.0,
+          "stock": 1092.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 106.0,
           "offer": 102.0,
           "group": 92.0,
@@ -75938,6 +76750,13 @@
           "offer": 400.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 415.0,
+          "offer": 400.0,
+          "group": null,
+          "stock": 1004.0
         }
       ]
     },
@@ -76536,6 +77355,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 100.0,
+          "offer": 99.0,
+          "group": 87.0,
+          "stock": 1004.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 100.0,
           "offer": 99.0,
           "group": 87.0,
@@ -77142,6 +77968,13 @@
           "offer": 34.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 35.0,
+          "offer": 34.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -77744,6 +78577,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 23.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -78342,6 +79182,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 65.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 65.0,
           "offer": 65.0,
           "group": null,
@@ -79130,6 +79977,13 @@
           "offer": 70.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -79728,6 +80582,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 250.0,
+          "offer": 240.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 250.0,
           "offer": 240.0,
           "group": null,
@@ -80579,6 +81440,13 @@
           "offer": 189.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 200.0,
+          "offer": 189.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -81177,6 +82045,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 399.0,
+          "offer": 389.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 399.0,
           "offer": 389.0,
           "group": null,
@@ -81783,6 +82658,13 @@
           "offer": 220.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 230.0,
+          "offer": 220.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -82381,6 +83263,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 500.0,
+          "offer": 480.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 500.0,
           "offer": 480.0,
           "group": null,
@@ -82987,6 +83876,13 @@
           "offer": 320.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 330.0,
+          "offer": 320.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -83589,6 +84485,13 @@
           "offer": 305.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 320.0,
+          "offer": 305.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -84187,6 +85090,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 590.0,
+          "offer": 570.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 590.0,
           "offer": 570.0,
           "group": null,
@@ -84968,6 +85878,13 @@
           "offer": 140.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 145.0,
+          "offer": 140.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -85566,6 +86483,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 155.0,
+          "offer": 135.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 155.0,
           "offer": 135.0,
           "group": null,
@@ -86172,6 +87096,13 @@
           "offer": 32.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 35.0,
+          "offer": 32.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -86770,6 +87701,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 25.0,
+          "offer": 25.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 25.0,
           "offer": 25.0,
           "group": null,
@@ -87376,6 +88314,13 @@
           "offer": 39.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 40.0,
+          "offer": 39.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -87978,6 +88923,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1004.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 55.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -88580,6 +89532,13 @@
           "offer": 67.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -89143,6 +90102,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 42.0,
+          "offer": 40.0,
+          "group": null,
+          "stock": 1007.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 42.0,
           "offer": 40.0,
           "group": null,
@@ -89749,6 +90715,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1012.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 65.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1012.0
         }
       ]
     },
@@ -90347,6 +91320,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 60.0,
+          "offer": 58.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 60.0,
           "offer": 58.0,
           "group": null,
@@ -90953,6 +91933,13 @@
           "offer": 960.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 970.0,
+          "offer": 960.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -91551,6 +92538,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 750.0,
+          "offer": 720.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 750.0,
           "offer": 720.0,
           "group": null,
@@ -92157,6 +93151,13 @@
           "offer": 170.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 175.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -92755,6 +93756,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 240.0,
           "offer": 225.0,
           "group": null,
@@ -93361,6 +94369,13 @@
           "offer": 225.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 240.0,
+          "offer": 225.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -93959,6 +94974,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 150.0,
           "offer": 145.0,
           "group": null,
@@ -94565,6 +95587,13 @@
           "offer": 20.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 20.0,
+          "offer": 20.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -95163,6 +96192,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 60.0,
           "offer": 55.0,
           "group": null,
@@ -95769,6 +96805,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -96371,6 +97414,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 100.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -96969,6 +98019,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 415.0,
+          "offer": 405.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 415.0,
           "offer": 405.0,
           "group": null,
@@ -98023,6 +99080,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -98621,6 +99685,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 50.0,
+          "offer": 42.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 50.0,
           "offer": 42.0,
           "group": null,
@@ -99227,6 +100298,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -99825,6 +100903,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 75.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 75.0,
           "offer": 75.0,
           "group": null,
@@ -100431,6 +101516,13 @@
           "offer": 640.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 890.0,
+          "offer": 640.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -101029,6 +102121,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 120.0,
+          "offer": 112.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 120.0,
           "offer": 112.0,
           "group": null,
@@ -101635,6 +102734,13 @@
           "offer": 33.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 35.0,
+          "offer": 33.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -102233,6 +103339,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 130.0,
           "offer": 125.0,
           "group": null,
@@ -102839,6 +103952,13 @@
           "offer": 67.0,
           "group": null,
           "stock": 1023.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 67.0,
+          "group": null,
+          "stock": 1023.0
         }
       ]
     },
@@ -103437,6 +104557,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 950.0,
+          "offer": 940.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 950.0,
           "offer": 940.0,
           "group": null,
@@ -104043,6 +105170,13 @@
           "offer": 470.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 480.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -104641,6 +105775,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 130.0,
+          "offer": 128.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 130.0,
           "offer": 128.0,
           "group": null,
@@ -105247,6 +106388,13 @@
           "offer": 155.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 160.0,
+          "offer": 155.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -105849,6 +106997,13 @@
           "offer": 43.0,
           "group": null,
           "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 48.0,
+          "offer": 43.0,
+          "group": null,
+          "stock": 1002.0
         }
       ]
     },
@@ -106447,6 +107602,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 180.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 180.0,
           "offer": 170.0,
           "group": null,
@@ -107228,6 +108390,13 @@
           "offer": 145.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 150.0,
+          "offer": 145.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -107826,6 +108995,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 70.0,
+          "offer": 68.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 70.0,
           "offer": 68.0,
           "group": null,
@@ -108432,6 +109608,13 @@
           "offer": 125.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 130.0,
+          "offer": 125.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -109030,6 +110213,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 130.0,
+          "offer": 120.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 130.0,
           "offer": 120.0,
           "group": null,
@@ -109636,6 +110826,13 @@
           "offer": 210.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 220.0,
+          "offer": 210.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -110234,6 +111431,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 180.0,
+          "offer": 170.0,
+          "group": null,
+          "stock": 1004.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 180.0,
           "offer": 170.0,
           "group": null,
@@ -110840,6 +112044,13 @@
           "offer": 295.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 310.0,
+          "offer": 295.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -111438,6 +112649,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 160.0,
+          "offer": 155.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 160.0,
           "offer": 155.0,
           "group": null,
@@ -112044,6 +113262,13 @@
           "offer": 70.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1001.0
         }
       ]
     },
@@ -112642,6 +113867,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 75.0,
           "offer": 70.0,
           "group": null,
@@ -113248,6 +114480,13 @@
           "offer": 820.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 825.0,
+          "offer": 820.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -113846,6 +115085,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 65.0,
           "offer": 60.0,
           "group": null,
@@ -114452,6 +115698,13 @@
           "offer": 95.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 100.0,
+          "offer": 95.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -115050,6 +116303,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 195.0,
+          "offer": 195.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 195.0,
           "offer": 195.0,
           "group": null,
@@ -115656,6 +116916,13 @@
           "offer": 12.0,
           "group": null,
           "stock": 1011.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 15.0,
+          "offer": 12.0,
+          "group": null,
+          "stock": 1011.0
         }
       ]
     },
@@ -116254,6 +117521,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 120.0,
+          "offer": 84.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 120.0,
           "offer": 84.0,
           "group": null,
@@ -116860,6 +118134,13 @@
           "offer": 65.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 65.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -117462,6 +118743,13 @@
           "offer": 229.0,
           "group": null,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 230.0,
+          "offer": 229.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -118060,6 +119348,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 950.0,
+          "offer": 938.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 950.0,
           "offer": 938.0,
           "group": null,
@@ -118666,6 +119961,13 @@
           "offer": 60.0,
           "group": null,
           "stock": 1023.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 65.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1023.0
         }
       ]
     },
@@ -119264,6 +120566,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 345.0,
+          "offer": 330.0,
+          "group": null,
+          "stock": 1002.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 345.0,
           "offer": 330.0,
           "group": null,
@@ -119870,6 +121179,13 @@
           "offer": 110.0,
           "group": null,
           "stock": 1016.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 125.0,
+          "offer": 110.0,
+          "group": null,
+          "stock": 1015.0
         }
       ]
     },
@@ -120468,6 +121784,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 80.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 80.0,
           "offer": 75.0,
           "group": null,
@@ -121074,6 +122397,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 100.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1000.0
         }
       ]
     },
@@ -121672,6 +123002,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 95.0,
           "offer": 90.0,
           "group": null,
@@ -122278,6 +123615,13 @@
           "offer": 55.0,
           "group": null,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 60.0,
+          "offer": 55.0,
+          "group": null,
+          "stock": 1003.0
         }
       ]
     },
@@ -122880,6 +124224,13 @@
           "offer": 160.0,
           "group": null,
           "stock": 995.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 175.0,
+          "offer": 160.0,
+          "group": null,
+          "stock": 995.0
         }
       ]
     },
@@ -123478,6 +124829,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 140.0,
+          "offer": 135.0,
+          "group": null,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 140.0,
           "offer": 135.0,
           "group": null,
@@ -124290,6 +125648,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 70.0,
+          "offer": 60.0,
+          "group": null,
+          "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 70.0,
           "offer": 60.0,
           "group": null,
@@ -125393,6 +126758,13 @@
           "offer": 125.0,
           "group": 115.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 170.0,
+          "offer": 125.0,
+          "group": 115.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -125970,6 +127342,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1950.0,
+          "offer": 1350.0,
+          "group": 1299.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1950.0,
           "offer": 1350.0,
           "group": 1299.0,
@@ -126555,6 +127934,13 @@
           "offer": 1269.0,
           "group": 1130.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1650.0,
+          "offer": 1269.0,
+          "group": 1130.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -127132,6 +128518,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1450.0,
+          "offer": 1149.0,
+          "group": 990.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1450.0,
           "offer": 1149.0,
           "group": 990.0,
@@ -127717,6 +129110,13 @@
           "offer": 899.0,
           "group": 810.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1200.0,
+          "offer": 899.0,
+          "group": 810.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -128294,6 +129694,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1100.0,
+          "offer": 849.0,
+          "group": 729.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1100.0,
           "offer": 849.0,
           "group": 729.0,
@@ -128879,6 +130286,13 @@
           "offer": 999.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1100.0,
+          "offer": 999.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -129456,6 +130870,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1100.0,
+          "offer": 1049.0,
+          "group": 715.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1100.0,
           "offer": 1049.0,
           "group": 715.0,
@@ -130041,6 +131462,13 @@
           "offer": 899.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1100.0,
+          "offer": 899.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -130618,6 +132046,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1100.0,
+          "offer": 899.0,
+          "group": 715.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1100.0,
           "offer": 899.0,
           "group": 715.0,
@@ -131203,6 +132638,13 @@
           "offer": 949.0,
           "group": 715.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1100.0,
+          "offer": 949.0,
+          "group": 715.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -131780,6 +133222,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1200.0,
+          "offer": 799.0,
+          "group": 699.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1200.0,
           "offer": 799.0,
           "group": 699.0,
@@ -132365,6 +133814,13 @@
           "offer": 840.0,
           "group": 650.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 890.0,
+          "offer": 840.0,
+          "group": 650.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -132942,6 +134398,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1200.0,
+          "offer": 929.0,
+          "group": 799.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1200.0,
           "offer": 929.0,
           "group": 799.0,
@@ -133527,6 +134990,13 @@
           "offer": 859.0,
           "group": 650.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 890.0,
+          "offer": 859.0,
+          "group": 650.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -134104,6 +135574,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1200.0,
+          "offer": 999.0,
+          "group": 849.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1200.0,
           "offer": 999.0,
           "group": 849.0,
@@ -134689,6 +136166,13 @@
           "offer": 849.0,
           "group": 650.0,
           "stock": 1001.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 890.0,
+          "offer": 849.0,
+          "group": 650.0,
+          "stock": 1001.0
         }
       ]
     },
@@ -135266,6 +136750,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1200.0,
+          "offer": 999.0,
+          "group": 849.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1200.0,
           "offer": 999.0,
           "group": 849.0,
@@ -135851,6 +137342,13 @@
           "offer": 850.0,
           "group": 779.0,
           "stock": 1003.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 890.0,
+          "offer": 850.0,
+          "group": 779.0,
+          "stock": 1003.0
         }
       ]
     },
@@ -136428,6 +137926,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 890.0,
+          "offer": 779.0,
+          "group": 615.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 890.0,
           "offer": 779.0,
           "group": 615.0,
@@ -137013,6 +138518,13 @@
           "offer": 810.0,
           "group": 770.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 890.0,
+          "offer": 810.0,
+          "group": 770.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -137590,6 +139102,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1200.0,
+          "offer": 949.0,
+          "group": 835.0,
+          "stock": 1005.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1200.0,
           "offer": 949.0,
           "group": 835.0,
@@ -138175,6 +139694,13 @@
           "offer": 779.0,
           "group": 605.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 890.0,
+          "offer": 779.0,
+          "group": 605.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -138756,6 +140282,13 @@
           "offer": 1049.0,
           "group": 949.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1200.0,
+          "offer": 1049.0,
+          "group": 949.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -139333,6 +140866,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 890.0,
+          "offer": 699.0,
+          "group": 605.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 890.0,
           "offer": 699.0,
           "group": 605.0,
@@ -140345,6 +141885,13 @@
           "offer": 94.0,
           "group": null,
           "stock": 1135.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 105.0,
+          "offer": 94.0,
+          "group": null,
+          "stock": 1135.0
         }
       ]
     },
@@ -140831,6 +142378,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 105.0,
+          "offer": 95.0,
+          "group": 78.0,
+          "stock": 98.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 105.0,
           "offer": 95.0,
           "group": 78.0,
@@ -141325,6 +142879,13 @@
           "offer": 70.0,
           "group": 62.0,
           "stock": 479.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": 62.0,
+          "stock": 479.0
         }
       ]
     },
@@ -141815,6 +143376,13 @@
           "offer": 70.0,
           "group": 59.0,
           "stock": 417.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 70.0,
+          "group": 59.0,
+          "stock": 417.0
         }
       ]
     },
@@ -142284,6 +143852,13 @@
           "offer": 85.0,
           "group": 75.0,
           "stock": 469.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": 75.0,
+          "stock": 464.0
         }
       ]
     },
@@ -142774,6 +144349,13 @@
           "offer": 80.0,
           "group": 68.0,
           "stock": 426.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 85.0,
+          "offer": 80.0,
+          "group": 68.0,
+          "stock": 426.0
         }
       ]
     },
@@ -143260,6 +144842,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 95.0,
+          "offer": 90.0,
+          "group": 80.0,
+          "stock": 585.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 95.0,
           "offer": 90.0,
           "group": 80.0,
@@ -144195,6 +145784,13 @@
           "offer": 108.0,
           "group": 106.0,
           "stock": 210.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 110.0,
+          "offer": 108.0,
+          "group": 106.0,
+          "stock": 207.0
         }
       ]
     },
@@ -144629,6 +146225,13 @@
           "offer": 85.0,
           "group": 76.0,
           "stock": 46.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": 76.0,
+          "stock": 44.0
         }
       ]
     },
@@ -145469,6 +147072,13 @@
           "offer": 445.0,
           "group": 420.0,
           "stock": 2.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 480.0,
+          "offer": 445.0,
+          "group": 420.0,
+          "stock": 2.0
         }
       ]
     },
@@ -145899,6 +147509,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 950.0,
+          "offer": 899.0,
+          "group": 849.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 950.0,
           "offer": 899.0,
           "group": 849.0,
@@ -146337,6 +147954,13 @@
           "offer": 380.0,
           "group": null,
           "stock": 2.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 390.0,
+          "offer": 380.0,
+          "group": null,
+          "stock": 2.0
         }
       ]
     },
@@ -146767,6 +148391,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 770.0,
+          "offer": 750.0,
+          "group": null,
+          "stock": 11.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 770.0,
           "offer": 750.0,
           "group": null,
@@ -147205,6 +148836,13 @@
           "offer": 380.0,
           "group": null,
           "stock": 17.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 390.0,
+          "offer": 380.0,
+          "group": null,
+          "stock": 17.0
         }
       ]
     },
@@ -147635,6 +149273,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 770.0,
+          "offer": 750.0,
+          "group": 699.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 770.0,
           "offer": 750.0,
           "group": 699.0,
@@ -148073,6 +149718,13 @@
           "offer": 143.0,
           "group": null,
           "stock": 19.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 150.0,
+          "offer": 143.0,
+          "group": null,
+          "stock": 19.0
         }
       ]
     },
@@ -148503,6 +150155,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 180.0,
+          "offer": 175.0,
+          "group": null,
+          "stock": 46.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 180.0,
           "offer": 175.0,
           "group": null,
@@ -148941,6 +150600,13 @@
           "offer": 74.0,
           "group": null,
           "stock": 4.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 74.0,
+          "group": null,
+          "stock": 4.0
         }
       ]
     },
@@ -149371,6 +151037,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 66.0,
+          "offer": 65.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 66.0,
           "offer": 65.0,
           "group": null,
@@ -150460,6 +152133,13 @@
           "offer": 168.0,
           "group": 135.0,
           "stock": 1188.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 170.0,
+          "offer": 168.0,
+          "group": 135.0,
+          "stock": 1188.0
         }
       ]
     },
@@ -150750,6 +152430,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 747.0,
+          "offer": 639.0,
+          "group": null,
+          "stock": 83.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 747.0,
           "offer": 639.0,
           "group": null,
@@ -151083,6 +152770,13 @@
           "offer": 1750.0,
           "group": 1700.0,
           "stock": 2.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1900.0,
+          "offer": 1750.0,
+          "group": 1700.0,
+          "stock": 2.0
         }
       ]
     },
@@ -151412,6 +153106,13 @@
           "offer": 1950.0,
           "group": 1800.0,
           "stock": 4.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 2000.0,
+          "offer": 1950.0,
+          "group": 1800.0,
+          "stock": 4.0
         }
       ]
     },
@@ -151723,6 +153424,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 2300.0,
+          "offer": 2150.0,
+          "group": 2000.0,
+          "stock": 4.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 2300.0,
           "offer": 2150.0,
           "group": 2000.0,
@@ -152042,6 +153750,13 @@
           "offer": 6970.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 7412.0,
+          "offer": 6970.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -152353,6 +154068,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 5880.0,
+          "offer": 5565.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 5880.0,
           "offer": 5565.0,
           "group": null,
@@ -152672,6 +154394,13 @@
           "offer": 2999.0,
           "group": null,
           "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 3270.0,
+          "offer": 2999.0,
+          "group": null,
+          "stock": 1.0
         }
       ]
     },
@@ -152959,6 +154688,13 @@
           "offer": 960.0,
           "group": null,
           "stock": 22.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1010.0,
+          "offer": 960.0,
+          "group": null,
+          "stock": 21.0
         }
       ]
     },
@@ -153246,6 +154982,13 @@
           "offer": 470.0,
           "group": null,
           "stock": 22.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 520.0,
+          "offer": 470.0,
+          "group": null,
+          "stock": 21.0
         }
       ]
     },
@@ -153529,6 +155272,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 478.0,
+          "offer": 375.0,
+          "group": null,
+          "stock": 119.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 478.0,
           "offer": 375.0,
           "group": null,
@@ -153820,6 +155570,13 @@
           "offer": 580.0,
           "group": null,
           "stock": 93.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 695.0,
+          "offer": 580.0,
+          "group": null,
+          "stock": 92.0
         }
       ]
     },
@@ -154065,6 +155822,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 55.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 1.0
         }
       ]
     },
@@ -154296,6 +156060,13 @@
           "offer": 45.0,
           "group": null,
           "stock": 1040.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 1040.0
         }
       ]
     },
@@ -154450,6 +156221,13 @@
           "offer": 85.0,
           "group": null,
           "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 90.0,
+          "offer": 85.0,
+          "group": null,
+          "stock": 1.0
         }
       ]
     },
@@ -154458,8 +156236,8 @@
       "name": "Kitchen Wall Shelf",
       "slug": "kitchen-wall-shelf",
       "sku": "TSROtf06",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1745/01-main-Kitchen-Wall-Shelf2.jpg",
@@ -154555,6 +156333,13 @@
           "offer": 620.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 650.0,
+          "offer": 620.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -154563,8 +156348,8 @@
       "name": "Smart voice control light",
       "slug": "smart-voice-control-light",
       "sku": "xhYY8mHB",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1748/01-main-light3.jpg",
@@ -154660,6 +156445,13 @@
           "offer": 550.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 600.0,
+          "offer": 550.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -154668,8 +156460,8 @@
       "name": "SS Wall Mounted Router Stand",
       "slug": "ss-wall-mounted-router-stand",
       "sku": "CtDzWZkx",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1751/01-main-Gemini_Generated_Image_9dtr5j9dtr5j9dtr.jpg",
@@ -154765,6 +156557,13 @@
           "offer": 850.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 990.0,
+          "offer": 850.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -154773,8 +156572,8 @@
       "name": "Over The Door 19-Hook Hanger",
       "slug": "over-the-door-19-hook-hanger",
       "sku": "dhpNLLVR",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1753/01-main-Gemini_Generated_Image_i082nji082nji082.jpg",
@@ -154870,6 +156669,13 @@
           "offer": 550.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 599.0,
+          "offer": 550.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -154878,8 +156684,8 @@
       "name": "4 Tiers Rectangular Storage Rack",
       "slug": "4-tiers-rectangular-storage-rack",
       "sku": "KkDEU3Vh",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1757/01-main-4-tire-kitchen-storage-rack6.jpg",
@@ -154975,6 +156781,13 @@
           "offer": 950.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1000.0,
+          "offer": 950.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -154983,8 +156796,8 @@
       "name": "34 Grid Egg Storage Box",
       "slug": "34-grid-egg-storage-box",
       "sku": "PUlOsOLV",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1785/01-main-Storage-Box-F2.jpg",
@@ -155080,6 +156893,13 @@
           "offer": 320.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 350.0,
+          "offer": 320.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155088,8 +156908,8 @@
       "name": "Iron Spice Rack",
       "slug": "iron-spice-rack",
       "sku": "pK3CWoVW",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1781/01-main-Kitchen-Rack-3.jpg",
@@ -155185,6 +157005,13 @@
           "offer": 850.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 900.0,
+          "offer": 850.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155193,8 +157020,8 @@
       "name": "5 Layer Food Safety Cover",
       "slug": "5-layer-food-safety-cover",
       "sku": "mdzyAId1",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1776/01-main-ety-Cover11-01.jpg",
@@ -155290,6 +157117,13 @@
           "offer": 650.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 700.0,
+          "offer": 650.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155298,8 +157132,8 @@
       "name": "AP Lunch Box - 2 Layer",
       "slug": "ap-lunch-box-2-layer",
       "sku": "H5QkcGxJ",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1760/01-main-WhatsApp-Image-2026-01-12-at-6.50.20-PM.jpg",
@@ -155395,6 +157229,13 @@
           "offer": 950.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 999.0,
+          "offer": 950.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155403,8 +157244,8 @@
       "name": "AP Lunch Box - 3 Layer",
       "slug": "ap-lunch-box-3-layer",
       "sku": "6qv6qMp2",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1761/01-main-Gemini_Generated_Image_s0f6h1s0f6h1s0f6.jpg",
@@ -155500,6 +157341,13 @@
           "offer": 1200.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1250.0,
+          "offer": 1200.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155508,8 +157356,8 @@
       "name": "AP Lunch Box – 4 Layer",
       "slug": "ap-lunch-box-4-layer",
       "sku": "QILHbLXb",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1764/01-main-Gemini_Generated_Image_svg6wxsvg6wxsvg6.jpg",
@@ -155605,6 +157453,13 @@
           "offer": 1300.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1400.0,
+          "offer": 1300.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155613,8 +157468,8 @@
       "name": "Food Grinder -0924",
       "slug": "food-grinder-0924",
       "sku": "2jpeeAu3",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1768/01-main-Gemini_Generated_Image_vv0tonvv0tonvv0t.jpg",
@@ -155710,6 +157565,13 @@
           "offer": 1190.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1250.0,
+          "offer": 1190.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155718,8 +157580,8 @@
       "name": "Food Grinder-925 [1850w]",
       "slug": "food-grinder-925-1850w",
       "sku": "gR2O9W6j",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1770/01-main-Gemini_Generated_Image_y7bpcty7bpcty7bp.jpg",
@@ -155815,6 +157677,13 @@
           "offer": 1240.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1300.0,
+          "offer": 1240.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155823,8 +157692,8 @@
       "name": "Autamatic Yogurt Maker 1.7L",
       "slug": "autamatic-yogurt-maker-17l",
       "sku": "594XxFDu",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1791/Gemini_Generated_Image_p9qxv3p9qxv3p9qx.jpg",
@@ -155920,6 +157789,13 @@
           "offer": 850.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 900.0,
+          "offer": 850.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -155928,8 +157804,8 @@
       "name": "Electric Doi (Yogurt) Maker 1L",
       "slug": "electric-doi-yogurt-maker-1l",
       "sku": "7d9wPIhV",
-      "category_id": "5",
-      "category": "Kitchen & Home",
+      "category_id": "49",
+      "category": "House Essentials",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1735/main-Electric-Doi-Maker-F1.jpg",
@@ -156025,6 +157901,13 @@
           "offer": 650.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 700.0,
+          "offer": 650.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -156091,6 +157974,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 750.0,
+          "offer": 700.0,
+          "group": 670.0,
+          "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 750.0,
           "offer": 700.0,
           "group": 670.0,
@@ -156165,6 +158055,13 @@
           "offer": 350.0,
           "group": 320.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 360.0,
+          "offer": 350.0,
+          "group": 320.0,
+          "stock": 0.0
         }
       ]
     },
@@ -156231,6 +158128,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 550.0,
+          "offer": 530.0,
+          "group": 500.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 550.0,
           "offer": 530.0,
           "group": 500.0,
@@ -156305,6 +158209,13 @@
           "offer": 480.0,
           "group": 450.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 550.0,
+          "offer": 480.0,
+          "group": 450.0,
+          "stock": 0.0
         }
       ]
     },
@@ -156375,6 +158286,13 @@
           "offer": 560.0,
           "group": 530.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 600.0,
+          "offer": 560.0,
+          "group": 530.0,
+          "stock": 0.0
         }
       ]
     },
@@ -156441,6 +158359,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 500.0,
+          "offer": 480.0,
+          "group": 450.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 500.0,
           "offer": 480.0,
           "group": 450.0,
@@ -156557,6 +158482,13 @@
           "offer": 400.0,
           "group": 370.0,
           "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 420.0,
+          "offer": 400.0,
+          "group": 370.0,
+          "stock": 1.0
         }
       ]
     },
@@ -156623,6 +158555,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 420.0,
+          "offer": 400.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 420.0,
           "offer": 400.0,
           "group": null,
@@ -156697,6 +158636,13 @@
           "offer": 340.0,
           "group": 310.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 360.0,
+          "offer": 340.0,
+          "group": 310.0,
+          "stock": 0.0
         }
       ]
     },
@@ -156767,6 +158713,13 @@
           "offer": 370.0,
           "group": 250.0,
           "stock": 9.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 380.0,
+          "offer": 370.0,
+          "group": 250.0,
+          "stock": 8.0
         }
       ]
     },
@@ -156837,6 +158790,13 @@
           "offer": 340.0,
           "group": 310.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 360.0,
+          "offer": 340.0,
+          "group": 310.0,
+          "stock": 0.0
         }
       ]
     },
@@ -156896,6 +158856,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 180.0,
+          "offer": 158.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 180.0,
           "offer": 158.0,
           "group": null,
@@ -156963,6 +158930,13 @@
           "offer": 154.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 180.0,
+          "offer": 154.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -157022,6 +158996,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 160.0,
+          "offer": 137.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 160.0,
           "offer": 137.0,
           "group": null,
@@ -157089,6 +159070,13 @@
           "offer": 75.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 85.0,
+          "offer": 75.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -157148,6 +159136,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 190.0,
+          "offer": 185.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 190.0,
           "offer": 185.0,
           "group": null,
@@ -157215,6 +159210,13 @@
           "offer": 400.0,
           "group": 370.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 420.0,
+          "offer": 400.0,
+          "group": 370.0,
+          "stock": 0.0
         }
       ]
     },
@@ -157274,6 +159276,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 900.0,
+          "offer": 800.0,
+          "group": 750.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 900.0,
           "offer": 800.0,
           "group": 750.0,
@@ -157341,6 +159350,13 @@
           "offer": 1000.0,
           "group": 950.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1100.0,
+          "offer": 1000.0,
+          "group": 950.0,
+          "stock": 0.0
         }
       ]
     },
@@ -157400,6 +159416,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1100.0,
+          "offer": 1000.0,
+          "group": 950.0,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1100.0,
           "offer": 1000.0,
           "group": 950.0,
@@ -157467,6 +159490,13 @@
           "offer": 350.0,
           "group": 320.0,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 360.0,
+          "offer": 350.0,
+          "group": 320.0,
+          "stock": 0.0
         }
       ]
     },
@@ -157526,6 +159556,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1600.0,
+          "offer": 1500.0,
+          "group": 1450.0,
+          "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1600.0,
           "offer": 1500.0,
           "group": 1450.0,
@@ -157593,6 +159630,13 @@
           "offer": 1150.0,
           "group": 1100.0,
           "stock": 1000.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1200.0,
+          "offer": 1150.0,
+          "group": 1100.0,
+          "stock": 1000.0
         }
       ]
     },
@@ -157645,6 +159689,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 25.0,
+          "offer": 21.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 25.0,
           "offer": 21.0,
           "group": null,
@@ -157705,6 +159756,13 @@
           "offer": 54.0,
           "group": null,
           "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 60.0,
+          "offer": 54.0,
+          "group": null,
+          "stock": 1.0
         }
       ]
     },
@@ -157757,6 +159815,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 55.0,
+          "offer": 48.0,
+          "group": null,
+          "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 55.0,
           "offer": 48.0,
           "group": null,
@@ -157817,6 +159882,13 @@
           "offer": 40.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 45.0,
+          "offer": 40.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -157869,6 +159941,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 50.0,
           "offer": 45.0,
           "group": null,
@@ -157929,6 +160008,13 @@
           "offer": 58.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 65.0,
+          "offer": 58.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -157981,6 +160067,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 130.0,
+          "offer": 117.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 130.0,
           "offer": 117.0,
           "group": null,
@@ -158041,6 +160134,13 @@
           "offer": 44.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 50.0,
+          "offer": 44.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158093,6 +160193,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 50.0,
           "offer": 45.0,
           "group": null,
@@ -158153,6 +160260,13 @@
           "offer": 76.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 85.0,
+          "offer": 76.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158205,6 +160319,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 85.0,
+          "offer": 76.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 85.0,
           "offer": 76.0,
           "group": null,
@@ -158265,6 +160386,13 @@
           "offer": 44.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 50.0,
+          "offer": 44.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158317,6 +160445,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 20.0,
+          "offer": 18.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 20.0,
           "offer": 18.0,
           "group": null,
@@ -158377,6 +160512,13 @@
           "offer": 22.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 25.0,
+          "offer": 22.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158429,6 +160571,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 25.0,
+          "offer": 22.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 25.0,
           "offer": 22.0,
           "group": null,
@@ -158489,6 +160638,13 @@
           "offer": 18.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 20.0,
+          "offer": 18.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158541,6 +160697,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 160.0,
+          "offer": 144.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 160.0,
           "offer": 144.0,
           "group": null,
@@ -158601,6 +160764,13 @@
           "offer": 351.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 390.0,
+          "offer": 351.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158653,6 +160823,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 330.0,
+          "offer": 297.0,
+          "group": null,
+          "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 330.0,
           "offer": 297.0,
           "group": null,
@@ -158713,6 +160890,13 @@
           "offer": 202.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 225.0,
+          "offer": 202.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158765,6 +160949,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 350.0,
+          "offer": 315.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 350.0,
           "offer": 315.0,
           "group": null,
@@ -158825,6 +161016,13 @@
           "offer": 531.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 590.0,
+          "offer": 531.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158877,6 +161075,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 590.0,
+          "offer": 531.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 590.0,
           "offer": 531.0,
           "group": null,
@@ -158937,6 +161142,13 @@
           "offer": 63.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 70.0,
+          "offer": 63.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -158989,6 +161201,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 150.0,
+          "offer": 135.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 150.0,
           "offer": 135.0,
           "group": null,
@@ -159049,6 +161268,13 @@
           "offer": 21.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 25.0,
+          "offer": 21.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -159101,6 +161327,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 50.0,
+          "offer": 45.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 50.0,
           "offer": 45.0,
           "group": null,
@@ -159161,6 +161394,13 @@
           "offer": 104.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 115.0,
+          "offer": 104.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -159213,6 +161453,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 300.0,
+          "offer": 268.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 300.0,
           "offer": 268.0,
           "group": null,
@@ -159273,6 +161520,13 @@
           "offer": 270.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 300.0,
+          "offer": 270.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -159325,6 +161579,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 300.0,
+          "offer": 270.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 300.0,
           "offer": 270.0,
           "group": null,
@@ -159385,6 +161646,13 @@
           "offer": 104.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 115.0,
+          "offer": 104.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -159437,6 +161705,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 115.0,
+          "offer": 105.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 115.0,
           "offer": 105.0,
           "group": null,
@@ -159497,6 +161772,13 @@
           "offer": 50.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 55.0,
+          "offer": 50.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -159549,6 +161831,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 100.0,
+          "offer": 90.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 100.0,
           "offer": 90.0,
           "group": null,
@@ -159609,6 +161898,13 @@
           "offer": 68.0,
           "group": null,
           "stock": 1.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 75.0,
+          "offer": 68.0,
+          "group": null,
+          "stock": 1.0
         }
       ]
     },
@@ -159661,6 +161957,13 @@
         },
         {
           "date": "2026-11-08",
+          "price": 175.0,
+          "offer": 158.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 175.0,
           "offer": 158.0,
           "group": null,
@@ -159721,6 +162024,13 @@
           "offer": 86.0,
           "group": null,
           "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 95.0,
+          "offer": 86.0,
+          "group": null,
+          "stock": 0.0
         }
       ]
     },
@@ -159738,6 +162048,13 @@
       "history": [
         {
           "date": "2026-11-08",
+          "price": 260.0,
+          "offer": 230.0,
+          "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 260.0,
           "offer": 230.0,
           "group": null,
@@ -159762,6 +162079,160 @@
           "price": 680.0,
           "offer": 650.0,
           "group": null,
+          "stock": 0.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 680.0,
+          "offer": 650.0,
+          "group": null,
+          "stock": 0.0
+        }
+      ]
+    },
+    "641": {
+      "id": 641,
+      "name": "PHILIPS HD4994 2000W Induction Cooktop Push Button",
+      "slug": "philips-hd4994-2000w-induction-cooktop-push-button",
+      "sku": "IguLvJrB",
+      "category_id": "48",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/2017/induction-3_1000x1000.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "price": 9100.0,
+          "offer": 8840.0,
+          "group": 7140.0,
+          "stock": 0.0
+        }
+      ]
+    },
+    "640": {
+      "id": 640,
+      "name": "Philips HD4938 2100-Watt Glass Induction Cooktop",
+      "slug": "philips-hd4938-2100-watt-glass-induction-cooktop",
+      "sku": "wdDYp8C8",
+      "category_id": "48",
+      "category": "Home appliances",
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/2016/induction-2_1000x1000.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "price": 11900.0,
+          "offer": 11340.0,
+          "group": 8820.0,
+          "stock": 0.0
+        }
+      ]
+    },
+    "639": {
+      "id": 639,
+      "name": "Philips HD4929 Induction Cooker with Auto-Off Function",
+      "slug": "philips-hd4929-induction-cooker-with-auto-off-function",
+      "sku": "Izp62J11",
+      "category_id": "48",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/2015/induction-1_1000x1000.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "price": 9900.0,
+          "offer": 9452.0,
+          "group": 7140.0,
+          "stock": 0.0
+        }
+      ]
+    },
+    "638": {
+      "id": 638,
+      "name": "Phillips HL7704/00 black 1000 Juicer Mixer Grinder (4 Jars, Black)",
+      "slug": "phillips-hl770400-black-1000-juicer-mixer-grinder-4-jars-black",
+      "sku": "gw2OnVPJ",
+      "category_id": "48",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/2014/mixer-grinder-1_1000x1000.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "price": 17500.0,
+          "offer": 16124.0,
+          "group": 12180.0,
+          "stock": 0.0
+        }
+      ]
+    },
+    "637": {
+      "id": 637,
+      "name": "Philips HL7773/01 Mixer Grinder 800W | 3 Stainless Steel Jars",
+      "slug": "philips-hl777301-mixer-grinder-800w-3-stainless-steel-jars",
+      "sku": "BfXWMXWV",
+      "category_id": "48",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/2013/mixer-grinder-2_1000x1000.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "price": 11850.0,
+          "offer": 10575.0,
+          "group": 7399.0,
+          "stock": 0.0
+        }
+      ]
+    },
+    "636": {
+      "id": 636,
+      "name": "Philips 4.2L Air Fryer (NA120/00)",
+      "slug": "philips-42l-air-fryer-na12000",
+      "sku": "K8oh8MKD",
+      "category_id": "48",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/2012/air-fryer-1_1000x1000.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "price": 13900.0,
+          "offer": 12580.0,
+          "group": 7140.0,
+          "stock": 0.0
+        }
+      ]
+    },
+    "635": {
+      "id": 635,
+      "name": "Philips NA231 Air Fryer 6.2L XL 1700W with Rapid Air Technology",
+      "slug": "philips-na231-air-fryer-62l-xl-1700w-with-rapid-air-technology",
+      "sku": "98t3jkSc",
+      "category_id": "48",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/2011/NA231.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "price": 15500.0,
+          "offer": 15120.0,
+          "group": 11760.0,
           "stock": 0.0
         }
       ]
